@@ -49,11 +49,13 @@ def main():
         eachgrammar.append(new)
     # print(eachgrammar)
     input_string = input("Enter the input string you want to parse: ")
-    reverse_string = "".join(reversed(input_string))
+    # For checking reverse of the input string can be parsed or not
+    # reverse_string = "".join(reversed(input_string))
     # print(reverse_string)
     stack = ""
     print("Stack ------- Input Buffer")
-    shift_reducer(reverse_string, eachgrammar, eachgrammar[0][0], stack)
+    # shift_reducer(reverse_string, eachgrammar, eachgrammar[0][0], stack)
+    shift_reducer(input_string, eachgrammar, eachgrammar[0][0], stack)
 
 
 if __name__ == "__main__":
