@@ -30,7 +30,6 @@ int count( int S[], int m, int n )
 // Driver program to test above function 
 int main() 
 { 
-	int i, j; 
 	int arr[] = {1, 2, 3}; 
 	int m = sizeof(arr)/sizeof(arr[0]); 
 	printf("%d ", count(arr, m, 4)); 
