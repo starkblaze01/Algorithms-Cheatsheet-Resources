@@ -1,6 +1,6 @@
 #include<iostream>
 #include<list>
-using namespce std;
+using namespace std;
 class Graph
 {
   int V;
@@ -10,7 +10,7 @@ public:
   Graph(int v);
   void addEdge(int v,int w);
   void DFS(int v);
-}
+};
 Graph::Graph(int V)
 {
   this->V=V;
