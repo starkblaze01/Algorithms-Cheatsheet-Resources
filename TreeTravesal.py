@@ -24,27 +24,24 @@ class Tree:
 
 	def inorder(root):
 		if(root==None):
-			return
+			return ""
 		else:
-			Tree.inorder(root.left)
-			print(root.key)
-			Tree.inorder(root.right)
+			return str(Tree.inorder(root.left)) +" "+ str(root.key) +" "+ str(Tree.inorder(root.right))
+
 
 	def preorder(root):
 		if(root==None):
-			return
+			return ""
 		else:
-			print(root.key)
-			Tree.preorder(root.left)
-			Tree.preorder(root.right)
+			return str(root.key) +" "+ str(Tree.preorder(root.left)) +" "+ str(Tree.preorder(root.right))
+
 
 	def postorder(root):
 		if(root==None):
-			return
+			return ""
 		else:
-			Tree.postorder(root.left)
-			Tree.postorder(root.right)
-			print(root.key)
+			return str(Tree.postorder(root.left)) +" "+ str(Tree.postorder(root.right)) +" "+ str(root.key)
+
 
 
 
@@ -53,9 +50,9 @@ treeRoot=Node(array[0])
 for i in range(1,len(array)):
 	treeRoot=Tree.insertNode(treeRoot,array[i])
 
-Tree.inorder(treeRoot)
-Tree.preorder(treeRoot)
-Tree.postorder(treeRoot)
+print("Inorder:", Tree.inorder(treeRoot))
+print("Preorder:", Tree.preorder(treeRoot))
+print("Postorder:", Tree.postorder(treeRoot))
 
 
 
