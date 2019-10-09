@@ -69,13 +69,13 @@ class LinkedList:
     def search(self, value):
         temp = self.head
         position = 1
+        c = 0
         if temp.data == value:
             print(position)
             
         while temp.next != None:
             temp = temp.next
             position = position+1
-            c = 0
             if temp.data == value:
                 c = c+1
                 print(position)
@@ -89,7 +89,7 @@ print("4.To delete from start, 5.To delete from between, 6. To delete from end."
 print("7.To View Linkedlist, 8. Search a value's position, 9.To view and exit.")
 
 while(1):
-    K = int(input())
+    K = int(input("Choose an option between 1 to 9 : "))
     print()
     if K==1:
         print("Enter the value to append")
@@ -133,4 +133,4 @@ while(1):
         break
     
     else:
-        print("Choose a number between 1 to 8 moron \n")
+        print("Not a valid input! Choose a number between 1 to 9.\n")
