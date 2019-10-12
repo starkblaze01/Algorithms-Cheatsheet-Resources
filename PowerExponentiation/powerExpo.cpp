@@ -1,29 +1,21 @@
-/****************************************************
+/*****************************************************
 
 @author: vichitr
-Compiled On: 9th Oct 2019
+Compiled On: 12th Oct 2019
 
-****************************************************/
+*****************************************************/
 #include<bits/stdc++.h>
 #define MAX 9223372036854775807
 #define endl "\n"
-#define ll long long 
-// #define int unsigned long long 
+#define ll long long
+#define int long long
 
-#define double long double
-#define pb push_back
-#define pf pop_front
-#define mp make_pair
-#define pii pair<int, int>
-
-#define loop(i,n) for(int i=0;i<n;i++)
-#define loops(i,s,n) for(int i=s;i<=n;i++)
 #define fast ios::sync_with_stdio(0); cin.tie(NULL); cout.tie(NULL)
 using namespace std;
 
 const ll MOD = 1e9+7;
 const ll SZ = 107;
-const ll N = 1e5+7;
+const ll N = 3e5+1;
 const ll M = 2e5+7;
 
 ll pwr(ll x, ll y)
@@ -38,3 +30,33 @@ ll pwr(ll x, ll y)
     }
     return r;
 }
+
+int inv(int x)
+{
+	return pwr(x, MOD-2ll);
+}
+
+
+void solve()
+{
+	int x, y; cin>>x>>y;
+    cout<<pwr(x, y)<<endl;
+}
+
+signed main()
+{
+    fast;
+    int t=1;
+    cin >>t;
+    while(t--){
+        solve();
+        
+    }
+    return 0;
+}
+
+/*****************************
+
+
+
+****************************/
