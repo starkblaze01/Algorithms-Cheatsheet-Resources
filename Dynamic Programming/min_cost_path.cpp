@@ -2,7 +2,7 @@
 Problem:
 you are given a cost matrix named cost with size RXC where R is no. of rows and 
 C is no. of columns and a position (m, n) in cost[][].
-You have to find out the min cost path between (0, 0) to (m, n) 
+You have to find out the min cost path to reach (m, n) from (0, 0).
 */
 
 #include<stdio.h>
