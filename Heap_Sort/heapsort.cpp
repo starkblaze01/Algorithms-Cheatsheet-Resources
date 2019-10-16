@@ -37,12 +37,15 @@ void printarray(int arr[],int n){
 int main()
 {
     int n,i;
+    cout<<"Enter the total number of inputs\n";
     cin>>n;
     int arr[n];
+    cout<<"Enter the numbers to be sorted\n";
     for(i=0;i<n;i++){
         cin>>arr[i];
     }
     heap_sort(arr,n);
+    cout<<"The sorted array is\n";
     printarray(arr,n);
     return 0;
 }
