@@ -7,4 +7,4 @@ Can't see your favorite algorithm script? Want to complete four PRs for Hacktobe
 ##### [Check your current hacktoberfest progress](https://hacktoberfest.digitalocean.com/)
 ##### Want to check your peers latest commits? [Try this out](https://github.com/starkblaze01/git-stalk)
 
-##### P.S.: Please make sure the file name itself is self-explanatory about the Algorithm or make a folder along containing your script and a README explaining the necessary details.
+##### P.S.: Please make sure the file name itself is self-explanatory about the Algorithm or make a folder along containing your script and a README explaining the necessary details. Also, make sure there is main(): function which is taking clear inputs(if any) which could be easily understood by any person who wants to use that algorithm.
