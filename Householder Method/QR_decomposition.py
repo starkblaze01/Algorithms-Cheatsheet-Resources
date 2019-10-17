@@ -1,8 +1,3 @@
-#Roll no.- Name
-#201651007 - Aman Yadav
-#201651029 - Mayank Pathela
-#201651060 - Anshuman Verma
-
 # Importing needful libraries
 import numpy as np
 
