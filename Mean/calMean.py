@@ -1,5 +1,3 @@
-import numpy as np
-
 def calMean(array):
 	mean = 0
 	for i in range(len(array)):
