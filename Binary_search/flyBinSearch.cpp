@@ -1,30 +1,3 @@
-//#include <bits/stdc++.h>
-//
-//using namespace std;
-
-//int binSearch(int arr[], int l, int r, int key)
-//{
-//    if(r >= l)
-//    {
-//        int mid = (l + r)/2;
-//        if(arr[mid] == key)
-//            return mid;
-//        else if(arr[mid] > key)
-//            return binSearch(arr, l, mid - 1, key);
-//        else
-//            return binSearch(arr, mid + 1, r, key);
-//    }
-//    return -1;
-//}
-//
-//int main()
-//{
-//    int A[13] = {6,7,8,9,10,11,12,13,14,15,16,17,18};
-//    cout << binSearch(A, 0, 12, 17) << endl;
-//    return 0;
-//}
-
-
 /*Question: Given a
 sorted array that has been rotated, find the index upto which array is sorted*/
 
