@@ -32,12 +32,17 @@ lli findRotEle(lli arr[], lli l, lli r, lli key)
 int main()
 {
     lli test;
+    cout << "Enter the no. of test cases: ";
     cin >> test;
     while(test--)
     {
         lli n, key;
-        cin >> n >> key;
+        cout << "Enter Length of the array: ";
+        cin >> n;
+        cout <<  "Enter the value you want to find: ";
+        cin >> key;
         lli arr[n];
+        cout << "Enter Input Array";
         for(lli i = 0; i < n; i++)
             cin >> arr[i];
         cout << findRotEle(arr, 0, n-1, key) << endl;
