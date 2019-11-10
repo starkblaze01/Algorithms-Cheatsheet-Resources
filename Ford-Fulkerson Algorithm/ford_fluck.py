@@ -92,6 +92,6 @@ for i in range(R):          # A for loop for row entries
 
 g = Graph(graph) 
 
-source = 0; sink = 5
+source = 0; sink = R-1
 
 print ("The maximum possible flow is %d " % g.FordFulkerson(source, sink)) 
