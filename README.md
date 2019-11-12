@@ -10,4 +10,22 @@ This repository is available under the [MIT License](https://github.com/starkbla
 ## Want to Contribute ?
 Can't see your favorite algorithm script or cheat-sheet? Send a PR for adding your favorite algorithm in any programming language.
 
+## Please find below the links to awesome cheat-sheet:
+
+### Multiple platforms:
+- https://devhints.io/
+- https://lecoupa.github.io/awesome-cheatsheets/
+
+### Bash:
+- https://github.com/aviaryan/utility-bash-scripts
+
+### GitHub:
+- https://gist.github.com/hofmannsven/6814451
+
+### Data Science:
+- https://github.com/abhat222/Data-Science--Cheat-Sheet
+
+### React:
+- https://github.com/typescript-cheatsheets/react-typescript-cheatsheet
+
 ##### P.S.: Please make sure the file name itself is self-explanatory about the Algorithm or make a folder along containing your script and a README file explaining the necessary details. Also, make sure there is main(): function which is taking clear inputs(if any) which could be easily understood by any person who wants to use that algorithm.
