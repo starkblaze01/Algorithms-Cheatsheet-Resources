@@ -1,12 +1,3 @@
----
-name: PULL_REQUEST_TEMPLATE
-about: Suggest the changes you are going to make
-title: ''
-labels: ''
-assignees: ''
-
----
-
 Please check all that apply.
 
 #### This PR is for:
