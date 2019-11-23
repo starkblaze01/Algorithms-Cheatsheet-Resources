@@ -22,6 +22,9 @@ Can't see your favorite algorithm script or cheat-sheet? Send a PR for adding yo
 ### GitHub:
 - https://gist.github.com/hofmannsven/6814451
 
+### Javascript:
+- https://github.com/bolshchikov/js-must-watch
+
 ### Data Science:
 - https://github.com/abhat222/Data-Science--Cheat-Sheet
 
