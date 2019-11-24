@@ -15,6 +15,8 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 
 ### Javascript:
 - [Must-watch videos about javascript](https://github.com/bolshchikov/js-must-watch)
+- [A curated list of javascript fundamentals and algorithms](https://github.com/ggomaeng/awesome-js)
+- [This is about useful JS tips!](https://github.com/loverajoel/jstips)
 
 ### Data Science:
 - [Data-Science Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet)
