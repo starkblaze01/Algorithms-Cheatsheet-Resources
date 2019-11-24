@@ -24,7 +24,8 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 ### React:
 - [React-Typescript Cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
 - [Lint rules related to React & JSX for TSLint](https://github.com/palantir/tslint-react)
-- [React Native <AwesomeButton />](https://github.com/rcaferati/react-native-really-awesome-button)
+- [React Native Awesome Button](https://github.com/rcaferati/react-native-really-awesome-button)
+- [React Native Awesome Slider](https://github.com/rcaferati/react-awesome-slider)
 
 
 ## Want to Contribute ?
