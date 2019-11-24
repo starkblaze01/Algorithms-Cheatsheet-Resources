@@ -1,35 +1,37 @@
-# Algorithms and Cheat-Sheet
-Collection of Useful Algorithms in multiple programming languages. And some cheat-sheet for running different programs.
-
-
-##### Want to check your peers latest commits? [Try this out](https://github.com/starkblaze01/git-stalk)
-
-## License
-This repository is available under the [MIT License](https://github.com/starkblaze01/Algorithms/blob/master/LICENSE).
-
-## Want to Contribute ?
-Can't see your favorite algorithm script or cheat-sheet? Send a PR for adding your favorite algorithm in any programming language.
+# Algorithms, Cheat-Sheet, and Resources
+Collection of Useful Algorithms in multiple programming languages and some awesome cheat-sheet and resources for learning geeky stuffs.
 
 ## Please find below the links to awesome cheat-sheet:
 
 ### Multiple platforms:
-- https://devhints.io/
-- https://lecoupa.github.io/awesome-cheatsheets/
+- [A ridiculous collection of cheatsheets](https://devhints.io/)
+- [Awesome cheatsheets for popular programming languages, frameworks and development tools.](https://lecoupa.github.io/awesome-cheatsheets/)
 
 ### Bash:
-- https://github.com/aviaryan/utility-bash-scripts
+- [Utility bash scripts to do automatable tasks with a single command.](https://github.com/aviaryan/utility-bash-scripts)
 
-### GitHub:
-- https://gist.github.com/hofmannsven/6814451
+### Git:
+- [Git Commands](https://gist.github.com/hofmannsven/6814451)
 
 ### Javascript:
-- https://github.com/bolshchikov/js-must-watch
+- [Must-watch videos about javascript](https://github.com/bolshchikov/js-must-watch)
 
 ### Data Science:
-- https://github.com/abhat222/Data-Science--Cheat-Sheet
+- [Data-Science Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet)
 
 ### React:
-- https://github.com/typescript-cheatsheets/react-typescript-cheatsheet
-- https://github.com/palantir/tslint-react (Lint rules related to React & JSX for TSLint.)
+- [React-Typescript Cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
+- [Lint rules related to React & JSX for TSLint](https://github.com/palantir/tslint-react)
+- [React Native <AwesomeButton />](https://github.com/rcaferati/react-native-really-awesome-button)
+
+
+## Want to Contribute ?
+Can't see your favorite algorithm script or cheat-sheet? Send a PR for adding your favorite algorithm in any programming language.
+
+## License
+This repository is available under the [MIT License](https://github.com/starkblaze01/Algorithms/blob/master/LICENSE).
+
+
+##### Want to check your peers latest commits? [Try this out](https://github.com/starkblaze01/git-stalk)
 
 ##### P.S.: Please make sure the file name itself is self-explanatory about the Algorithm or make a folder along containing your script and a README file explaining the necessary details. Also, make sure there is main(): function which is taking clear inputs(if any) which could be easily understood by any person who wants to use that algorithm.
