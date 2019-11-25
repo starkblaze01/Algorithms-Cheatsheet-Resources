@@ -26,7 +26,7 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 - [Lint rules related to React & JSX for TSLint](https://github.com/palantir/tslint-react)
 - [React Native Awesome Button](https://github.com/rcaferati/react-native-really-awesome-button)
 - [React Native Awesome Slider](https://github.com/rcaferati/react-awesome-slider)
-
+- [Simple and complete React DOM testing utilities](https://github.com/testing-library/react-testing-library)
 
 ## Want to Contribute ?
 Can't see your favorite algorithm script or cheat-sheet? Send a PR for adding your favorite algorithm in any programming language.
