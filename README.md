@@ -27,6 +27,7 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 - [React Native Awesome Button](https://github.com/rcaferati/react-native-really-awesome-button)
 - [React Native Awesome Slider](https://github.com/rcaferati/react-awesome-slider)
 - [Simple and complete React DOM testing utilities](https://github.com/testing-library/react-testing-library)
+- [Jest utilities for Styled Components](https://github.com/styled-components/jest-styled-components)
 
 ## Want to Contribute ?
 Can't see your favorite algorithm script or cheat-sheet? Send a PR for adding your favorite algorithm in any programming language.
