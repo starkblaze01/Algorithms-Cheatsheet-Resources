@@ -18,8 +18,9 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 - [A curated list of javascript fundamentals and algorithms](https://github.com/ggomaeng/awesome-js)
 - [This is about useful JS tips!](https://github.com/loverajoel/jstips)
 
-### Data Science:
+### Machine-Learning/Data Science/AI:
 - [Data-Science Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet)
+- [Related papers for robust machine learning](https://github.com/P2333/Papers-of-Robust-ML)
 
 ### React:
 - [React-Typescript Cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
