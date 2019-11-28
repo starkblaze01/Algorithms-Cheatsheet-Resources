@@ -1,7 +1,7 @@
 # Algorithms, Cheat-Sheet, and Resources
 Collection of Useful Algorithms in multiple programming languages and some awesome cheat-sheet and resources for learning geeky stuffs.
 
-## Please find below the links to awesome cheat-sheet:
+## Please find below the links to awesome cheat-sheet and resources:
 
 ### Multiple platforms:
 - [A ridiculous collection of cheatsheets](https://devhints.io/)
@@ -17,6 +17,7 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 - [Must-watch videos about javascript](https://github.com/bolshchikov/js-must-watch)
 - [A curated list of javascript fundamentals and algorithms](https://github.com/ggomaeng/awesome-js)
 - [This is about useful JS tips!](https://github.com/loverajoel/jstips)
+- [Textures.js is a JavaScript library for creating SVG patterns](https://github.com/riccardoscalco/textures)
 
 ### Machine-Learning/Data Science/AI:
 - [Data-Science Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet)
