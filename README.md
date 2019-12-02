@@ -24,6 +24,7 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 - [Related papers for robust machine learning](https://github.com/P2333/Papers-of-Robust-ML)
 - [Pretrained EfficientNet, MixNet, MobileNetV3, MNASNet A1 and B1, FBNet, Single-Path NAS
 ](https://github.com/rwightman/gen-efficientnet-pytorch)
+- [A booklet on machine learning systems design with exercises](https://github.com/chiphuyen/machine-learning-systems-design)
 
 ### React:
 - [React-Typescript Cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
