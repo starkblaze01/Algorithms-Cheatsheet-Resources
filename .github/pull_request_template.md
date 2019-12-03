@@ -5,7 +5,7 @@ Please check all that apply.
 - [ ] Cheatsheet
 - [ ] Other
 
-#### Title for the Algorithm/Cheat-Sheet: [Title here]
+#### Title for the Algorithm/Cheat-Sheet/Resource: [Title here]
 
 #### Programming Language: [Language here]
 
