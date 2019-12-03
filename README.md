@@ -36,6 +36,7 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 
 ### Interview Questions:
 - [Tech interview prep list](https://github.com/fterh/leetcode-curation-topical)
+- [:octocat: A curated awesome list of lists of interview questions. Feel free to contribute! 🎓](https://github.com/MaximAbramchuck/awesome-interview-questions)
 
 ## Want to Contribute ?
 Can't see your favorite algorithm script or cheat-sheet? Send a PR for adding your favorite algorithm in any programming language.
