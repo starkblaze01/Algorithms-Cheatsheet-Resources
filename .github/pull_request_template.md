@@ -3,6 +3,7 @@ Please check all that apply.
 #### This PR is for:
 - [ ] Algorithm
 - [ ] Cheatsheet
+- [ ] Resource
 - [ ] Other
 
 #### Title for the Algorithm/Cheat-Sheet/Resource: [Title here]
