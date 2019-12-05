@@ -25,6 +25,7 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 - [Pretrained EfficientNet, MixNet, MobileNetV3, MNASNet A1 and B1, FBNet, Single-Path NAS
 ](https://github.com/rwightman/gen-efficientnet-pytorch)
 - [A booklet on machine learning systems design with exercises](https://github.com/chiphuyen/machine-learning-systems-design)
+- [A collection of datasets ready to use with TensorFlow](https://github.com/tensorflow/datasets)
 
 ### React:
 - [React-Typescript Cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
