@@ -34,6 +34,7 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 - [React Native Awesome Slider](https://github.com/rcaferati/react-awesome-slider)
 - [Simple and complete React DOM testing utilities](https://github.com/testing-library/react-testing-library)
 - [Jest utilities for Styled Components](https://github.com/styled-components/jest-styled-components)
+- [Collection of useful React components](https://github.com/streamich/libreact)
 
 ### Interview Questions:
 - [Tech interview prep list](https://github.com/fterh/leetcode-curation-topical)
