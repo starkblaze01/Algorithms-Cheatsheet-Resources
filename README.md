@@ -36,6 +36,7 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 - [Jest utilities for Styled Components](https://github.com/styled-components/jest-styled-components)
 - [Collection of useful React components](https://github.com/streamich/libreact)
 - [Build forms in React, without the tears 😭](https://github.com/jaredpalmer/formik)
+- [High performance `<canvas>` rendering for React components](https://github.com/Flipboard/react-canvas)
 
 ### Interview Questions:
 - [Tech interview prep list](https://github.com/fterh/leetcode-curation-topical)
