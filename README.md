@@ -38,6 +38,10 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 - [Build forms in React, without the tears 😭](https://github.com/jaredpalmer/formik)
 - [High performance `<canvas>` rendering for React components](https://github.com/Flipboard/react-canvas)
 
+### Game Engine
+- [Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework](https://github.com/BabylonJS/Babylon.js)
+- [Fast and lightweight WebGL game engine](https://github.com/playcanvas/engine)
+
 ### Interview Questions:
 - [Tech interview prep list](https://github.com/fterh/leetcode-curation-topical)
 - [:octocat: A curated awesome list of lists of interview questions. Feel free to contribute! 🎓](https://github.com/MaximAbramchuck/awesome-interview-questions)
