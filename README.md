@@ -47,6 +47,7 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 - [Tech interview prep list](https://github.com/fterh/leetcode-curation-topical)
 - [:octocat: A curated awesome list of lists of interview questions. Feel free to contribute! 🎓](https://github.com/MaximAbramchuck/awesome-interview-questions)
 - [🕸 Almost complete answers to "Front-end Job Interview Questions" which you can use to interview potential candidates, test yourself or completely ignore](https://github.com/yangshun/front-end-interview-handbook)
+- [JavaScript interview Questions](https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions)
 
 ## Tech Podcasts:
 - [Curated List of Mostly Active Dev Podcasts](https://github.com/timarney/podcasts)
