@@ -39,6 +39,9 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 - [Build forms in React, without the tears 😭](https://github.com/jaredpalmer/formik)
 - [High performance `<canvas>` rendering for React components](https://github.com/Flipboard/react-canvas)
 
+### CONDA:
+- [CONDA CHEAT SHEET](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf)
+
 ### Game Engine
 - [Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework](https://github.com/BabylonJS/Babylon.js)
 - [Fast and lightweight WebGL game engine](https://github.com/playcanvas/engine)
