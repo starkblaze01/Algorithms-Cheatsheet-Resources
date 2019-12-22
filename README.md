@@ -38,6 +38,7 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 - [Collection of useful React components](https://github.com/streamich/libreact)
 - [Build forms in React, without the tears 😭](https://github.com/jaredpalmer/formik)
 - [High performance `<canvas>` rendering for React components](https://github.com/Flipboard/react-canvas)
+- [🌊 A flexible and fun JavaScript file upload library](https://github.com/pqina/filepond)
 
 ### CONDA:
 - [CONDA CHEAT SHEET](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf)
