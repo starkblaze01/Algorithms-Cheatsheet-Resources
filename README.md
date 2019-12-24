@@ -21,6 +21,7 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 - [Textures.js is a JavaScript library for creating SVG patterns](https://github.com/riccardoscalco/textures)
 
 ### Machine-Learning/Data Science/AI:
+- [PyTorch tutorials](https://github.com/pytorch/tutorials)
 - [Data-Science Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet)
 - [Related papers for robust machine learning](https://github.com/P2333/Papers-of-Robust-ML)
 - [Pretrained EfficientNet, MixNet, MobileNetV3, MNASNet A1 and B1, FBNet, Single-Path NAS
