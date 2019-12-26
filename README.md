@@ -20,6 +20,9 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 - [This is about useful JS tips!](https://github.com/loverajoel/jstips)
 - [Textures.js is a JavaScript library for creating SVG patterns](https://github.com/riccardoscalco/textures)
 
+### Python:
+- [Cool Python features for machine learning](https://github.com/chiphuyen/python-is-cool)
+
 ### Machine-Learning/Data Science/AI:
 - [PyTorch tutorials](https://github.com/pytorch/tutorials)
 - [Data-Science Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet)
