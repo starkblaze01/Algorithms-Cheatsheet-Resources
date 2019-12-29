@@ -24,6 +24,9 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 ### Python:
 - [Cool Python features for machine learning](https://github.com/chiphuyen/python-is-cool)
 
+### Must have Chrome-Extensions:
+- [Momentum](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca)
+
 ### Machine-Learning/Data Science/AI:
 - [PyTorch tutorials](https://github.com/pytorch/tutorials)
 - [Data-Science Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet)
