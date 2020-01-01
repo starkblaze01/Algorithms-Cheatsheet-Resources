@@ -37,6 +37,7 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 - [A collection of datasets ready to use with TensorFlow](https://github.com/tensorflow/datasets)
 - [code for Data Science From Scratch book](https://github.com/joelgrus/data-science-from-scratch)
 - [Tutorials, assignments, and competitions for MIT Deep Learning related courses](https://github.com/lexfridman/mit-deep-learning)
+- [Fast image augmentation library and easy to use wrapper around other libraries](https://github.com/albumentations-team/albumentations)
 
 ### React/React-Native:
 - [React-Typescript Cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
