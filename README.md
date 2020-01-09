@@ -55,6 +55,9 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 - [🌊 A flexible and fun JavaScript file upload library](https://github.com/pqina/filepond)
 - [A React-Native datetime-picker for Android and iOS](https://github.com/mmazzarolo/react-native-modal-datetime-picker)
 
+## iOS:
+- [ A curated list of Open Source example iOS apps developed in Swift](https://github.com/jogendra/example-ios-apps)
+
 ### CONDA:
 - [CONDA CHEAT SHEET](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf)
 
