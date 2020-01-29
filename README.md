@@ -15,6 +15,10 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 ### Git:
 - [Git Commands](https://gist.github.com/hofmannsven/6814451)
 
+### VS-Code:
+- [Keyboard Shortcuts for Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+- [Keyboard Shortcuts for macOS](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
+
 ### Javascript:
 - [Must-watch videos about javascript](https://github.com/bolshchikov/js-must-watch)
 - [A curated list of javascript fundamentals and algorithms](https://github.com/ggomaeng/awesome-js)
