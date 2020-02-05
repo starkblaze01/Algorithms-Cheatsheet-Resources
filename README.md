@@ -51,6 +51,7 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 - [Tutorials, assignments, and competitions for MIT Deep Learning related courses](https://github.com/lexfridman/mit-deep-learning)
 - [Fast image augmentation library and easy to use wrapper around other libraries](https://github.com/albumentations-team/albumentations)
 - [Collection of Artificial Intelligence Algorithms implemented on various problems](https://github.com/starkblaze01/Artificial-Intelligence-Codes)
+- [PyTorch image models, scripts, pretrained weights](https://github.com/rwightman/pytorch-image-models)
 
 ### React/React-Native:
 - [React-Typescript Cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
