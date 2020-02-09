@@ -16,7 +16,7 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 - [Git Commands](https://gist.github.com/hofmannsven/6814451)
 
 ### GitBook:
-- [GitBook - A command line tool(and Node.js library) for building beautiful books using GitHub/Git and Markdown](https://github.com/GitbookIO/gitbook)
+- [GitBook - A command-line tool(and Node.js library) for building beautiful books using GitHub/Git and Markdown](https://github.com/GitbookIO/gitbook)
 
 ### VS-Code:
 - [Keyboard Shortcuts for Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
