@@ -72,6 +72,9 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 ### iOS:
 - [ A curated list of Open Source example iOS apps developed in Swift](https://github.com/jogendra/example-ios-apps)
 
+### Mac:
+- [ Awesome Mac premium software in various categories](https://github.com/jaywcjlove/awesome-mac)
+
 ### CONDA:
 - [CONDA CHEAT SHEET](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf)
 
