@@ -7,6 +7,7 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 - [A ridiculous collection of cheatsheets](https://devhints.io/)
 - [Awesome cheatsheets for popular programming languages, frameworks and development tools.](https://lecoupa.github.io/awesome-cheatsheets/)
 - [📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!](https://github.com/storybookjs/storybook)
+- [Awesome lists about all kinds of interesting topics](https://github.com/sindresorhus/awesome)
 - [List of Development YouTube Channels](https://github.com/ErikCH/DevYouTubeList)
 
 ### Bash:
