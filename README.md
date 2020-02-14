@@ -9,6 +9,7 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 - [📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!](https://github.com/storybookjs/storybook)
 - [Awesome lists about all kinds of interesting topics](https://github.com/sindresorhus/awesome)
 - [List of Development YouTube Channels](https://github.com/ErikCH/DevYouTubeList)
+- [📝 A curated list of Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo)
 
 ### Bash:
 - [Utility bash scripts to do automatable tasks with a single command.](https://github.com/aviaryan/utility-bash-scripts)
