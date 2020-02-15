@@ -70,6 +70,7 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 - [High performance `<canvas>` rendering for React components](https://github.com/Flipboard/react-canvas)
 - [🌊 A flexible and fun JavaScript file upload library](https://github.com/pqina/filepond)
 - [A React-Native datetime-picker for Android and iOS](https://github.com/mmazzarolo/react-native-modal-datetime-picker)
+- [A description of the conceptual model of React without implementation burden](https://github.com/reactjs/react-basic)
 
 ### iOS:
 - [ A curated list of Open Source example iOS apps developed in Swift](https://github.com/jogendra/example-ios-apps)
