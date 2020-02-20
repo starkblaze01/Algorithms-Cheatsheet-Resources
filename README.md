@@ -31,6 +31,7 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 - [This is about useful JS tips!](https://github.com/loverajoel/jstips)
 - [Textures.js is a JavaScript library for creating SVG patterns](https://github.com/riccardoscalco/textures)
 - [Lightweight fuzzy-search, in JavaScript](https://github.com/krisk/Fuse)
+- [A book about JavaScript, programming, and the wonders of the digital](https://eloquentjavascript.net/)
 
 ### Python:
 - [Cool Python features for machine learning](https://github.com/chiphuyen/python-is-cool)
