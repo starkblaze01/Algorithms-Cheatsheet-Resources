@@ -17,6 +17,7 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 
 ### Git:
 - [Git Commands](https://gist.github.com/hofmannsven/6814451)
+- [Simple terminal UI for git commands](https://github.com/jesseduffield/lazygit)
 
 ### GitBook:
 - [GitBook - A command-line tool(and Node.js library) for building beautiful books using GitHub/Git and Markdown](https://github.com/GitbookIO/gitbook)
