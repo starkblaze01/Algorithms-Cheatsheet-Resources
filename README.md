@@ -5,12 +5,13 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 
 ### Multiple platforms:
 - [A ridiculous collection of cheatsheets](https://devhints.io/)
-- [Awesome cheatsheets for popular programming languages, frameworks and development tools.](https://lecoupa.github.io/awesome-cheatsheets/)
+- [Awesome cheatsheets for popular programming languages, frameworks and development tools](https://lecoupa.github.io/awesome-cheatsheets/)
 - [📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!](https://github.com/storybookjs/storybook)
 - [Awesome lists about all kinds of interesting topics](https://github.com/sindresorhus/awesome)
 - [List of Development YouTube Channels](https://github.com/ErikCH/DevYouTubeList)
 - [📝 A curated list of Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo)
 - [💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws](https://github.com/dwmkerr/hacker-laws)
+- [A Collection of application ideas which can be used to improve your coding skills](https://github.com/florinpop17/app-ideas)
 
 ### Bash:
 - [Utility bash scripts to do automatable tasks with a single command.](https://github.com/aviaryan/utility-bash-scripts)
