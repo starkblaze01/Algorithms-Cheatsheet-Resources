@@ -50,7 +50,7 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 - [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
 - [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)
 
-### Machine-Learning/Data Science/AI:
+### Machine-Learning/Data Science/AI/DL:
 - [PyTorch tutorials](https://github.com/pytorch/tutorials)
 - [Data-Science Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet)
 - [Related papers for robust machine learning](https://github.com/P2333/Papers-of-Robust-ML)
@@ -64,6 +64,7 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 - [Collection of Artificial Intelligence Algorithms implemented on various problems](https://github.com/starkblaze01/Artificial-Intelligence-Codes)
 - [PyTorch image models, scripts, pretrained weights](https://github.com/rwightman/pytorch-image-models)
 - [Code for visualizing the loss landscape of neural nets](https://github.com/tomgoldstein/loss-landscape)
+- [Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
 
 ### React/React-Native:
 - [React-Typescript Cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
