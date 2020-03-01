@@ -66,6 +66,7 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 - [Code for visualizing the loss landscape of neural nets](https://github.com/tomgoldstein/loss-landscape)
 - [Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
 - [Meta Learning / Learning to Learn / One Shot Learning / Few Shot Learning](https://github.com/floodsung/Meta-Learning-Papers)
+- [An end-to-end PyTorch framework for image and video classification](https://github.com/facebookresearch/ClassyVision)
 
 ### React/React-Native:
 - [React-Typescript Cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
