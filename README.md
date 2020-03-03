@@ -88,6 +88,7 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 
 ### Mac:
 - [ Awesome Mac premium software in various categories](https://github.com/jaywcjlove/awesome-mac)
+- [🕹 Retro video game emulation for macOS](https://github.com/OpenEmu/OpenEmu)
 
 ### CONDA:
 - [CONDA CHEAT SHEET](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf)
