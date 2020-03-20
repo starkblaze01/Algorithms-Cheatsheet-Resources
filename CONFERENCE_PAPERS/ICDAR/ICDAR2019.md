@@ -7,3 +7,4 @@
 |3|[DeepHSV: User-independent Offline Signature Verification Using Two-Channel CNN](https://ieeexplore.ieee.org/abstract/document/8977952)|Feng Lin, Chuang Li, Zhiyong Wang, Gang Yu, Liou Yuan and Haiqiang Wang|-|
 |4|[Generating Realistic Binarization Data with Generative Adversarial Networks](https://ieeexplore.ieee.org/abstract/document/8978087)|Chris Tensmeyer, Mike Brodie, Daniel Saunders and Tony Martinez|-|
 |5|[Deep Splitting and Merging for Table Structure Decomposition](https://ieeexplore.ieee.org/document/8977975)|Christopher Tensmeyer, Vlad Morariu, Brian Price, Scott Cohen and Tony Martinez|-|
+|6|[TH-GAN: Generative Adversarial Network based Transfer Learning for Historical Chinese Character Recognition](https://ieeexplore.ieee.org/abstract/document/8978106)|Junyang Cai, Liangrui Peng, Yejun Tang, Changsong Liu and Pengchao Li|-|
