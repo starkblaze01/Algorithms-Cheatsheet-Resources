@@ -8,7 +8,7 @@
 |4|[Generating Realistic Binarization Data with Generative Adversarial Networks](https://ieeexplore.ieee.org/abstract/document/8978087)|Chris Tensmeyer, Mike Brodie, Daniel Saunders and Tony Martinez|-|
 |5|[Deep Splitting and Merging for Table Structure Decomposition](https://ieeexplore.ieee.org/document/8977975)|Christopher Tensmeyer, Vlad Morariu, Brian Price, Scott Cohen and Tony Martinez|-|
 |6|[TH-GAN: Generative Adversarial Network based Transfer Learning for Historical Chinese Character Recognition](https://ieeexplore.ieee.org/abstract/document/8978106)|Junyang Cai, Liangrui Peng, Yejun Tang, Changsong Liu and Pengchao Li|-|
-|7|Data Augmentation via Adversarial Networks for Optical Character Recognition|Victor Storchan and Jocelyn Beauchesne|-|
+|7|[Data Augmentation via Adversarial Networks for Optical Character Recognition](https://ieeexplore.ieee.org/abstract/document/8977988/)|Victor Storchan and Jocelyn Beauchesne|-|
 |8|BAGS: An automatic homework grading system using the pictures taken by smart phones|Xiaoshuo Li, Tiezhu Yue, Xuanping Huang, Zhe Yang and Gang Xu|-|
 |9|Detecting Named Entities in Unstructured Bengali Manuscript Images|Chandranath Adak, Bidyut B. Chaudhuri, Chin-Teng Lin and Michael Blumenstein|-|
 |10|Target-Directed MixUp for Labeling Tangut Characters|Guangwei Zhang and Yinliang Zhao|-|
