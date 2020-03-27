@@ -12,7 +12,7 @@
 |8|[BAGS: An automatic homework grading system using the pictures taken by smart phones](https://arxiv.org/pdf/1906.03767.pdf)|Xiaoshuo Li, Tiezhu Yue, Xuanping Huang, Zhe Yang and Gang Xu|[Link](https://github.com/boxfish-ai/BAGS)|
 |9|[Detecting Named Entities in Unstructured Bengali Manuscript Images](https://ieeexplore.ieee.org/document/8978162)|Chandranath Adak, Bidyut B. Chaudhuri, Chin-Teng Lin and Michael Blumenstein|-|
 |10|[Target-Directed MixUp for Labeling Tangut Characters](https://ieeexplore.ieee.org/document/8978040)|Guangwei Zhang and Yinliang Zhao|-|
-|11|DeepText: Detecting Text from the Wild with Multi-ASPP-Assembled DeepLab|Qingqing Wang, Yue Lu, Xiangjian He, Wenjing Jia, Michael Blumenstein and Ye Huang|-|
+|11|[DeepText: Detecting Text from the Wild with Multi-ASPP-Assembled DeepLab](https://ieeexplore.ieee.org/document/8978048)|Qingqing Wang, Yue Lu, Xiangjian He, Wenjing Jia, Michael Blumenstein and Ye Huang|-|
 |12|Transductive Learning for Reading Handwritten Tibetan Manuscripts|Sivan Keret, Lior Wolf and Nachum Dershowitz|-|
 |13|Learning Free Manuscripts Line Detection using Distance Transform Graph|Majeed Kassis and Jihad El-Sana|-|
 |14|Segmentation-Free Bangla Offline Handwriting Recognition using Sequential Detection of Characters and Diacritics with a Faster R-CNN|Nishatul Majid and Elisa H. Barney Smith|-|
