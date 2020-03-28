@@ -13,7 +13,7 @@
 |9|[Detecting Named Entities in Unstructured Bengali Manuscript Images](https://ieeexplore.ieee.org/document/8978162)|Chandranath Adak, Bidyut B. Chaudhuri, Chin-Teng Lin and Michael Blumenstein|-|
 |10|[Target-Directed MixUp for Labeling Tangut Characters](https://ieeexplore.ieee.org/document/8978040)|Guangwei Zhang and Yinliang Zhao|-|
 |11|[DeepText: Detecting Text from the Wild with Multi-ASPP-Assembled DeepLab](https://ieeexplore.ieee.org/document/8978048)|Qingqing Wang, Yue Lu, Xiangjian He, Wenjing Jia, Michael Blumenstein and Ye Huang|-|
-|12|Transductive Learning for Reading Handwritten Tibetan Manuscripts|Sivan Keret, Lior Wolf and Nachum Dershowitz|-|
+|12|[Transductive Learning for Reading Handwritten Tibetan Manuscripts](https://www.cs.tau.ac.il/~wolf/papers/icdar_2019_tibetan.pdf)|Sivan Keret, Lior Wolf and Nachum Dershowitz|[Link](https://github.com/SivanKe/TransductiveHCR)|
 |13|Learning Free Manuscripts Line Detection using Distance Transform Graph|Majeed Kassis and Jihad El-Sana|-|
 |14|Segmentation-Free Bangla Offline Handwriting Recognition using Sequential Detection of Characters and Diacritics with a Faster R-CNN|Nishatul Majid and Elisa H. Barney Smith|-|
 |15|Toward online handwriting recognition system based on Reinforcement learning theory|Ramzi Zouari, Houcine Boubaker and Monji Kherallah|-|
