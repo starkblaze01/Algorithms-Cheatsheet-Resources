@@ -14,7 +14,7 @@
 |10|[Target-Directed MixUp for Labeling Tangut Characters](https://ieeexplore.ieee.org/document/8978040)|Guangwei Zhang and Yinliang Zhao|-|
 |11|[DeepText: Detecting Text from the Wild with Multi-ASPP-Assembled DeepLab](https://ieeexplore.ieee.org/document/8978048)|Qingqing Wang, Yue Lu, Xiangjian He, Wenjing Jia, Michael Blumenstein and Ye Huang|-|
 |12|[Transductive Learning for Reading Handwritten Tibetan Manuscripts](https://www.cs.tau.ac.il/~wolf/papers/icdar_2019_tibetan.pdf)|Sivan Keret, Lior Wolf and Nachum Dershowitz|[Link](https://github.com/SivanKe/TransductiveHCR)|
-|13|Learning Free Manuscripts Line Detection using Distance Transform Graph|Majeed Kassis and Jihad El-Sana|-|
+|13|[Learning Free Manuscripts Line Detection using Distance Transform Graph](https://www.cs.bgu.ac.il/~majeek/publications/LineSegmentation.pdf)|Majeed Kassis and Jihad El-Sana|[Link](https://github.com/majeek/learning-free-line-extraction-using-document-graph)|
 |14|Segmentation-Free Bangla Offline Handwriting Recognition using Sequential Detection of Characters and Diacritics with a Faster R-CNN|Nishatul Majid and Elisa H. Barney Smith|-|
 |15|Toward online handwriting recognition system based on Reinforcement learning theory|Ramzi Zouari, Houcine Boubaker and Monji Kherallah|-|
 |16|Indiscapes: Instance Segmentation Networks for Layout Parsing of Historical Indic Manuscripts|Abhishek Prusty, Sowmya Aitha, Abhishek Trivedi and Ravi Kiran Sarvadevabhatla|-|
