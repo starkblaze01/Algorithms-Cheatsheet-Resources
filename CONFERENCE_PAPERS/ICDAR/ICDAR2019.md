@@ -17,10 +17,10 @@
 |13|[Learning Free Manuscripts Line Detection using Distance Transform Graph](https://www.cs.bgu.ac.il/~majeek/publications/LineSegmentation.pdf)|Majeed Kassis and Jihad El-Sana|[Link](https://github.com/majeek/learning-free-line-extraction-using-document-graph)|
 |14|[Segmentation-Free Bangla Offline Handwriting Recognition using Sequential Detection of Characters and Diacritics with a Faster R-CNN](https://ieeexplore.ieee.org/abstract/document/8977954)|Nishatul Majid and Elisa H. Barney Smith|-|
 |15|Toward online handwriting recognition system based on Reinforcement learning theory|Ramzi Zouari, Houcine Boubaker and Monji Kherallah|-|
-|16|Indiscapes: Instance Segmentation Networks for Layout Parsing of Historical Indic Manuscripts|Abhishek Prusty, Sowmya Aitha, Abhishek Trivedi and Ravi Kiran Sarvadevabhatla|-|
-|17|Cascaded Detail-Preserving Networks for Super-Resolution of Document Images|Zhichao Fu, Yu Kong, Yingbin Zheng, Hao Ye, Wenxin Hu, Jing Yang and Liang He|-|
-|18|Multimodal Document Image Classification|Rajiv Jain and Curtis Wigington|-|
-|19|KuroNet: Pre-Modern Japanese Kuzushiji Character Recognition with Deep Learning|Tarin Clanuwat, Alex Lamb and Asanobu Kitamoto|-|
+|16|[Indiscapes: Instance Segmentation Networks for Layout Parsing of Historical Indic Manuscripts](http://cdn.iiit.ac.in/cdn/cvit.iiit.ac.in/images/ConferencePapers/2019/ICDAR_19_Indiscapes_camera_ready.pdf)|Abhishek Prusty, Sowmya Aitha, Abhishek Trivedi and Ravi Kiran Sarvadevabhatla|-|
+|17|[Cascaded Detail-Preserving Networks for Super-Resolution of Document Images](https://arxiv.org/pdf/1911.10714.pdf)|Zhichao Fu, Yu Kong, Yingbin Zheng, Hao Ye, Wenxin Hu, Jing Yang and Liang He|-|
+|18|[Multimodal Document Image Classification](https://ieeexplore.ieee.org/abstract/document/8977998)|Rajiv Jain and Curtis Wigington|-|
+|19|[KuroNet: Pre-Modern Japanese Kuzushiji Character Recognition with Deep Learning](https://arxiv.org/pdf/1910.09433.pdf)|Tarin Clanuwat, Alex Lamb and Asanobu Kitamoto|-|
 |20|Sub-word based Mongolian Offline Handwriting Recognition|Fan Daoerji, Guanglai Gao and Wu Huijuan|-|
 |21|EATEN: Entity-aware Attention for Single Shot Visual Text Extraction|He Guo, Xiameng Qin, Jiaming Liu, Junyu Han, Jingtuo Liu and Errui Ding|-|
 |22|Can One Deep Learning Model Learn Script-Independent Multilingual Word-Spotting?|Mohammed Al-Rawi, Ernest Valveny and Dimosthenis Karatzas|-|
