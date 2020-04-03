@@ -224,10 +224,10 @@
 |220|Deep Generalized Max Pooling|Vincent Christlein, Lukas Spranger, Anguelos Nicolaou, Mathias Seuret and Andreas Maier|-|
 |221|Identifying the Central Figure of a Scientific Paper|Sean Yang, Lia Kazakova, Poshen Lee, Abhishek Joshi, Bum Mook Oh, Jevin D. West and Bill Howe|-|
 |222|A Quality and Time Assessment of Binarization Algorithms for Scanned Documents|Rafael Lins, Rodrigo B. Bernardino and Darlisson Marinho Jesus|-|
-|223|A Study of Script Language Effects In Deep Neural Network Based Scene Text Detection|Jiaxin Cheng, Achin Gupta, Yue Wu and Premkumar Natarajan|-|
-|224|Fast Text/non-text Image Classification with Knowledge Distillation|Miao Zhao, Rui-Qi Wang, Fei Yin, Xu-Yao Zhang, Lin-Lin Huang and Jean-Marc Ogier|-|
-|225|BRIDGE: Building plan Repository for Image Description Generation, and Evaluation|Shreya Goyal, Vishesh Mistry, Chiranjoy Chattopadhyay and Gaurav Bhatnagar|-|
-|226|A Handwritten Chinese Text Recognizer Applying Multi-level Multimodal Fusion Network|Yuhuan Xiu, Qingqing Wang, Hongjian Zhan, Yue Lu and Man Lan|-|
-|227|Online Signature Verification by Few-shot Separable Convolution Based Deep Learning|Chandra Sekhar, Rama Krishna Sai Gorthi and Viswanath Pulabaigari|-|
-|228|OSVNet: Convolutional Siamese Network for Writer Independent Online Signature Verification|Chandra Sekhar, Prerana Mukherjee, Devanur S Guru and Viswanath Pulabaigari|-|
-|229|Blind Source Separation based Framework for Multispectral Document Image Binarization|Abderrahmane Rahiche, Athmane Bakhta and Mohamed Cheriet|-|
+|223|[A Study of Script Language Effects In Deep Neural Network Based Scene Text Detection](https://ieeexplore.ieee.org/document/8978029)|Jiaxin Cheng, Achin Gupta, Yue Wu and Premkumar Natarajan|-|
+|224|[Fast Text/non-text Image Classification with Knowledge Distillation](https://ieeexplore.ieee.org/document/8977971)|Miao Zhao, Rui-Qi Wang, Fei Yin, Xu-Yao Zhang, Lin-Lin Huang and Jean-Marc Ogier|-|
+|225|[BRIDGE: Building plan Repository for Image Description Generation, and Evaluation](http://home.iitj.ac.in/~chiranjoy/research/dataset/BridgePaper/pdf/ICDAR_2019.pdf)|Shreya Goyal, Vishesh Mistry, Chiranjoy Chattopadhyay and Gaurav Bhatnagar|-|
+|226|[A Handwritten Chinese Text Recognizer Applying Multi-level Multimodal Fusion Network](https://ieeexplore.ieee.org/abstract/document/8978158)|Yuhuan Xiu, Qingqing Wang, Hongjian Zhan, Yue Lu and Man Lan|-|
+|227|[Online Signature Verification by Few-shot Separable Convolution Based Deep Learning](https://ieeexplore.ieee.org/abstract/document/8978172)|Chandra Sekhar, Rama Krishna Sai Gorthi and Viswanath Pulabaigari|-|
+|228|[OSVNet: Convolutional Siamese Network for Writer Independent Online Signature Verification](https://arxiv.org/pdf/1904.00240.pdf)|Chandra Sekhar, Prerana Mukherjee, Devanur S Guru and Viswanath Pulabaigari|-|
+|229|[Blind Source Separation based Framework for Multispectral Document Image Binarization](https://ieeexplore.ieee.org/abstract/document/8978115)|Abderrahmane Rahiche, Athmane Bakhta and Mohamed Cheriet|-|
