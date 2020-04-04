@@ -221,9 +221,9 @@
 |217|Chemical Structure Recognition (CSR) System: Automatic Analysis of 2D Chemical Structures in Document Images|Zaryab Iftikhar, Syed Saqib Bukhari and Andreas Dengel|-|
 |218|A Neural Approach for Text Extraction from Scholarly Figures|David Morris, Peichen Tang and Ralph Ewerth|-|
 |219|Anomalies in measuring speed and other dynamic properties with touchscreens and tablets as a result of non-uniformity of sampling or “Mr. Policeman, are you sure my car was going that fast?”|Erika Griechisch, Jean Renard Ward and Gergely Hanczár|-|
-|220|Deep Generalized Max Pooling|Vincent Christlein, Lukas Spranger, Anguelos Nicolaou, Mathias Seuret and Andreas Maier|-|
-|221|Identifying the Central Figure of a Scientific Paper|Sean Yang, Lia Kazakova, Poshen Lee, Abhishek Joshi, Bum Mook Oh, Jevin D. West and Bill Howe|-|
-|222|A Quality and Time Assessment of Binarization Algorithms for Scanned Documents|Rafael Lins, Rodrigo B. Bernardino and Darlisson Marinho Jesus|-|
+|220|[Deep Generalized Max Pooling](https://arxiv.org/pdf/1908.05040.pdf)|Vincent Christlein, Lukas Spranger, Anguelos Nicolaou, Mathias Seuret and Andreas Maier|[Link](https://github.com/VChristlein/dgmp)|
+|221|[Identifying the Central Figure of a Scientific Paper](https://ieeexplore.ieee.org/document/8978174)|Sean Yang, Lia Kazakova, Poshen Lee, Abhishek Joshi, Bum Mook Oh, Jevin D. West and Bill Howe|-|
+|222|[A Quality and Time Assessment of Binarization Algorithms for Scanned Documents](https://ieeexplore.ieee.org/document/8978009)|Rafael Lins, Rodrigo B. Bernardino and Darlisson Marinho Jesus|-|
 |223|[A Study of Script Language Effects In Deep Neural Network Based Scene Text Detection](https://ieeexplore.ieee.org/document/8978029)|Jiaxin Cheng, Achin Gupta, Yue Wu and Premkumar Natarajan|-|
 |224|[Fast Text/non-text Image Classification with Knowledge Distillation](https://ieeexplore.ieee.org/document/8977971)|Miao Zhao, Rui-Qi Wang, Fei Yin, Xu-Yao Zhang, Lin-Lin Huang and Jean-Marc Ogier|-|
 |225|[BRIDGE: Building plan Repository for Image Description Generation, and Evaluation](http://home.iitj.ac.in/~chiranjoy/research/dataset/BridgePaper/pdf/ICDAR_2019.pdf)|Shreya Goyal, Vishesh Mistry, Chiranjoy Chattopadhyay and Gaurav Bhatnagar|-|
