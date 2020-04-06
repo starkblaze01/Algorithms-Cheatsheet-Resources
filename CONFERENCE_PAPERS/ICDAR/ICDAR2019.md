@@ -21,8 +21,8 @@
 |17|[Cascaded Detail-Preserving Networks for Super-Resolution of Document Images](https://arxiv.org/pdf/1911.10714.pdf)|Zhichao Fu, Yu Kong, Yingbin Zheng, Hao Ye, Wenxin Hu, Jing Yang and Liang He|-|
 |18|[Multimodal Document Image Classification](https://ieeexplore.ieee.org/abstract/document/8977998)|Rajiv Jain and Curtis Wigington|-|
 |19|[KuroNet: Pre-Modern Japanese Kuzushiji Character Recognition with Deep Learning](https://arxiv.org/pdf/1910.09433.pdf)|Tarin Clanuwat, Alex Lamb and Asanobu Kitamoto|-|
-|20|Sub-word based Mongolian Offline Handwriting Recognition|Fan Daoerji, Guanglai Gao and Wu Huijuan|-|
-|21|EATEN: Entity-aware Attention for Single Shot Visual Text Extraction|He Guo, Xiameng Qin, Jiaming Liu, Junyu Han, Jingtuo Liu and Errui Ding|-|
+|20|[Sub-word based Mongolian Offline Handwriting Recognition](https://ieeexplore.ieee.org/abstract/document/8978085)|Fan Daoerji, Guanglai Gao and Wu Huijuan|-|
+|21|[EATEN: Entity-aware Attention for Single Shot Visual Text Extraction](https://arxiv.org/pdf/1909.09380.pdf)|He Guo, Xiameng Qin, Jiaming Liu, Junyu Han, Jingtuo Liu and Errui Ding|[Link](https://github.com/beacandler/EATEN)|
 |22|Can One Deep Learning Model Learn Script-Independent Multilingual Word-Spotting?|Mohammed Al-Rawi, Ernest Valveny and Dimosthenis Karatzas|-|
 |23|Semi-Synthetic Data Augmentation of Scanned Historical Documents|Romain Karpinski and Abdel Belaid|-|
 |24|Attention after Attention: Reading Text in the Wild with Cross Attention|Yunlong Huang, Canjie Luo, Lianwen Jin, Qingxiang Lin and Weiying Zhou|-|
