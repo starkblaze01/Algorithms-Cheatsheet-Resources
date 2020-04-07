@@ -23,13 +23,13 @@
 |19|[KuroNet: Pre-Modern Japanese Kuzushiji Character Recognition with Deep Learning](https://arxiv.org/pdf/1910.09433.pdf)|Tarin Clanuwat, Alex Lamb and Asanobu Kitamoto|-|
 |20|[Sub-word based Mongolian Offline Handwriting Recognition](https://ieeexplore.ieee.org/abstract/document/8978085)|Fan Daoerji, Guanglai Gao and Wu Huijuan|-|
 |21|[EATEN: Entity-aware Attention for Single Shot Visual Text Extraction](https://arxiv.org/pdf/1909.09380.pdf)|He Guo, Xiameng Qin, Jiaming Liu, Junyu Han, Jingtuo Liu and Errui Ding|[Link](https://github.com/beacandler/EATEN)|
-|22|Can One Deep Learning Model Learn Script-Independent Multilingual Word-Spotting?|Mohammed Al-Rawi, Ernest Valveny and Dimosthenis Karatzas|-|
-|23|Semi-Synthetic Data Augmentation of Scanned Historical Documents|Romain Karpinski and Abdel Belaid|-|
-|24|Attention after Attention: Reading Text in the Wild with Cross Attention|Yunlong Huang, Canjie Luo, Lianwen Jin, Qingxiang Lin and Weiying Zhou|-|
-|25|Article Segmentation in Digitised Newspapers with a 2D Markov Model|Andrew Naoum, Joel Nothman and James Curran|-|
-|26|A Teacher-Student Learning based Born-Again Training Approach to Improving Scene Text Detection Accuracy|Zhuoyao Zhong, Lei Sun and Qiang Huo|-|
-|27|Versatile Layout Understanding via Conjugate Graph|Animesh Prasad, Hervé Déjean and Jean-Luc Meunier|-|
-|28|Dissecting Multi-Line Handwriting for Multi-Dimensional Connectionist Classification|Martin Schall, Marc-Peter Schambach and Matthias Franz|-|
+|22|[Can One Deep Learning Model Learn Script-Independent Multilingual Word-Spotting?](https://ieeexplore.ieee.org/abstract/document/8978043)|Mohammed Al-Rawi, Ernest Valveny and Dimosthenis Karatzas|-|
+|23|[Semi-Synthetic Data Augmentation of Scanned Historical Documents](https://hal.inria.fr/hal-02460891/document)|Romain Karpinski and Abdel Belaid|-|
+|24|[Attention after Attention: Reading Text in the Wild with Cross Attention](https://ieeexplore.ieee.org/document/8977967)|Yunlong Huang, Canjie Luo, Lianwen Jin, Qingxiang Lin and Weiying Zhou|-|
+|25|[Article Segmentation in Digitised Newspapers with a 2D Markov Model](https://ieeexplore.ieee.org/document/8978066)|Andrew Naoum, Joel Nothman and James Curran|-|
+|26|[A Teacher-Student Learning based Born-Again Training Approach to Improving Scene Text Detection Accuracy](https://ieeexplore.ieee.org/abstract/document/8977977)|Zhuoyao Zhong, Lei Sun and Qiang Huo|-|
+|27|[Versatile Layout Understanding via Conjugate Graph](https://www.researchgate.net/publication/336103922_Versatile_Layout_Understanding_via_Conjugate_Graph)|Animesh Prasad, Hervé Déjean and Jean-Luc Meunier|-|
+|28|[Dissecting Multi-Line Handwriting for Multi-Dimensional Connectionist Classification](https://www.researchgate.net/publication/336363563_Dissecting_Multi-Line_Handwriting_for_Multi-Dimensional_Connectionist_Classification)|Martin Schall, Marc-Peter Schambach and Matthias Franz|-|
 |29|DeepER: A modern OCR Engine Based on Deep Learning|Marcin Namysl and Iuliu Konya|-|
 |30|Training Full-Page Handwritten Text Recognition Models without Annotated Line Breaks|Curtis Wigington and Christopher Tensmeyer|-|
 |31|MTRNet: A Generic Scene Text Eraser|Osman Tursun, Rui Zeng, Simon Denman, Sabesan Sivapalan, Sridha Sridharan and Clinton Fookes|-|
