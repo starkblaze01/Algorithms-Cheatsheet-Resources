@@ -30,11 +30,11 @@
 |26|[A Teacher-Student Learning based Born-Again Training Approach to Improving Scene Text Detection Accuracy](https://ieeexplore.ieee.org/abstract/document/8977977)|Zhuoyao Zhong, Lei Sun and Qiang Huo|-|
 |27|[Versatile Layout Understanding via Conjugate Graph](https://www.researchgate.net/publication/336103922_Versatile_Layout_Understanding_via_Conjugate_Graph)|Animesh Prasad, Hervé Déjean and Jean-Luc Meunier|-|
 |28|[Dissecting Multi-Line Handwriting for Multi-Dimensional Connectionist Classification](https://www.researchgate.net/publication/336363563_Dissecting_Multi-Line_Handwriting_for_Multi-Dimensional_Connectionist_Classification)|Martin Schall, Marc-Peter Schambach and Matthias Franz|-|
-|29|DeepER: A modern OCR Engine Based on Deep Learning|Marcin Namysl and Iuliu Konya|-|
-|30|Training Full-Page Handwritten Text Recognition Models without Annotated Line Breaks|Curtis Wigington and Christopher Tensmeyer|-|
-|31|MTRNet: A Generic Scene Text Eraser|Osman Tursun, Rui Zeng, Simon Denman, Sabesan Sivapalan, Sridha Sridharan and Clinton Fookes|-|
-|32|Fast Distributional Smoothing for Regularization in CTC Applied to Text Recognition|Ryohei Tanaka, Soichiro Ono and Akio Furuhata|-|
-|33|Oracle Character Recognition by Nearest Neighbor Classification with Deep Metric Learning|Yi-Kang Zhang, Heng Zhang, Yong-Ge Liu and Cheng-Lin Liu|-|
+|29|[DeepER: A modern OCR Engine Based on Deep Learning](https://arxiv.org/pdf/1906.01969.pdf)|Marcin Namysl and Iuliu Konya|-|
+|30|[Training Full-Page Handwritten Text Recognition Models without Annotated Line Breaks](https://ieeexplore.ieee.org/abstract/document/8978164)|Curtis Wigington and Christopher Tensmeyer|-|
+|31|[MTRNet: A Generic Scene Text Eraser](https://arxiv.org/pdf/1903.04092.pdf)|Osman Tursun, Rui Zeng, Simon Denman, Sabesan Sivapalan, Sridha Sridharan and Clinton Fookes|-|
+|32|[Fast Distributional Smoothing for Regularization in CTC Applied to Text Recognition](https://ieeexplore.ieee.org/document/8977964)|Ryohei Tanaka, Soichiro Ono and Akio Furuhata|-|
+|33|[Oracle Character Recognition by Nearest Neighbor Classification with Deep Metric Learning](http://ir.ia.ac.cn/bitstream/173211/28356/1/ICDAR_YKZhang.pdf)|Yi-Kang Zhang, Heng Zhang, Yong-Ge Liu and Cheng-Lin Liu|-|
 |34|PubLayNet: largest dataset ever for document layout analysis|Xu Zhong and Antonio Jimeno Yepes|-|
 |35|Template-Instance Loss for Offline Handwritten Chinese Character Recognition|Yao Xiao, Dan Meng, Cewu Lu and Chi-Keung Tang|-|
 |36|Urdu-Text: A Dataset and Benchmark for Urdu Text Detection and Recognition in Natural Scenes|Asghar Ali and Mark Pickering|-|
