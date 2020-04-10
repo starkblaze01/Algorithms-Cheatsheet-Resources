@@ -39,10 +39,10 @@
 |35|[Template-Instance Loss for Offline Handwritten Chinese Character Recognition](https://arxiv.org/pdf/1910.05545.pdf)|Yao Xiao, Dan Meng, Cewu Lu and Chi-Keung Tang|-|
 |36|[Urdu-Text: A Dataset and Benchmark for Urdu Text Detection and Recognition in Natural Scenes](https://ieeexplore.ieee.org/document/8978091)|Asghar Ali and Mark Pickering|-|
 |37|[Attend, Copy, Parse – End-to-end information extraction from documents](https://arxiv.org/pdf/1812.07248.pdf)|Rasmus Berg Palm, Florian Laws and Ole Winther|[Link](https://github.com/Tradeshift/attend-copy-parse)|
-|38|Aiding Intra-Text Representations withVisual Context for MultimodalNamed Entity Recognition|Omer Arshad, Ignazio Gallo, Shah Nawaz and Alessandro Calefati|-|
-|39|WiSe – Slide Segmentation in the Wild|Monica Haurilet, Alina Roitberg, Manuel Martinez and Rainer Stiefelhagen|-|
-|40|Symmetric Inkball Alignment with Loopy Belief Propagation|Nicholas Howe and Ji Won Chung|-|
-|41|No Padding Please: Efficient Neural Handwriting Recognition|Gideon Maillette de Buy Wenniger, Lambert Schomaker and Andy Way|-|
+|38|[Aiding Intra-Text Representations withVisual Context for MultimodalNamed Entity Recognition](https://arxiv.org/pdf/1904.01356.pdf)|Omer Arshad, Ignazio Gallo, Shah Nawaz and Alessandro Calefati|[Link](https://github.com/omerarshad/MultiModalNER)|
+|39|[WiSe – Slide Segmentation in the Wild](https://cvhci.anthropomatik.kit.edu/~mhaurile/papers/2019_ICDAR_WiSe.pdf)|Monica Haurilet, Alina Roitberg, Manuel Martinez and Rainer Stiefelhagen|-|
+|40|[Symmetric Inkball Alignment with Loopy Belief Propagation](http://www.cs.smith.edu/~nhowe/research/pubs/icdar2019.pdf)|Nicholas Howe and Ji Won Chung|-|
+|41|[No Padding Please: Efficient Neural Handwriting Recognition](https://arxiv.org/pdf/1902.11208.pdf)|Gideon Maillette de Buy Wenniger, Lambert Schomaker and Andy Way|[Link](https://github.com/gwenniger/multi-hare)|
 |42|TableNet: Deep Learning based end-to-end model for Table detection and Tabular data extraction from Scanned Document Images|Shubham Paliwal, Vishwanath D, Rohit Rahul, Monika Sharma and Lovekesh Vig|-|
 |43|Developing Horizon Scanning Methods for the Discovery of Scientific Trends|Maja Karasalo and Johan Schubert|-|
 |44|A Spatio-Spectral Hybrid Convolutional Architecture for Hyperspectral Document Authentication|Muhammad Jaleed Khan, Khurram Khurshid and Faisal Shafait|-|
