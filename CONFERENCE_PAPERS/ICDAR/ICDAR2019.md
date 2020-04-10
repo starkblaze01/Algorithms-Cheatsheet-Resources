@@ -35,10 +35,10 @@
 |31|[MTRNet: A Generic Scene Text Eraser](https://arxiv.org/pdf/1903.04092.pdf)|Osman Tursun, Rui Zeng, Simon Denman, Sabesan Sivapalan, Sridha Sridharan and Clinton Fookes|-|
 |32|[Fast Distributional Smoothing for Regularization in CTC Applied to Text Recognition](https://ieeexplore.ieee.org/document/8977964)|Ryohei Tanaka, Soichiro Ono and Akio Furuhata|-|
 |33|[Oracle Character Recognition by Nearest Neighbor Classification with Deep Metric Learning](http://ir.ia.ac.cn/bitstream/173211/28356/1/ICDAR_YKZhang.pdf)|Yi-Kang Zhang, Heng Zhang, Yong-Ge Liu and Cheng-Lin Liu|-|
-|34|PubLayNet: largest dataset ever for document layout analysis|Xu Zhong and Antonio Jimeno Yepes|-|
-|35|Template-Instance Loss for Offline Handwritten Chinese Character Recognition|Yao Xiao, Dan Meng, Cewu Lu and Chi-Keung Tang|-|
-|36|Urdu-Text: A Dataset and Benchmark for Urdu Text Detection and Recognition in Natural Scenes|Asghar Ali and Mark Pickering|-|
-|37|Attend, Copy, Parse – End-to-end information extraction from documents|Rasmus Berg Palm, Florian Laws and Ole Winther|-|
+|34|[PubLayNet: largest dataset ever for document layout analysis](https://arxiv.org/pdf/1908.07836.pdf)|Xu Zhong and Antonio Jimeno Yepes|[Link](https://github.com/ibm-aur-nlp/PubLayNet)|
+|35|[Template-Instance Loss for Offline Handwritten Chinese Character Recognition](https://arxiv.org/pdf/1910.05545.pdf)|Yao Xiao, Dan Meng, Cewu Lu and Chi-Keung Tang|-|
+|36|[Urdu-Text: A Dataset and Benchmark for Urdu Text Detection and Recognition in Natural Scenes](https://ieeexplore.ieee.org/document/8978091)|Asghar Ali and Mark Pickering|-|
+|37|[Attend, Copy, Parse – End-to-end information extraction from documents](https://arxiv.org/pdf/1812.07248.pdf)|Rasmus Berg Palm, Florian Laws and Ole Winther|[Link](https://github.com/Tradeshift/attend-copy-parse)|
 |38|Aiding Intra-Text Representations withVisual Context for MultimodalNamed Entity Recognition|Omer Arshad, Ignazio Gallo, Shah Nawaz and Alessandro Calefati|-|
 |39|WiSe – Slide Segmentation in the Wild|Monica Haurilet, Alina Roitberg, Manuel Martinez and Rainer Stiefelhagen|-|
 |40|Symmetric Inkball Alignment with Loopy Belief Propagation|Nicholas Howe and Ji Won Chung|-|
@@ -218,9 +218,9 @@
 |214|Speeding-up the Handwritten Signature Segmentation Process through an Optimized Fully Convolutional Neural Network|Paloma G. S. Silva, Celso A. M. L. Junior, Estanislau Lima, Byron Bezerra and Cleber Zanchettin|-|
 |215|Document Domain Adaptation with Generative Adversarial Networks|Diede Rusticus, Lutz Goldmann and Mauricio Villegas Santamaria|-|
 |216|Morphological Network for Document Image processing|Ranjan Mondal, Deepayan Chakraborty and Bhabatosh Chanda|-|
-|217|Chemical Structure Recognition (CSR) System: Automatic Analysis of 2D Chemical Structures in Document Images|Zaryab Iftikhar, Syed Saqib Bukhari and Andreas Dengel|-|
-|218|A Neural Approach for Text Extraction from Scholarly Figures|David Morris, Peichen Tang and Ralph Ewerth|-|
-|219|Anomalies in measuring speed and other dynamic properties with touchscreens and tablets as a result of non-uniformity of sampling or “Mr. Policeman, are you sure my car was going that fast?”|Erika Griechisch, Jean Renard Ward and Gergely Hanczár|-|
+|217|[Chemical Structure Recognition (CSR) System: Automatic Analysis of 2D Chemical Structures in Document Images](https://ieeexplore.ieee.org/document/8978184)|Zaryab Iftikhar, Syed Saqib Bukhari and Andreas Dengel|-|
+|218|[A Neural Approach for Text Extraction from Scholarly Figures](https://ieeexplore.ieee.org/document/8978202)|David Morris, Peichen Tang and Ralph Ewerth|[Link](https://data.uni-hannover.de/dataset/ef96d2db-9cbe-4738-b7bf-da556e12bdc2)|
+|219|[Anomalies in measuring speed and other dynamic properties with touchscreens and tablets as a result of non-uniformity of sampling or “Mr. Policeman, are you sure my car was going that fast?”](https://ieeexplore.ieee.org/document/8897249)|Erika Griechisch, Jean Renard Ward and Gergely Hanczár|-|
 |220|[Deep Generalized Max Pooling](https://arxiv.org/pdf/1908.05040.pdf)|Vincent Christlein, Lukas Spranger, Anguelos Nicolaou, Mathias Seuret and Andreas Maier|[Link](https://github.com/VChristlein/dgmp)|
 |221|[Identifying the Central Figure of a Scientific Paper](https://ieeexplore.ieee.org/document/8978174)|Sean Yang, Lia Kazakova, Poshen Lee, Abhishek Joshi, Bum Mook Oh, Jevin D. West and Bill Howe|-|
 |222|[A Quality and Time Assessment of Binarization Algorithms for Scanned Documents](https://ieeexplore.ieee.org/document/8978009)|Rafael Lins, Rodrigo B. Bernardino and Darlisson Marinho Jesus|-|
