@@ -43,7 +43,7 @@
 |39|[WiSe – Slide Segmentation in the Wild](https://cvhci.anthropomatik.kit.edu/~mhaurile/papers/2019_ICDAR_WiSe.pdf)|Monica Haurilet, Alina Roitberg, Manuel Martinez and Rainer Stiefelhagen|-|
 |40|[Symmetric Inkball Alignment with Loopy Belief Propagation](http://www.cs.smith.edu/~nhowe/research/pubs/icdar2019.pdf)|Nicholas Howe and Ji Won Chung|-|
 |41|[No Padding Please: Efficient Neural Handwriting Recognition](https://arxiv.org/pdf/1902.11208.pdf)|Gideon Maillette de Buy Wenniger, Lambert Schomaker and Andy Way|[Link](https://github.com/gwenniger/multi-hare)|
-|42|TableNet: Deep Learning based end-to-end model for Table detection and Tabular data extraction from Scanned Document Images|Shubham Paliwal, Vishwanath D, Rohit Rahul, Monika Sharma and Lovekesh Vig|-|
+|42|[TableNet: Deep Learning based end-to-end model for Table detection and Tabular data extraction from Scanned Document Images](https://arxiv.org/pdf/2001.01469.pdf)|Shubham Paliwal, Vishwanath D, Rohit Rahul, Monika Sharma and Lovekesh Vig|-|
 |43|Developing Horizon Scanning Methods for the Discovery of Scientific Trends|Maja Karasalo and Johan Schubert|-|
 |44|A Spatio-Spectral Hybrid Convolutional Architecture for Hyperspectral Document Authentication|Muhammad Jaleed Khan, Khurram Khurshid and Faisal Shafait|-|
 |45|Integrating Coordinates with Context for Information Extraction in Document Images|Zhaohui Jiang, Zheng Huang, Jie Guo, Weidong Qiu and Yunrui Lian|-|
