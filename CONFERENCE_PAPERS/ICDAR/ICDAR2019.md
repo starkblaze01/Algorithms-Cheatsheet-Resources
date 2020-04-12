@@ -44,10 +44,10 @@
 |40|[Symmetric Inkball Alignment with Loopy Belief Propagation](http://www.cs.smith.edu/~nhowe/research/pubs/icdar2019.pdf)|Nicholas Howe and Ji Won Chung|-|
 |41|[No Padding Please: Efficient Neural Handwriting Recognition](https://arxiv.org/pdf/1902.11208.pdf)|Gideon Maillette de Buy Wenniger, Lambert Schomaker and Andy Way|[Link](https://github.com/gwenniger/multi-hare)|
 |42|[TableNet: Deep Learning based end-to-end model for Table detection and Tabular data extraction from Scanned Document Images](https://arxiv.org/pdf/2001.01469.pdf)|Shubham Paliwal, Vishwanath D, Rohit Rahul, Monika Sharma and Lovekesh Vig|-|
-|43|Developing Horizon Scanning Methods for the Discovery of Scientific Trends|Maja Karasalo and Johan Schubert|-|
-|44|A Spatio-Spectral Hybrid Convolutional Architecture for Hyperspectral Document Authentication|Muhammad Jaleed Khan, Khurram Khurshid and Faisal Shafait|-|
-|45|Integrating Coordinates with Context for Information Extraction in Document Images|Zhaohui Jiang, Zheng Huang, Jie Guo, Weidong Qiu and Yunrui Lian|-|
-|46|Text Line Segmentation in Historical Document Images Using an adaptive U-Net Architecture|Olfa Mechi, Maroua Mehri and Najoua Essoukri Ben Amara|-|
+|43|[Developing Horizon Scanning Methods for the Discovery of Scientific Trends](https://www.foi.se/download/18.787987fb16d6f5f4a2a1d6/1570188796672/Developing_horizon_scanning_FOI-S--6080--SE.pdf)|Maja Karasalo and Johan Schubert|-|
+|44|[A Spatio-Spectral Hybrid Convolutional Architecture for Hyperspectral Document Authentication](https://www.researchgate.net/profile/Khurram_Khurshid2/publication/333260857_A_Spatio-Spectral_Hybrid_Convolutional_Architecture_for_Hyperspectral_Document_Authentication/links/5d9c270492851c2f70f40d00/A-Spatio-Spectral-Hybrid-Convolutional-Architecture-for-Hyperspectral-Document-Authentication.pdf)|Muhammad Jaleed Khan, Khurram Khurshid and Faisal Shafait|-|
+|45|[Integrating Coordinates with Context for Information Extraction in Document Images](https://ieeexplore.ieee.org/abstract/document/8978016)|Zhaohui Jiang, Zheng Huang, Jie Guo, Weidong Qiu and Yunrui Lian|-|
+|46|[Text Line Segmentation in Historical Document Images Using an adaptive U-Net Architecture](https://www.researchgate.net/publication/339025343_Text_Line_Segmentation_in_Historical_Document_Images_Using_an_Adaptive_U-Net_Architecture)|Olfa Mechi, Maroua Mehri and Najoua Essoukri Ben Amara|-|
 |47|TextEdge: Multi-oriented Scene Text Detection via Region Segmentation and Edge Classification|Chen Du, Yanna Wang, Chunheng Wang, Cunzhao Shi, Baihua Xiao, Zipeng Feng and Jiyuan Zhang|-|
 |48|Document Binarization via Multi-Resolutional Attention Model with DRD Loss|Xujun Peng, Chao Wang and Huaigu Cao|-|
 |49|Extraction of Math Expressions from PDF Documents based on Unsupervised Modeling of Fonts|Zelun Wang, Donald Beyette, Jason Lin and Jyh-Charn Liu|-|
