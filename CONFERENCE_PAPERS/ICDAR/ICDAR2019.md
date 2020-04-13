@@ -48,9 +48,9 @@
 |44|[A Spatio-Spectral Hybrid Convolutional Architecture for Hyperspectral Document Authentication](https://www.researchgate.net/profile/Khurram_Khurshid2/publication/333260857_A_Spatio-Spectral_Hybrid_Convolutional_Architecture_for_Hyperspectral_Document_Authentication/links/5d9c270492851c2f70f40d00/A-Spatio-Spectral-Hybrid-Convolutional-Architecture-for-Hyperspectral-Document-Authentication.pdf)|Muhammad Jaleed Khan, Khurram Khurshid and Faisal Shafait|-|
 |45|[Integrating Coordinates with Context for Information Extraction in Document Images](https://ieeexplore.ieee.org/abstract/document/8978016)|Zhaohui Jiang, Zheng Huang, Jie Guo, Weidong Qiu and Yunrui Lian|-|
 |46|[Text Line Segmentation in Historical Document Images Using an adaptive U-Net Architecture](https://www.researchgate.net/publication/339025343_Text_Line_Segmentation_in_Historical_Document_Images_Using_an_Adaptive_U-Net_Architecture)|Olfa Mechi, Maroua Mehri and Najoua Essoukri Ben Amara|-|
-|47|TextEdge: Multi-oriented Scene Text Detection via Region Segmentation and Edge Classification|Chen Du, Yanna Wang, Chunheng Wang, Cunzhao Shi, Baihua Xiao, Zipeng Feng and Jiyuan Zhang|-|
-|48|Document Binarization via Multi-Resolutional Attention Model with DRD Loss|Xujun Peng, Chao Wang and Huaigu Cao|-|
-|49|Extraction of Math Expressions from PDF Documents based on Unsupervised Modeling of Fonts|Zelun Wang, Donald Beyette, Jason Lin and Jyh-Charn Liu|-|
+|47|[TextEdge: Multi-oriented Scene Text Detection via Region Segmentation and Edge Classification](https://ieeexplore.ieee.org/abstract/document/8977979)|Chen Du, Yanna Wang, Chunheng Wang, Cunzhao Shi, Baihua Xiao, Zipeng Feng and Jiyuan Zhang|-|
+|48|[Document Binarization via Multi-Resolutional Attention Model with DRD Loss](https://ieeexplore.ieee.org/document/8977972/)|Xujun Peng, Chao Wang and Huaigu Cao|-|
+|49|[Extraction of Math Expressions from PDF Documents based on Unsupervised Modeling of Fonts](https://ieeexplore.ieee.org/abstract/document/8978012/)|Zelun Wang, Donald Beyette, Jason Lin and Jyh-Charn Liu|-|
 |50|A Pairwise Model to Reduce Split Detections on Embedded Math Expressions in Scientific Publications|Zelun Wang, Xing Wang and Jyh-Charn Liu|-|
 |51|Automatic synthetic document image generation using generative adversarial networks: application in mobile-captured document analysis|Quang Anh Bui, Salvatore Tabbone and David Mollard|-|
 |52|Selective Super-Resolution for Scene Text Images|Ryo Nakao, Brian Kenji Iwana and Seiichi Uchida|-|
