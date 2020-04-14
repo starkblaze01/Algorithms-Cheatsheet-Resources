@@ -52,8 +52,8 @@
 |48|[Document Binarization via Multi-Resolutional Attention Model with DRD Loss](https://ieeexplore.ieee.org/document/8977972/)|Xujun Peng, Chao Wang and Huaigu Cao|-|
 |49|[Extraction of Math Expressions from PDF Documents based on Unsupervised Modeling of Fonts](https://ieeexplore.ieee.org/abstract/document/8978012/)|Zelun Wang, Donald Beyette, Jason Lin and Jyh-Charn Liu|-|
 |50|A Pairwise Model to Reduce Split Detections on Embedded Math Expressions in Scientific Publications|Zelun Wang, Xing Wang and Jyh-Charn Liu|-|
-|51|Automatic synthetic document image generation using generative adversarial networks: application in mobile-captured document analysis|Quang Anh Bui, Salvatore Tabbone and David Mollard|-|
-|52|Selective Super-Resolution for Scene Text Images|Ryo Nakao, Brian Kenji Iwana and Seiichi Uchida|-|
+|51|[Automatic synthetic document image generation using generative adversarial networks: application in mobile-captured document analysis](https://www.researchgate.net/publication/336115616_Automatic_Synthetic_Document_Image_Generation_using_Generative_Adversarial_Networks_Application_in_Mobile-Captured_Document_Analysis)|Quang Anh Bui, Salvatore Tabbone and David Mollard|-|
+|52|[Selective Super-Resolution for Scene Text Images](https://ieeexplore.ieee.org/abstract/document/8977974/)|Ryo Nakao, Brian Kenji Iwana and Seiichi Uchida|-|
 |53|Modality Conversion of Handwritten Patterns by Cross Variational Autoencoders|Taichi Sumi, Brian Kenji Iwana, Hideaki Hayashi and Seiichi Uchida|-|
 |54|Page Segmentation using a Convolutional Neural Network with Trainable  Co-occurrence Features|Joonho Lee, Hideaki Hayashi, Wataru Ohyama and Seiichi Uchida|-|
 |55|Adversarial Feature Enhancing Network for End-to-End Handwritten Paragraph Recognition|Yaoxiong Huang, Zecheng Xie, Lianwen Jin, Yuanzhi Zhu and Shuaitao Zhang|-|
