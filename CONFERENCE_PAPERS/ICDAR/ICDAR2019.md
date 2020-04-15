@@ -54,14 +54,14 @@
 |50|A Pairwise Model to Reduce Split Detections on Embedded Math Expressions in Scientific Publications|Zelun Wang, Xing Wang and Jyh-Charn Liu|-|
 |51|[Automatic synthetic document image generation using generative adversarial networks: application in mobile-captured document analysis](https://www.researchgate.net/publication/336115616_Automatic_Synthetic_Document_Image_Generation_using_Generative_Adversarial_Networks_Application_in_Mobile-Captured_Document_Analysis)|Quang Anh Bui, Salvatore Tabbone and David Mollard|-|
 |52|[Selective Super-Resolution for Scene Text Images](https://ieeexplore.ieee.org/abstract/document/8977974/)|Ryo Nakao, Brian Kenji Iwana and Seiichi Uchida|-|
-|53|Modality Conversion of Handwritten Patterns by Cross Variational Autoencoders|Taichi Sumi, Brian Kenji Iwana, Hideaki Hayashi and Seiichi Uchida|-|
-|54|Page Segmentation using a Convolutional Neural Network with Trainable  Co-occurrence Features|Joonho Lee, Hideaki Hayashi, Wataru Ohyama and Seiichi Uchida|-|
-|55|Adversarial Feature Enhancing Network for End-to-End Handwritten Paragraph Recognition|Yaoxiong Huang, Zecheng Xie, Lianwen Jin, Yuanzhi Zhu and Shuaitao Zhang|-|
-|56|Offline Writer Identification Based on the Path Signature Approach|Songxuan Lai and Lianwen Jin|-|
-|57|An End-to-end Video Text Detector with Online Tracking|Hongyun Yu, Chengquan Zhang, Xuan Li, Junyu Han, Errui Ding and Liang Wang|-|
-|58|Deep Dynamic Time Warping: End-to-End Local Representation Learning for Online Signature Verification|Xiaomeng Wu, Akisato Kimura, Brian Kenji Iwana, Seiichi Uchida and Kunio Kashino|-|
-|59|Age Estimation using Disconnectedness Features in Handwriting|V. Basavaraja, Shivakumara Palaiahnakote, D. S. Guru, Umapada Pal, Tong Lu and Michael Blumenstein|-|
-|60|Digital Auditor: A Framework for Matching Duplicate Invoices|Himanshu Bhatt, Shourya Roy, Lokesh Bhatnagar, Chetan Lohani and Vinit Jain|-|
+|53|[Modality Conversion of Handwritten Patterns by Cross Variational Autoencoders](https://arxiv.org/pdf/1906.06142.pdf)|Taichi Sumi, Brian Kenji Iwana, Hideaki Hayashi and Seiichi Uchida|-|
+|54|[Page Segmentation using a Convolutional Neural Network with Trainable Co-occurrence Features](https://ieeexplore.ieee.org/document/8978118)|Joonho Lee, Hideaki Hayashi, Wataru Ohyama and Seiichi Uchida|-|
+|55|[Adversarial Feature Enhancing Network for End-to-End Handwritten Paragraph Recognition](https://ieeexplore.ieee.org/document/8978052)|Yaoxiong Huang, Zecheng Xie, Lianwen Jin, Yuanzhi Zhu and Shuaitao Zhang|-|
+|56|[Offline Writer Identification Based on the Path Signature Approach](https://arxiv.org/pdf/1905.01207.pdf)|Songxuan Lai and Lianwen Jin|-|
+|57|[An End-to-end Video Text Detector with Online Tracking](https://arxiv.org/pdf/1908.07135.pdf)|Hongyun Yu, Chengquan Zhang, Xuan Li, Junyu Han, Errui Ding and Liang Wang|-|
+|58|[Deep Dynamic Time Warping: End-to-End Local Representation Learning for Online Signature Verification](https://ieeexplore.ieee.org/document/8978093)|Xiaomeng Wu, Akisato Kimura, Brian Kenji Iwana, Seiichi Uchida and Kunio Kashino|-|
+|59|[Age Estimation using Disconnectedness Features in Handwriting](https://ieeexplore.ieee.org/abstract/document/8978131)|V. Basavaraja, Shivakumara Palaiahnakote, D. S. Guru, Umapada Pal, Tong Lu and Michael Blumenstein|-|
+|60|[Digital Auditor: A Framework for Matching Duplicate Invoices](https://ieeexplore.ieee.org/abstract/document/8978075)|Himanshu Bhatt, Shourya Roy, Lokesh Bhatnagar, Chetan Lohani and Vinit Jain|-|
 |61|Text Siamese Network for Video Textual Keyframe Detection|Hao Song, Hongzhen Wang, Shan Huang and Pei Xu|-|
 |62|Decipherment of Historical Manuscript Images|Xusen Yin, Nada Aldarrab, Beáta Megyesi and Kevin Knight|-|
 |63|On the Ability of a CNN to Realize Image-to-Image Language Conversion|Kohei Baba, Seiichi Uchida and Brian Kenji Iwana|-|
