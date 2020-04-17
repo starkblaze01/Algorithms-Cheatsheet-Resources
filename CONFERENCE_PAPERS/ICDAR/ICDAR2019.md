@@ -67,13 +67,13 @@
 |63|[On the Ability of a CNN to Realize Image-to-Image Language Conversion](https://ieeexplore.ieee.org/document/8978060)|Kohei Baba, Seiichi Uchida and Brian Kenji Iwana|-|
 |64|[Parameter free table detection method](https://ieeexplore.ieee.org/abstract/document/8977981)|Laiphangbam Melinda and Chakravarthy Bhagvati|-|
 |65|[Table Rows Segmentation](https://www.researchgate.net/publication/336103808_Table_Rows_Segmentation)|Jean-Luc Meunier and Hervé Déjean|-|
-|66|Discourse descriptor for document incremental classification, Comparison with Deep Learning|Vincent Poulain D’Andecy, Aurélie Joseph, Joaquin Cuenca and Jean-Marc Ogier|-|
-|67|CNN-Based Accidental Detection in Dense Printed Piano Scores|Kwon-Young Choi, Bertrand Coüasnon, Yann Ricquebourg and Richard Zanibbi|-|
-|68|Adversarial Generation of Handwritten Text Images Conditioned on Sequences|Eloi Alonso, Bastien Moysset and Ronaldo Messina|-|
-|69|Field typing for improved recognition on heterogeneous handwritten forms|Ciprian Tomoiaga, Paul Feng, Patrick Jayet and Mathieu Salzmann|-|
-|70|A Multi-Task Network for Localization and Recognition of Text in Images|Keegan Hines and Reza Sarshogh|-|
-|71|On the Use of Attention Mechanism in a Seq2Seq based Approach for Offline Handwritten Digit String Recognition|Thibault Lupinski, Abdel Belaid and Afef Kacem-Echi|-|
-|72|Scene Text Detection with Feature Pyramid Network and Linking Segments|Xi Liu, Rui Zhang, Yongsheng Zhou and Dong Wang|-|
+|66|[Discourse descriptor for document incremental classification, Comparison with Deep Learning](https://ieeexplore.ieee.org/document/8978101)|Vincent Poulain D’Andecy, Aurélie Joseph, Joaquin Cuenca and Jean-Marc Ogier|-|
+|67|[CNN-Based Accidental Detection in Dense Printed Piano Scores](https://www.cs.rit.edu/~rlaz/files/choi_icdar_2019.pdf)|Kwon-Young Choi, Bertrand Coüasnon, Yann Ricquebourg and Richard Zanibbi|-|
+|68|[Adversarial Generation of Handwritten Text Images Conditioned on Sequences](https://arxiv.org/pdf/1903.00277.pdf)|Eloi Alonso, Bastien Moysset and Ronaldo Messina|-|
+|69|[Field typing for improved recognition on heterogeneous handwritten forms](https://arxiv.org/pdf/1909.10120.pdf)|Ciprian Tomoiaga, Paul Feng, Patrick Jayet and Mathieu Salzmann|-|
+|70|[A Multi-Task Network for Localization and Recognition of Text in Images](https://arxiv.org/pdf/1906.09266.pdf)|Keegan Hines and Reza Sarshogh|-|
+|71|[On the Use of Attention Mechanism in a Seq2Seq based Approach for Offline Handwritten Digit String Recognition](https://hal.inria.fr/hal-02460896/document)|Thibault Lupinski, Abdel Belaid and Afef Kacem-Echi|-|
+|72|[Scene Text Detection with Feature Pyramid Network and Linking Segments](https://ieeexplore.ieee.org/document/8978203/)|Xi Liu, Rui Zhang, Yongsheng Zhou and Dong Wang|-|
 |73|Instance Aware Document Image Segmentation using Label Pyramid Networks and Deep Watershed Transformation|Xiao-Hui Li, Fei Yin, Tao Xue, Long Liu, Jean-Marc Ogier and Cheng-Lin Liu|-|
 |74|Detecting Text in News Images with Similarity Embedded Proposals|Miaotong Jiang|-|
 |75|A Stroke-based RNN for Writer-Independent Online Signature Verification|Chuang Li, Xing Zhang, Feng Lin, Zhiyong Wang, Jun’E Liu, Rui Zhang and Haiqiang Wang|-|
