@@ -74,17 +74,17 @@
 |70|[A Multi-Task Network for Localization and Recognition of Text in Images](https://arxiv.org/pdf/1906.09266.pdf)|Keegan Hines and Reza Sarshogh|-|
 |71|[On the Use of Attention Mechanism in a Seq2Seq based Approach for Offline Handwritten Digit String Recognition](https://hal.inria.fr/hal-02460896/document)|Thibault Lupinski, Abdel Belaid and Afef Kacem-Echi|-|
 |72|[Scene Text Detection with Feature Pyramid Network and Linking Segments](https://ieeexplore.ieee.org/document/8978203/)|Xi Liu, Rui Zhang, Yongsheng Zhou and Dong Wang|-|
-|73|Instance Aware Document Image Segmentation using Label Pyramid Networks and Deep Watershed Transformation|Xiao-Hui Li, Fei Yin, Tao Xue, Long Liu, Jean-Marc Ogier and Cheng-Lin Liu|-|
-|74|Detecting Text in News Images with Similarity Embedded Proposals|Miaotong Jiang|-|
-|75|A Stroke-based RNN for Writer-Independent Online Signature Verification|Chuang Li, Xing Zhang, Feng Lin, Zhiyong Wang, Jun’E Liu, Rui Zhang and Haiqiang Wang|-|
-|76|CNN based Binarization of MultiSpectral Documents|Fabian Hollaus, Simon Brenner and Robert Sablatnig|-|
-|77|Text line adjustment based on neural network|Ruochen Wang, Xiaojie Xia, Chunyan Zhang, Xiaoyi Yu, Jun Sun and Naoi Satoshi|-|
-|78|Towards Document Image Quality Assessment: A Text Line Based Framework and A Synthetic Text Line Image Dataset|Hongyu Li, Fan Zhu and Junhua Qiu|-|
-|79|Curved Text Detection in Natural Scene Images with Semi- and Weakly-Supervised Learning|Xugong Qin, Yu Zhou, Dongbao Yang and Weiping Wang|-|
-|80|Hybrid Training Data for Historical Text OCR|Jiří Martínek, Ladislav Lenc, Pavel Král, Anguelos Nicolaou and Vincent Christlein|-|
+|73|[Instance Aware Document Image Segmentation using Label Pyramid Networks and Deep Watershed Transformation](https://ieeexplore.ieee.org/abstract/document/8978152)|Xiao-Hui Li, Fei Yin, Tao Xue, Long Liu, Jean-Marc Ogier and Cheng-Lin Liu|-|
+|74|[Detecting Text in News Images with Similarity Embedded Proposals](https://ieeexplore.ieee.org/document/8978067)|Miaotong Jiang|-|
+|75|[A Stroke-based RNN for Writer-Independent Online Signature Verification](https://ieeexplore.ieee.org/document/8978099)|Chuang Li, Xing Zhang, Feng Lin, Zhiyong Wang, Jun’E Liu, Rui Zhang and Haiqiang Wang|-|
+|76|[CNN based Binarization of MultiSpectral Documents](https://ieeexplore.ieee.org/document/8978194)|Fabian Hollaus, Simon Brenner and Robert Sablatnig|-|
+|77|[Text line adjustment based on neural network](https://ieeexplore.ieee.org/document/8978193)|Ruochen Wang, Xiaojie Xia, Chunyan Zhang, Xiaoyi Yu, Jun Sun and Naoi Satoshi|-|
+|78|[Towards Document Image Quality Assessment: A Text Line Based Framework and A Synthetic Text Line Image Dataset](https://arxiv.org/pdf/1906.01907.pdf)|Hongyu Li, Fan Zhu and Junhua Qiu|-|
+|79|[Curved Text Detection in Natural Scene Images with Semi- and Weakly-Supervised Learning](https://arxiv.org/pdf/1908.09990.pdf)|Xugong Qin, Yu Zhou, Dongbao Yang and Weiping Wang|-|
+|80|[Hybrid Training Data for Historical Text OCR](https://ieeexplore.ieee.org/document/8978139)|Jiří Martínek, Ladislav Lenc, Pavel Král, Anguelos Nicolaou and Vincent Christlein|-|
 |81|Training Binary-Valued Gates LSTM|Zhe Li and Jian Cheng|-|
-|82|An End-to-end Trainable System for Offline Handwritten Chemical Formulae Recognition|Xiaoxue Liu, Ting Zhang and Xinguo Yu|-|
-|83|Table Detection in Invoice Documents by Graph Neural Networks|Pau Riba, Anjan Dutta, Lutz Goldmann, Alicia Fornés, Oriol Ramos and Josep Llados|-|
+|82|[An End-to-end Trainable System for Offline Handwritten Chemical Formulae Recognition](https://ieeexplore.ieee.org/abstract/document/8977958)|Xiaoxue Liu, Ting Zhang and Xinguo Yu|-|
+|83|[Table Detection in Invoice Documents by Graph Neural Networks](https://priba.github.io/assets/publi/conf/2019_ICDAR_PRiba.pdf)|Pau Riba, Anjan Dutta, Lutz Goldmann, Alicia Fornés, Oriol Ramos and Josep Llados|-|
 |84|Patch Aggregator for Scene Text Script Identification|Changxu Cheng, Qiuhui Huang, Xiang Bai, Bin Feng and Wenyu Liu|-|
 |85|Exploring Confidence Measures for Word Spotting in Heterogeneous Datasets|Fabian Wolf, Philipp Oberdiek and Gernot Fink|-|
 |86|Cross-modal Prototype Learning for Zero-shot Handwriting Recognition|Xiang Ao, Xu-Yao Zhang, Hong-Ming Yang, Fei Yin and Cheng-Lin Liu|-|
