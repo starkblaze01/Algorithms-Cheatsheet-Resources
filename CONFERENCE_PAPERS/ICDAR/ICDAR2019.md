@@ -85,23 +85,23 @@
 |81|Training Binary-Valued Gates LSTM|Zhe Li and Jian Cheng|-|
 |82|[An End-to-end Trainable System for Offline Handwritten Chemical Formulae Recognition](https://ieeexplore.ieee.org/abstract/document/8977958)|Xiaoxue Liu, Ting Zhang and Xinguo Yu|-|
 |83|[Table Detection in Invoice Documents by Graph Neural Networks](https://priba.github.io/assets/publi/conf/2019_ICDAR_PRiba.pdf)|Pau Riba, Anjan Dutta, Lutz Goldmann, Alicia Fornés, Oriol Ramos and Josep Llados|-|
-|84|Patch Aggregator for Scene Text Script Identification|Changxu Cheng, Qiuhui Huang, Xiang Bai, Bin Feng and Wenyu Liu|-|
-|85|Exploring Confidence Measures for Word Spotting in Heterogeneous Datasets|Fabian Wolf, Philipp Oberdiek and Gernot Fink|-|
-|86|Cross-modal Prototype Learning for Zero-shot Handwriting Recognition|Xiang Ao, Xu-Yao Zhang, Hong-Ming Yang, Fei Yin and Cheng-Lin Liu|-|
-|87|Multiple Comparative Attention Networks for Offline Handwritten Chinese Character Recognition|Qingquan Xu, Xiang Bai and Wenyu Liu|-|
-|88|A Multi-oriented Chinese Keyword Spotter Guided by Text Line Detection|Pei Xu, Shan Huang, Hongzhen Wang and Hao Song|-|
-|89|Residual BiRNN based Seq2Seq Model with Transition Probability Matrix for Online Handwritten Mathematical Expression Recognition|Zelin Hong, Ning You, Jun Tan and Ning Bi|-|
-|90|A Character Attention Generative Adversarial Network for Degraded Historical Document Restoration|Kha Cong Nguyen and Masaki Nakagawa|-|
-|91|Cascading Modular U-Nets for Document Image Binarization|Seokjun Kang, Seiichi Uchida and Brian Kenji Iwana|-|
-|92|Contextual Stroke Classification in Online Handwritten Documents with Graph Attention Networks|Jun-Yu Ye, Yan-Ming Zhang, Qing Yang and Cheng-Lin Liu|-|
-|93|OBC306: A Large-Scale Oracle Bone Character Recognition Dataset|Shuangping Huang, Haobin Wang, Yongge Liu, Xiaosong Shi and Lianwen Jin|-|
-|94|GARN: A Novel Generative Adversarial Recognition Network for End-to-End Scene Character Recognition|Hao Kong, Dongqi Tang, Xi Meng and Tong Lu|-|
-|95|Deep Network with Pixel-level Rectification and Robust Training for Handwriting Recognition|Shanyu Xiao, Liangrui Peng, Ruijie Yan and Shengjin Wang|-|
-|96|A Text-context-aware CNN Network for Multi-oriented and Multi-language Scene Text Detection|Yao Xiao, Yirui Wu, Shivakumara Palaiahnakote, Minglong Xue and Tong Lu|-|
-|97|A New Approach for Integrated Recognition and Correction of Texts from Images|Jian Wei, Kai Chen, Jianhua He, Zheng Huang, Yunrui Lian and Yi Zhou|-|
-|98|Handwritten words and digits recognition using Deep Learning based Bag of Features Framework|Najoua Rahal, Maroua Tounsi and Adel Alimi|-|
-|99|A Relation Network Based Approach to Curved Text Detection|Chixiang Ma, Zhuoyao Zhong, Lei Sun and Qiang Huo|-|
-|100|Capturing Micro Deformations from Pooling Layers for Offline Signature Verification|Yuchen Zheng, Wataru Ohyama, Brian Kenji Iwana and Seiichi Uchida|-|
+|84|[Patch Aggregator for Scene Text Script Identification](https://arxiv.org/pdf/1912.03818.pdf)|Changxu Cheng, Qiuhui Huang, Xiang Bai, Bin Feng and Wenyu Liu|-|
+|85|[Exploring Confidence Measures for Word Spotting in Heterogeneous Datasets](https://arxiv.org/pdf/1903.10930.pdf)|Fabian Wolf, Philipp Oberdiek and Gernot Fink|-|
+|86|[Cross-modal Prototype Learning for Zero-shot Handwriting Recognition](https://ieeexplore.ieee.org/abstract/document/8978065)|Xiang Ao, Xu-Yao Zhang, Hong-Ming Yang, Fei Yin and Cheng-Lin Liu|-|
+|87|[Multiple Comparative Attention Networks for Offline Handwritten Chinese Character Recognition](https://ieeexplore.ieee.org/abstract/document/8978116)|Qingquan Xu, Xiang Bai and Wenyu Liu|-|
+|88|[A Multi-oriented Chinese Keyword Spotter Guided by Text Line Detection](https://ieeexplore.ieee.org/abstract/document/8978141)|Pei Xu, Shan Huang, Hongzhen Wang and Hao Song|-|
+|89|[Residual BiRNN based Seq2Seq Model with Transition Probability Matrix for Online Handwritten Mathematical Expression Recognition](https://ieeexplore.ieee.org/document/8978167)|Zelin Hong, Ning You, Jun Tan and Ning Bi|-|
+|90|[A Character Attention Generative Adversarial Network for Degraded Historical Document Restoration](https://ieeexplore.ieee.org/document/8978008)|Kha Cong Nguyen and Masaki Nakagawa|-|
+|91|[Cascading Modular U-Nets for Document Image Binarization](https://ieeexplore.ieee.org/document/8977991)|Seokjun Kang, Seiichi Uchida and Brian Kenji Iwana|-|
+|92|[Contextual Stroke Classification in Online Handwritten Documents with Graph Attention Networks](https://ieeexplore.ieee.org/abstract/document/8978003)|Jun-Yu Ye, Yan-Ming Zhang, Qing Yang and Cheng-Lin Liu|-|
+|93|[OBC306: A Large-Scale Oracle Bone Character Recognition Dataset](https://ieeexplore.ieee.org/document/8978032)|Shuangping Huang, Haobin Wang, Yongge Liu, Xiaosong Shi and Lianwen Jin|-|
+|94|[GARN: A Novel Generative Adversarial Recognition Network for End-to-End Scene Character Recognition](https://ieeexplore.ieee.org/document/8978134)|Hao Kong, Dongqi Tang, Xi Meng and Tong Lu|-|
+|95|[Deep Network with Pixel-level Rectification and Robust Training for Handwriting Recognition](https://ieeexplore.ieee.org/abstract/document/8978002)|Shanyu Xiao, Liangrui Peng, Ruijie Yan and Shengjin Wang|-|
+|96|[A Text-context-aware CNN Network for Multi-oriented and Multi-language Scene Text Detection](https://ieeexplore.ieee.org/abstract/document/8978018)|Yao Xiao, Yirui Wu, Shivakumara Palaiahnakote, Minglong Xue and Tong Lu|-|
+|97|[A New Approach for Integrated Recognition and Correction of Texts from Images](https://ieeexplore.ieee.org/abstract/document/8978187)|Jian Wei, Kai Chen, Jianhua He, Zheng Huang, Yunrui Lian and Yi Zhou|-|
+|98|[Handwritten words and digits recognition using Deep Learning based Bag of Features Framework](https://ieeexplore.ieee.org/document/8978176)|Najoua Rahal, Maroua Tounsi and Adel Alimi|-|
+|99|[A Relation Network Based Approach to Curved Text Detection](https://ieeexplore.ieee.org/document/8977995)|Chixiang Ma, Zhuoyao Zhong, Lei Sun and Qiang Huo|-|
+|100|[Capturing Micro Deformations from Pooling Layers for Offline Signature Verification](http://human.ait.kyushu-u.ac.jp/publications/ICDAR2019-Yuchen.pdf)|Yuchen Zheng, Wataru Ohyama, Brian Kenji Iwana and Seiichi Uchida|-|
 |101|An efficient off-line handwritten Japanese address recognition system|Xiaojie Xia, Xiaoyi Yu, Wei Liu, Chunyan Zhang, Jun Sun and Satoshi Naoi|-|
 |102|A Comprehensive Study of ImageNet Pre-Training for Historical Document Image Analysis|Linda Studer, Michele Alberti, Vinaychandran Pondenkandath, Pinar Goktepe, Thomas Kolonko, Andreas Fischer, Marcus Liwicki and Rolf Ingold|-|
 |103|A Dataset of Greek Handwriting Written on Papyrus for the Task of Writer Identification|Hussein Mohammed, Isabelle Marthot-Santaniello and Volker Märgner|-|
@@ -213,10 +213,10 @@
 |209|A Robust Hybrid Approach for Textual Document Classification|Muhammad Nabeel Asim, Muhammad Usman Ghani Khan, Sheraz Ahmed, Andreas Dengel and Muhammad Imran Malik|-|
 |210|Rethinking Semantic Segmentation for Table Structure Recognition in Documents|Shoaib Ahmed Siddiqui, Pervaiz Iqbal Khan, Andreas Dengel and Sheraz Ahmed|-|
 |211|Content Extraction from Lecture Video via Speaker Action Classification based on Pose Information|Fei Xu, Kenny Davila, Srirangaraj Setlur and Venu Govindaraju|-|
-|212|DeepTabStR: Deep Learning based Table Structure Recognition|Shoaib Ahmed Siddiqui, Imran Ali Fateh, Syed Tahseen Raza Rizvi, Andreas Dengel and Sheraz Ahmed|-|
-|213|Two Stream Deep Network for Document Image Classification|Muhammad Nabeel Asim, Khizar Razzaque, Sheraz Ahmed, Muhammad Usman Ghani Khan, Andreas Dengel and Muhammad Imran Malik|-|
-|214|Speeding-up the Handwritten Signature Segmentation Process through an Optimized Fully Convolutional Neural Network|Paloma G. S. Silva, Celso A. M. L. Junior, Estanislau Lima, Byron Bezerra and Cleber Zanchettin|-|
-|215|Document Domain Adaptation with Generative Adversarial Networks|Diede Rusticus, Lutz Goldmann and Mauricio Villegas Santamaria|-|
+|212|[DeepTabStR: Deep Learning based Table Structure Recognition](https://www.researchgate.net/publication/339025475_DeepTabStR_Deep_Learning_based_Table_Structure_Recognition)|Shoaib Ahmed Siddiqui, Imran Ali Fateh, Syed Tahseen Raza Rizvi, Andreas Dengel and Sheraz Ahmed|-|
+|213|[Two Stream Deep Network for Document Image Classification](https://www.researchgate.net/publication/336210345_Two_Stream_Deep_Network_for_Document_Image_Classification)|Muhammad Nabeel Asim, Khizar Razzaque, Sheraz Ahmed, Muhammad Usman Ghani Khan, Andreas Dengel and Muhammad Imran Malik|[Link](https://github.com/Ali-Xain/DocumentImageClassification)|
+|214|[Speeding-up the Handwritten Signature Segmentation Process through an Optimized Fully Convolutional Neural Network](https://ieeexplore.ieee.org/abstract/document/8977965)|Paloma G. S. Silva, Celso A. M. L. Junior, Estanislau Lima, Byron Bezerra and Cleber Zanchettin|-|
+|215|[Document Domain Adaptation with Generative Adversarial Networks](https://ieeexplore.ieee.org/document/8978017)|Diede Rusticus, Lutz Goldmann and Mauricio Villegas Santamaria|-|
 |216|Morphological Network for Document Image processing|Ranjan Mondal, Deepayan Chakraborty and Bhabatosh Chanda|-|
 |217|[Chemical Structure Recognition (CSR) System: Automatic Analysis of 2D Chemical Structures in Document Images](https://ieeexplore.ieee.org/document/8978184)|Zaryab Iftikhar, Syed Saqib Bukhari and Andreas Dengel|-|
 |218|[A Neural Approach for Text Extraction from Scholarly Figures](https://ieeexplore.ieee.org/document/8978202)|David Morris, Peichen Tang and Ralph Ewerth|[Link](https://data.uni-hannover.de/dataset/ef96d2db-9cbe-4738-b7bf-da556e12bdc2)|
