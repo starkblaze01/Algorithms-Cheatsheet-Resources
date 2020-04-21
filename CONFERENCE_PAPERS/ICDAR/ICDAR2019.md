@@ -102,12 +102,12 @@
 |98|[Handwritten words and digits recognition using Deep Learning based Bag of Features Framework](https://ieeexplore.ieee.org/document/8978176)|Najoua Rahal, Maroua Tounsi and Adel Alimi|-|
 |99|[A Relation Network Based Approach to Curved Text Detection](https://ieeexplore.ieee.org/document/8977995)|Chixiang Ma, Zhuoyao Zhong, Lei Sun and Qiang Huo|-|
 |100|[Capturing Micro Deformations from Pooling Layers for Offline Signature Verification](http://human.ait.kyushu-u.ac.jp/publications/ICDAR2019-Yuchen.pdf)|Yuchen Zheng, Wataru Ohyama, Brian Kenji Iwana and Seiichi Uchida|-|
-|101|An efficient off-line handwritten Japanese address recognition system|Xiaojie Xia, Xiaoyi Yu, Wei Liu, Chunyan Zhang, Jun Sun and Satoshi Naoi|-|
-|102|A Comprehensive Study of ImageNet Pre-Training for Historical Document Image Analysis|Linda Studer, Michele Alberti, Vinaychandran Pondenkandath, Pinar Goktepe, Thomas Kolonko, Andreas Fischer, Marcus Liwicki and Rolf Ingold|-|
-|103|A Dataset of Greek Handwriting Written on Papyrus for the Task of Writer Identification|Hussein Mohammed, Isabelle Marthot-Santaniello and Volker Märgner|-|
-|104|The Pinkas Dataset|Berat Kurar Barakat, Irina Rabaev and Jihad El-Sana|-|
-|105|Layout Analysis on Challenging Historical Arabic Manuscripts using Siamese Network|Reem Alaasam, Berat Kurar and Jihad El-Sana|-|
-|106|Online writer identification using GMM based feature representation and writer-specific weights|Vivek Venugopal and Suresh Sundaram|-|
+|101|[An efficient off-line handwritten Japanese address recognition system](https://ieeexplore.ieee.org/abstract/document/8977985)|Xiaojie Xia, Xiaoyi Yu, Wei Liu, Chunyan Zhang, Jun Sun and Satoshi Naoi|-|
+|102|[A Comprehensive Study of ImageNet Pre-Training for Historical Document Image Analysis](https://arxiv.org/pdf/1905.09113.pdf)|Linda Studer, Michele Alberti, Vinaychandran Pondenkandath, Pinar Goktepe, Thomas Kolonko, Andreas Fischer, Marcus Liwicki and Rolf Ingold|-|
+|103|[A Dataset of Greek Handwriting Written on Papyrus for the Task of Writer Identification](https://ieeexplore.ieee.org/document/8978142)|Hussein Mohammed, Isabelle Marthot-Santaniello and Volker Märgner|-|
+|104|[The Pinkas Dataset](https://www.researchgate.net/publication/333929107_The_Pinkas_Dataset)|Berat Kurar Barakat, Irina Rabaev and Jihad El-Sana|-|
+|105|[Layout Analysis on Challenging Historical Arabic Manuscripts using Siamese Network](https://www.cs.bgu.ac.il/~berat/papers/icdar2019_layout.pdf)|Reem Alaasam, Berat Kurar and Jihad El-Sana|-|
+|106|[Online writer identification using GMM based feature representation and writer-specific weights](https://ieeexplore.ieee.org/abstract/document/8978098)|Vivek Venugopal and Suresh Sundaram|-|
 |107|ReS2TIM: Reconstruct Syntactic Structures from Table Images|Wenyuan Xue, Qingyong Li and Dacheng Tao|-|
 |108|Automatic page classification in a large collection of manuscripts based on the International Image Interoperability Framework|Emanuela Boros, Alexis Toumi, Erwan Rouchet, Bastien Abadie, Dominique Stutzmann and Christopher Kermorvant|-|
 |109|Offline Signature Verification using Structural Dynamic Time Warping|Michael Stauffer, Paul Maergner, Andreas Fischer and Kaspar Riesen|-|
