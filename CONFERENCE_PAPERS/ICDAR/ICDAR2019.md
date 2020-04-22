@@ -51,7 +51,7 @@
 |47|[TextEdge: Multi-oriented Scene Text Detection via Region Segmentation and Edge Classification](https://ieeexplore.ieee.org/abstract/document/8977979)|Chen Du, Yanna Wang, Chunheng Wang, Cunzhao Shi, Baihua Xiao, Zipeng Feng and Jiyuan Zhang|-|
 |48|[Document Binarization via Multi-Resolutional Attention Model with DRD Loss](https://ieeexplore.ieee.org/document/8977972/)|Xujun Peng, Chao Wang and Huaigu Cao|-|
 |49|[Extraction of Math Expressions from PDF Documents based on Unsupervised Modeling of Fonts](https://ieeexplore.ieee.org/abstract/document/8978012/)|Zelun Wang, Donald Beyette, Jason Lin and Jyh-Charn Liu|-|
-|50|A Pairwise Model to Reduce Split Detections on Embedded Math Expressions in Scientific Publications|Zelun Wang, Xing Wang and Jyh-Charn Liu|-|
+|50|[A Pairwise Model to Reduce Split Detections on Embedded Math Expressions in Scientific Publications](https://ieeexplore.ieee.org/abstract/document/8978001)|Zelun Wang, Xing Wang and Jyh-Charn Liu|-|
 |51|[Automatic synthetic document image generation using generative adversarial networks: application in mobile-captured document analysis](https://www.researchgate.net/publication/336115616_Automatic_Synthetic_Document_Image_Generation_using_Generative_Adversarial_Networks_Application_in_Mobile-Captured_Document_Analysis)|Quang Anh Bui, Salvatore Tabbone and David Mollard|-|
 |52|[Selective Super-Resolution for Scene Text Images](https://ieeexplore.ieee.org/abstract/document/8977974/)|Ryo Nakao, Brian Kenji Iwana and Seiichi Uchida|-|
 |53|[Modality Conversion of Handwritten Patterns by Cross Variational Autoencoders](https://arxiv.org/pdf/1906.06142.pdf)|Taichi Sumi, Brian Kenji Iwana, Hideaki Hayashi and Seiichi Uchida|-|
