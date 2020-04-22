@@ -108,15 +108,15 @@
 |104|[The Pinkas Dataset](https://www.researchgate.net/publication/333929107_The_Pinkas_Dataset)|Berat Kurar Barakat, Irina Rabaev and Jihad El-Sana|-|
 |105|[Layout Analysis on Challenging Historical Arabic Manuscripts using Siamese Network](https://www.cs.bgu.ac.il/~berat/papers/icdar2019_layout.pdf)|Reem Alaasam, Berat Kurar and Jihad El-Sana|-|
 |106|[Online writer identification using GMM based feature representation and writer-specific weights](https://ieeexplore.ieee.org/abstract/document/8978098)|Vivek Venugopal and Suresh Sundaram|-|
-|107|ReS2TIM: Reconstruct Syntactic Structures from Table Images|Wenyuan Xue, Qingyong Li and Dacheng Tao|-|
-|108|Automatic page classification in a large collection of manuscripts based on the International Image Interoperability Framework|Emanuela Boros, Alexis Toumi, Erwan Rouchet, Bastien Abadie, Dominique Stutzmann and Christopher Kermorvant|-|
-|109|Offline Signature Verification using Structural Dynamic Time Warping|Michael Stauffer, Paul Maergner, Andreas Fischer and Kaspar Riesen|-|
-|110|A GAN-based Feature Generator for Table Detection|Yibo Li, Liangcai Gao, Yilun Huang, Zhi Tang and Qinqin Yan|-|
-|111|Enhanced EAST: Improving Network’s Feature Extraction Ability and Text Complete Shape Perception|Liu Yang, Yonghong Song and Yuanlin Zhang|-|
-|112|A Text Localization Method Based on Weak Supervision|Jiyuan Zhang, Chen Du and Chunheng Wang|-|
-|113|NRTR: A No-Recurrence Sequence-to-Sequence Model For Scene Text Recognition|Fenfen Sheng, Zhineng Chen and Bo Xu|-|
-|114|A Robust Data Hiding Scheme using Generated Content for Securing Genuine Documents|Vinh Loc Cu, Jean-Christophe Burie, Jean-Marc Ogier and Cheng-Lin Liu|-|
-|115|Hiding Security Feature into Text Content for Securing Documents using Generated Font|Vinh Loc Cu, Jean-Christophe Burie, Jean-Marc Ogier and Cheng-Lin Liu|-|
+|107|[ReS2TIM: Reconstruct Syntactic Structures from Table Images](https://xuewenyuan.github.io/files/ICDAR2019-ReS2TIM-WenyuanXue.pdf)|Wenyuan Xue, Qingyong Li and Dacheng Tao|-|
+|108|[Automatic page classification in a large collection of manuscripts based on the International Image Interoperability Framework](https://www.teklia.com/publications/icdar2019_Automatic_analysis_of_a_collection_of_manuscripts_based_on_the_International_Image_Interoperability_Framework.pdf)|Emanuela Boros, Alexis Toumi, Erwan Rouchet, Bastien Abadie, Dominique Stutzmann and Christopher Kermorvant|-|
+|109|[Offline Signature Verification using Structural Dynamic Time Warping](https://www.researchgate.net/publication/339028006_Offline_Signature_Verification_using_Structural_Dynamic_Time_Warping)|Michael Stauffer, Paul Maergner, Andreas Fischer and Kaspar Riesen|-|
+|110|[A GAN-based Feature Generator for Table Detection](https://ieeexplore.ieee.org/document/8978037/)|Yibo Li, Liangcai Gao, Yilun Huang, Zhi Tang and Qinqin Yan|-|
+|111|[Enhanced EAST: Improving Network’s Feature Extraction Ability and Text Complete Shape Perception](https://ieeexplore.ieee.org/abstract/document/8978145)|Liu Yang, Yonghong Song and Yuanlin Zhang|-|
+|112|[A Text Localization Method Based on Weak Supervision](https://ieeexplore.ieee.org/document/8978173)|Jiyuan Zhang, Chen Du and Chunheng Wang|-|
+|113|[NRTR: A No-Recurrence Sequence-to-Sequence Model For Scene Text Recognition](https://arxiv.org/pdf/1806.00926.pdf)|Fenfen Sheng, Zhineng Chen and Bo Xu|[Link](https://github.com/Belval/NRTR)|
+|114|[A Robust Data Hiding Scheme using Generated Content for Securing Genuine Documents](https://ieeexplore.ieee.org/document/8978165)|Vinh Loc Cu, Jean-Christophe Burie, Jean-Marc Ogier and Cheng-Lin Liu|-|
+|115|[Hiding Security Feature into Text Content for Securing Documents using Generated Font](https://ieeexplore.ieee.org/document/8978057)|Vinh Loc Cu, Jean-Christophe Burie, Jean-Marc Ogier and Cheng-Lin Liu|-|
 |116|Manifold Mixup improves text recognition with CTC loss|Bastien Moysset and Ronaldo Messina|-|
 |117|Selective Text Style Transfer|Raul Gomez, Ali Biten, Dimosthenis Karatzas, Lluis Gomez, Jaume Gibert and Marçal Rusiñol|-|
 |118|A YOLO-based Table Detection Method|Yilun Huang, Qinqin Yan, Yibo Li, Liangcai Gao and Zhi Tang|-|
