@@ -117,16 +117,16 @@
 |113|[NRTR: A No-Recurrence Sequence-to-Sequence Model For Scene Text Recognition](https://arxiv.org/pdf/1806.00926.pdf)|Fenfen Sheng, Zhineng Chen and Bo Xu|[Link](https://github.com/Belval/NRTR)|
 |114|[A Robust Data Hiding Scheme using Generated Content for Securing Genuine Documents](https://ieeexplore.ieee.org/document/8978165)|Vinh Loc Cu, Jean-Christophe Burie, Jean-Marc Ogier and Cheng-Lin Liu|-|
 |115|[Hiding Security Feature into Text Content for Securing Documents using Generated Font](https://ieeexplore.ieee.org/document/8978057)|Vinh Loc Cu, Jean-Christophe Burie, Jean-Marc Ogier and Cheng-Lin Liu|-|
-|116|Manifold Mixup improves text recognition with CTC loss|Bastien Moysset and Ronaldo Messina|-|
-|117|Selective Text Style Transfer|Raul Gomez, Ali Biten, Dimosthenis Karatzas, Lluis Gomez, Jaume Gibert and Marçal Rusiñol|-|
-|118|A YOLO-based Table Detection Method|Yilun Huang, Qinqin Yan, Yibo Li, Liangcai Gao and Zhi Tang|-|
-|119|An Interactive and Generative Approach for Chinese Shanshui Painting Document|Le Zhou, Qiu-Feng Wang, Kaizhu Huang and Cheng-Hung Lo|-|
-|120|Scene Text Magnifier|Toshiki Nakamura, Anna Zhu and Seiichi Uchida|-|
-|121|Exploration of CNN Features for Online Handwriting Recognition|Subhasis Mandal, S. R. Mahadeva Prasanna and Suresh Sundaram|-|
-|122|Universal Barcode Detector via Semantic Segmentation|Andrey Zharkov and Ivan Zagaynov|-|
-|123|HoughNet: neural network architecture for vanishing points detection|Alexander Sheshkus, Anastasia Ingacheva, Vladimir Arlazarov and Dmitry Nikolaev|-|
-|124|Table-Of-Contents generation on contemporary documents|Najah-Imane Bentabet, Rémi Juge and Sira Ferradans|-|
-|125|Fast method of ID documents location and type identification for mobile and server application|Natalya Skoryukina, Vladimir Arlazarov and Dmitry Nikolaev|-|
+|116|[Manifold Mixup improves text recognition with CTC loss](https://arxiv.org/pdf/1903.04246.pdf)|Bastien Moysset and Ronaldo Messina|-|
+|117|[Selective Text Style Transfer](https://arxiv.org/pdf/1906.01466.pdf)|Raul Gomez, Ali Biten, Dimosthenis Karatzas, Lluis Gomez, Jaume Gibert and Marçal Rusiñol|-|
+|118|[A YOLO-based Table Detection Method](https://ieeexplore.ieee.org/document/8978047)|Yilun Huang, Qinqin Yan, Yibo Li, Liangcai Gao and Zhi Tang|-|
+|119|[An Interactive and Generative Approach for Chinese Shanshui Painting Document](https://nips2018creativity.github.io/doc/shanshui_dada.pdf)|Le Zhou, Qiu-Feng Wang, Kaizhu Huang and Cheng-Hung Lo|-|
+|120|[Scene Text Magnifier](https://arxiv.org/pdf/1907.00693.pdf)|Toshiki Nakamura, Anna Zhu and Seiichi Uchida|-|
+|121|[Exploration of CNN Features for Online Handwriting Recognition](https://ieeexplore.ieee.org/document/8978132/)|Subhasis Mandal, S. R. Mahadeva Prasanna and Suresh Sundaram|-|
+|122|[Universal Barcode Detector via Semantic Segmentation](https://arxiv.org/pdf/1906.06281.pdf)|Andrey Zharkov and Ivan Zagaynov|[Link](https://github.com/asmekal/ubdvss)|
+|123|[HoughNet: neural network architecture for vanishing points detection](https://arxiv.org/pdf/1909.03812.pdf)|Alexander Sheshkus, Anastasia Ingacheva, Vladimir Arlazarov and Dmitry Nikolaev|-|
+|124|[Table-Of-Contents generation on contemporary documents](https://arxiv.org/pdf/1911.08836.pdf)|Najah-Imane Bentabet, Rémi Juge and Sira Ferradans|-|
+|125|[Fast method of ID documents location and type identification for mobile and server application](https://ieeexplore.ieee.org/document/8978136)|Natalya Skoryukina, Vladimir Arlazarov and Dmitry Nikolaev|-|
 |126|Combination of deep-learning and syntactical approaches for the interpretation of interactions between text-lines and tabular structures in handwritten documents|Camille Guerry, Aurélie Lemaitre and Bertrand Coüasnon|-|
 |127|On the Improvement of Recognizing Single-line Strings of Japanese Historical Cursive|Ayumu Nagai|-|
 |128|A Synthetic Recipe for OCR|David Etter, Stephen Rawls, Cameron Carpenter and Gregory Sell|-|
