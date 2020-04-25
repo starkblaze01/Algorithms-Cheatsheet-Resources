@@ -127,11 +127,11 @@
 |123|[HoughNet: neural network architecture for vanishing points detection](https://arxiv.org/pdf/1909.03812.pdf)|Alexander Sheshkus, Anastasia Ingacheva, Vladimir Arlazarov and Dmitry Nikolaev|-|
 |124|[Table-Of-Contents generation on contemporary documents](https://arxiv.org/pdf/1911.08836.pdf)|Najah-Imane Bentabet, Rémi Juge and Sira Ferradans|-|
 |125|[Fast method of ID documents location and type identification for mobile and server application](https://ieeexplore.ieee.org/document/8978136)|Natalya Skoryukina, Vladimir Arlazarov and Dmitry Nikolaev|-|
-|126|Combination of deep-learning and syntactical approaches for the interpretation of interactions between text-lines and tabular structures in handwritten documents|Camille Guerry, Aurélie Lemaitre and Bertrand Coüasnon|-|
-|127|On the Improvement of Recognizing Single-line Strings of Japanese Historical Cursive|Ayumu Nagai|-|
-|128|A Synthetic Recipe for OCR|David Etter, Stephen Rawls, Cameron Carpenter and Gregory Sell|-|
-|129|Synthesis of handwriting dynamics using the sinusoidal model|Himakshi Choudhury and S. R. Mahadeva Prasanna|-|
-|130|Script Identification using Across- and Within-Image Distribution Estimation|Gregory Sell, David Etter, Daniel Garcia-Romero and Alan McCree|-|
+|126|[Combination of deep-learning and syntactical approaches for the interpretation of interactions between text-lines and tabular structures in handwritten documents](https://ieeexplore.ieee.org/document/8978175)|Camille Guerry, Aurélie Lemaitre and Bertrand Coüasnon|-|
+|127|[On the Improvement of Recognizing Single-line Strings of Japanese Historical Cursive](https://ieeexplore.ieee.org/abstract/document/8977992)|Ayumu Nagai|-|
+|128|[A Synthetic Recipe for OCR](https://ieeexplore.ieee.org/document/8978033)|David Etter, Stephen Rawls, Cameron Carpenter and Gregory Sell|-|
+|129|[Synthesis of handwriting dynamics using the sinusoidal model](https://ieeexplore.ieee.org/document/8978095)|Himakshi Choudhury and S. R. Mahadeva Prasanna|-|
+|130|[Script Identification using Across- and Within-Image Distribution Estimation](https://ieeexplore.ieee.org/document/8978014)|Gregory Sell, David Etter, Daniel Garcia-Romero and Alan McCree|-|
 |131|Post-OCR Error Detection by Generating Plausible Candidates|Thi Tuyet Hai Nguyen, Adam Jatowt, Mickaël Coustaty, Nhu Van Nguyen and Antoine Doucet|-|
 |132|Music Symbol Sequence Indexing in Medieval Plainchant Manuscripts|Jorge Calvo-Zaragoza, Alejandro Toselli and Enrique Vidal|-|
 |133|DoT-Net: Document Layout Classification Using Texture-based CNN|Sai Chandra Kosaraju, Mohammed Masum, Nelson Zange Tsaku, Pritesh Patel, Tanju Bayramoglu, Girish Modgil and Mingon Kang|-|
