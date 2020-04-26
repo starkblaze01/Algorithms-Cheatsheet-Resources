@@ -132,12 +132,12 @@
 |128|[A Synthetic Recipe for OCR](https://ieeexplore.ieee.org/document/8978033)|David Etter, Stephen Rawls, Cameron Carpenter and Gregory Sell|-|
 |129|[Synthesis of handwriting dynamics using the sinusoidal model](https://ieeexplore.ieee.org/document/8978095)|Himakshi Choudhury and S. R. Mahadeva Prasanna|-|
 |130|[Script Identification using Across- and Within-Image Distribution Estimation](https://ieeexplore.ieee.org/document/8978014)|Gregory Sell, David Etter, Daniel Garcia-Romero and Alan McCree|-|
-|131|Post-OCR Error Detection by Generating Plausible Candidates|Thi Tuyet Hai Nguyen, Adam Jatowt, Mickaël Coustaty, Nhu Van Nguyen and Antoine Doucet|-|
-|132|Music Symbol Sequence Indexing in Medieval Plainchant Manuscripts|Jorge Calvo-Zaragoza, Alejandro Toselli and Enrique Vidal|-|
-|133|DoT-Net: Document Layout Classification Using Texture-based CNN|Sai Chandra Kosaraju, Mohammed Masum, Nelson Zange Tsaku, Pritesh Patel, Tanju Bayramoglu, Girish Modgil and Mingon Kang|-|
-|134|Using ASR methods for OCR|Ashish Arora, Chun-Chieh Chang, Babak Rekabdar, Daniel Povey, David Etter, Desh Raj, Hossein Hadian, Jan Trmal, Paola Garcia, Shinji Watanabe, Vimal Manohar, Yiwen Shao and Sanjeev Khudanpur|-|
-|135|Deep Visual Template-Free Form Parsing|Brian Davis, Scott Cohen, Brian Price, Chris Tensmeyer and Bryan Morse|-|
-|136|A Scalable Handwritten Text Recognition System|Reeve Ingle, Yasuhisa Fujii, Thomas Deselaers, Jonathan Baccash and Ashok Popat|-|
+|131|[Post-OCR Error Detection by Generating Plausible Candidates](https://ieeexplore.ieee.org/document/8978061)|Thi Tuyet Hai Nguyen, Adam Jatowt, Mickaël Coustaty, Nhu Van Nguyen and Antoine Doucet|-|
+|132|[Music Symbol Sequence Indexing in Medieval Plainchant Manuscripts](https://ieeexplore.ieee.org/document/8978168)|Jorge Calvo-Zaragoza, Alejandro Toselli, Enrique Vidal and Joan Andreu Sánchez|-|
+|133|[DoT-Net: Document Layout Classification Using Texture-based CNN](https://ieeexplore.ieee.org/document/8977986)|Sai Chandra Kosaraju, Mohammed Masum, Nelson Zange Tsaku, Pritesh Patel, Tanju Bayramoglu, Girish Modgil and Mingon Kang|-|
+|134|[Using ASR methods for OCR](https://www.danielpovey.com/files/2019_icdar_asr_for_ocr.pdf)|Ashish Arora, Chun-Chieh Chang, Babak Rekabdar, Daniel Povey, David Etter, Desh Raj, Hossein Hadian, Jan Trmal, Paola Garcia, Shinji Watanabe, Vimal Manohar, Yiwen Shao and Sanjeev Khudanpur|-|
+|135|[Deep Visual Template-Free Form Parsing](https://arxiv.org/pdf/1909.02576.pdf)|Brian Davis, Scott Cohen, Brian Price, Chris Tensmeyer and Bryan Morse|[Link](https://github.com/herobd/Visual-Template-Free-Form-Parsing)|
+|136|[A Scalable Handwritten Text Recognition System](https://arxiv.org/pdf/1904.09150.pdf)|Reeve Ingle, Yasuhisa Fujii, Thomas Deselaers, Jonathan Baccash and Ashok Popat|-|
 |137|CNN-BLSTM-CRF Network for Semantic Labeling of Students’ Online Handwritten Assignments|Amirali Darvishzadeh, Thomas Stahovich, Amir Feghahati, Negin Entezari, Shaghayegh Gharghabi, Reed Kanemaru and Christian Shelton|-|
 |138|Bi-level Masked Multi-scale CNN-RNN Networks for Short Text Representation|Qian Li, Qiang Wu, Chengzhang Zhu and Jian Zhang|-|
 |139|Challenges in end-to-end neural scientific document OCR|Yuntian Deng, David Rosenberg and Gideon Mann|-|
