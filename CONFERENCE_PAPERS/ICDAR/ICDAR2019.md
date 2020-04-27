@@ -138,11 +138,11 @@
 |134|[Using ASR methods for OCR](https://www.danielpovey.com/files/2019_icdar_asr_for_ocr.pdf)|Ashish Arora, Chun-Chieh Chang, Babak Rekabdar, Daniel Povey, David Etter, Desh Raj, Hossein Hadian, Jan Trmal, Paola Garcia, Shinji Watanabe, Vimal Manohar, Yiwen Shao and Sanjeev Khudanpur|-|
 |135|[Deep Visual Template-Free Form Parsing](https://arxiv.org/pdf/1909.02576.pdf)|Brian Davis, Scott Cohen, Brian Price, Chris Tensmeyer and Bryan Morse|[Link](https://github.com/herobd/Visual-Template-Free-Form-Parsing)|
 |136|[A Scalable Handwritten Text Recognition System](https://arxiv.org/pdf/1904.09150.pdf)|Reeve Ingle, Yasuhisa Fujii, Thomas Deselaers, Jonathan Baccash and Ashok Popat|-|
-|137|CNN-BLSTM-CRF Network for Semantic Labeling of Students’ Online Handwritten Assignments|Amirali Darvishzadeh, Thomas Stahovich, Amir Feghahati, Negin Entezari, Shaghayegh Gharghabi, Reed Kanemaru and Christian Shelton|-|
-|138|Bi-level Masked Multi-scale CNN-RNN Networks for Short Text Representation|Qian Li, Qiang Wu, Chengzhang Zhu and Jian Zhang|-|
-|139|Challenges in end-to-end neural scientific document OCR|Yuntian Deng, David Rosenberg and Gideon Mann|-|
-|140|Deep Neural Networks for Text Detection and Recognition in Historical Maps|Jerod Weinman, Ziwen Chen, Ben Gafford, Nathan Gifford, Abyaya Lamsal and Liam Niehus-Staab|-|
-|141|Woodblock-printing Mongolian Words Recognition by Bi-LSTM with Attention Mechanism|Yanke Kang, Hongxi Wei, Hui Zhang and Guanglai Gao|-|
+|137|[CNN-BLSTM-CRF Network for Semantic Labeling of Students’ Online Handwritten Assignments](https://ieeexplore.ieee.org/document/8978140)|Amirali Darvishzadeh, Thomas Stahovich, Amir Feghahati, Negin Entezari, Shaghayegh Gharghabi, Reed Kanemaru and Christian Shelton|-|
+|138|[Bi-level Masked Multi-scale CNN-RNN Networks for Short Text Representation](https://ieeexplore.ieee.org/document/8978146)|Qian Li, Qiang Wu, Chengzhang Zhu and Jian Zhang|-|
+|139|[Challenges in end-to-end neural scientific document OCR](https://ieeexplore.ieee.org/document/8978078)|Yuntian Deng, David Rosenberg and Gideon Mann|-|
+|140|[Deep Neural Networks for Text Detection and Recognition in Historical Maps](https://www.cs.grinnell.edu/~weinman/pubs/weinman19deep.pdf)|Jerod Weinman, Ziwen Chen, Ben Gafford, Nathan Gifford, Abyaya Lamsal and Liam Niehus-Staab|[Link](https://github.com/weinman/cnn_lstm_ctc_ocr)|
+|141|[Woodblock-printing Mongolian Words Recognition by Bi-LSTM with Attention Mechanism](http://ieeexplore.ieee.org/document/8978006)|Yanke Kang, Hongxi Wei, Hui Zhang and Guanglai Gao|-|
 |142|A Comparative Study of Attention-based Encoder-Decoder Approaches to Natural Scene Text Recognition|Fuze Cong, Wenping Hu, Qiang Huo and Li Guo|-|
 |143|Generating Synthetic Handwritten Mathematical Expressions from a LaTeX Sequence or a MathML Script|Minh Khanh Phan, Tran Minh Khuong Vu, Quang Huy Ung and Masaki Nakagawa|-|
 |144|RankSVM for Offline Signature Verification|Yan Zheng, Yuchen Zheng, Wataru Ohyama, Daiki Suehiro and Seiichi Uchida|-|
