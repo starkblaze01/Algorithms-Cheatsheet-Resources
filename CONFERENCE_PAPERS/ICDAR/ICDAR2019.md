@@ -143,15 +143,15 @@
 |139|[Challenges in end-to-end neural scientific document OCR](https://ieeexplore.ieee.org/document/8978078)|Yuntian Deng, David Rosenberg and Gideon Mann|-|
 |140|[Deep Neural Networks for Text Detection and Recognition in Historical Maps](https://www.cs.grinnell.edu/~weinman/pubs/weinman19deep.pdf)|Jerod Weinman, Ziwen Chen, Ben Gafford, Nathan Gifford, Abyaya Lamsal and Liam Niehus-Staab|[Link](https://github.com/weinman/cnn_lstm_ctc_ocr)|
 |141|[Woodblock-printing Mongolian Words Recognition by Bi-LSTM with Attention Mechanism](http://ieeexplore.ieee.org/document/8978006)|Yanke Kang, Hongxi Wei, Hui Zhang and Guanglai Gao|-|
-|142|A Comparative Study of Attention-based Encoder-Decoder Approaches to Natural Scene Text Recognition|Fuze Cong, Wenping Hu, Qiang Huo and Li Guo|-|
-|143|Generating Synthetic Handwritten Mathematical Expressions from a LaTeX Sequence or a MathML Script|Minh Khanh Phan, Tran Minh Khuong Vu, Quang Huy Ung and Masaki Nakagawa|-|
-|144|RankSVM for Offline Signature Verification|Yan Zheng, Yuchen Zheng, Wataru Ohyama, Daiki Suehiro and Seiichi Uchida|-|
-|145|Japanese Character Segmentation for Historical Handwritten Official Documents Using Fully Convolutional Networks|Kei Watanabe, Shinji Takahashi, Yuki Kamaya, Masashi Yamada, Yoshito Mekada, Junichi Hasegawa and Shinya Miyazaki|-|
-|146|Deformation Classification of Drawings for Assessment of Visual-Motor Perceptual Maturity|Momina Moetesum, Imran Siddiqi and Nicole Vincent|-|
-|147|OCR-VQA : Visual Question Answering by Reading Text in Images|Anand Mishra, Ajeet Kumar Singh, Shashank Shekhar and Anirban Chakraborty|-|
-|148|DICE : Deep Intelligent Contextual Embedding for Twitter Sentiment Analysis|Usman Naseem and Katarzyna Musial|-|
-|149|Care Label Recognition|Jiri Kralicek, Jiri Matas and Michal Busta|-|
-|150|Deep Learning based Approach for Historical Manuscript Dating|Anmol Hamid, Maryam Bibi, Momina Moetesum and Imran Siddiqi|-|
+|142|[A Comparative Study of Attention-based Encoder-Decoder Approaches to Natural Scene Text Recognition](https://ieeexplore.ieee.org/document/8978138)|Fuze Cong, Wenping Hu, Qiang Huo and Li Guo|-|
+|143|[Generating Synthetic Handwritten Mathematical Expressions from a LaTeX Sequence or a MathML Script](https://ieeexplore.ieee.org/document/8978171)|Minh Khanh Phan, Tran Minh Khuong Vu, Quang Huy Ung and Masaki Nakagawa|-|
+|144|[RankSVM for Offline Signature Verification](https://ieeexplore.ieee.org/document/8977970)|Yan Zheng, Yuchen Zheng, Wataru Ohyama, Daiki Suehiro and Seiichi Uchida|-|
+|145|[Japanese Character Segmentation for Historical Handwritten Official Documents Using Fully Convolutional Networks](https://ieeexplore.ieee.org/document/8978074)|Kei Watanabe, Shinji Takahashi, Yuki Kamaya, Masashi Yamada, Yoshito Mekada, Junichi Hasegawa and Shinya Miyazaki|-|
+|146|[Deformation Classification of Drawings for Assessment of Visual-Motor Perceptual Maturity](https://ieeexplore.ieee.org/document/8977997)|Momina Moetesum, Imran Siddiqi and Nicole Vincent|-|
+|147|[OCR-VQA : Visual Question Answering by Reading Text in Images](https://anandmishra22.github.io/files/mishra-OCR-VQA.pdf)|Anand Mishra, Ajeet Kumar Singh, Shashank Shekhar and Anirban Chakraborty|[Dataset](https://ocr-vqa.github.io/)|
+|148|[DICE : Deep Intelligent Contextual Embedding for Twitter Sentiment Analysis](https://ieeexplore.ieee.org/document/8978072)|Usman Naseem and Katarzyna Musial|-|
+|149|[Care Label Recognition](https://ieeexplore.ieee.org/document/8978109)|Jiri Kralicek, Jiri Matas and Michal Busta|-|
+|150|[Deep Learning based Approach for Historical Manuscript Dating](https://ieeexplore.ieee.org/document/8978080)|Anmol Hamid, Maryam Bibi, Momina Moetesum and Imran Siddiqi|-|
 |151|Binarization of Degraded Document Images using Convolutional Neural Networks based on predicted Two-Channel Images|Younes Akbari, Alceu S. Britto Jr., Somaya Al-Maadeed and ‎luiz S. Oliveira|-|
 |152|Serif or Sans: Visual Font Analytics on Book Covers and Online Advertisements|Yuto Shinahara, Takuro Karamatsu, Daisuke Harada, Kota Yamaguchi and Seiichi Uchida|-|
 |153|Multi-label Connectionist Temporal Classification|Curtis Wigington, Brian Price and Scott Cohen|-|
