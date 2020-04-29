@@ -152,11 +152,11 @@
 |148|[DICE : Deep Intelligent Contextual Embedding for Twitter Sentiment Analysis](https://ieeexplore.ieee.org/document/8978072)|Usman Naseem and Katarzyna Musial|-|
 |149|[Care Label Recognition](https://ieeexplore.ieee.org/document/8978109)|Jiri Kralicek, Jiri Matas and Michal Busta|-|
 |150|[Deep Learning based Approach for Historical Manuscript Dating](https://ieeexplore.ieee.org/document/8978080)|Anmol Hamid, Maryam Bibi, Momina Moetesum and Imran Siddiqi|-|
-|151|Binarization of Degraded Document Images using Convolutional Neural Networks based on predicted Two-Channel Images|Younes Akbari, Alceu S. Britto Jr., Somaya Al-Maadeed and ‎luiz S. Oliveira|-|
-|152|Serif or Sans: Visual Font Analytics on Book Covers and Online Advertisements|Yuto Shinahara, Takuro Karamatsu, Daisuke Harada, Kota Yamaguchi and Seiichi Uchida|-|
-|153|Multi-label Connectionist Temporal Classification|Curtis Wigington, Brian Price and Scott Cohen|-|
-|154|Logo Design Analysis by Ranking|Takuro Karamatsu, Daiki Suehiro and Seiichi Uchida|-|
-|155|LPGA: Line-Of-Sight Parsing with Graph-based Attention for Math Formula Recognition|Mahshad Mahdavi, Michael Condon, Kenny Davila Castellanos and Richard Zanibbi|-|
+|151|[Binarization of Degraded Document Images using Convolutional Neural Networks based on predicted Two-Channel Images](https://ieeexplore.ieee.org/document/8978084/)|Younes Akbari, Alceu S. Britto Jr., Somaya Al-Maadeed and Luiz S. Oliveira|-|
+|152|[Serif or Sans: Visual Font Analytics on Book Covers and Online Advertisements](https://arxiv.org/pdf/1906.10269.pdf)|Yuto Shinahara, Takuro Karamatsu, Daisuke Harada, Kota Yamaguchi and Seiichi Uchida|-|
+|153|[Multi-label Connectionist Temporal Classification](https://ieeexplore.ieee.org/document/8977987)|Curtis Wigington, Brian Price and Scott Cohen|-|
+|154|[Logo Design Analysis by Ranking](http://human.ait.kyushu-u.ac.jp/publications/ICDAR2019-Karamatsu.pdf)|Takuro Karamatsu, Daiki Suehiro and Seiichi Uchida|-|
+|155|[LPGA: Line-Of-Sight Parsing with Graph-based Attention for Math Formula Recognition](https://www.cs.rit.edu/~rlaz/files/Mahdavi_ICDAR_2019.pdf)|Mahshad Mahdavi, Michael Condon, Kenny Davila Castellanos and Richard Zanibbi|-|
 |156|Zero Shot Learning Based Script Identification in the wild|Prateek Keserwani, Kanjar De, Partha Pratim Roy and Umapada Pal|-|
 |157|AHCDB: A Large-scale Chinese Ancient Handwritten Characters Database|Yue Xu, Fei Yin, Da-Han Wang, Xu-Yao Zhang, Zhaoxiang Zhang and Cheng-Lin Liu|-|
 |158|Do You Need More Data? The DeepSignDB On-Line Handwritten Signature Biometric Database|Ruben Tolosana, Ruben Vera-Rodriguez, Julian Fierrez, Aythami Morales and Javier Ortega-Garcia|-|
