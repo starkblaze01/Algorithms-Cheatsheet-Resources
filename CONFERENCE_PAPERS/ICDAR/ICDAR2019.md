@@ -157,14 +157,14 @@
 |153|[Multi-label Connectionist Temporal Classification](https://ieeexplore.ieee.org/document/8977987)|Curtis Wigington, Brian Price and Scott Cohen|-|
 |154|[Logo Design Analysis by Ranking](http://human.ait.kyushu-u.ac.jp/publications/ICDAR2019-Karamatsu.pdf)|Takuro Karamatsu, Daiki Suehiro and Seiichi Uchida|-|
 |155|[LPGA: Line-Of-Sight Parsing with Graph-based Attention for Math Formula Recognition](https://www.cs.rit.edu/~rlaz/files/Mahdavi_ICDAR_2019.pdf)|Mahshad Mahdavi, Michael Condon, Kenny Davila Castellanos and Richard Zanibbi|-|
-|156|Zero Shot Learning Based Script Identification in the wild|Prateek Keserwani, Kanjar De, Partha Pratim Roy and Umapada Pal|-|
-|157|AHCDB: A Large-scale Chinese Ancient Handwritten Characters Database|Yue Xu, Fei Yin, Da-Han Wang, Xu-Yao Zhang, Zhaoxiang Zhang and Cheng-Lin Liu|-|
-|158|Do You Need More Data? The DeepSignDB On-Line Handwritten Signature Biometric Database|Ruben Tolosana, Ruben Vera-Rodriguez, Julian Fierrez, Aythami Morales and Javier Ortega-Garcia|-|
-|159|A Deep Jersey-Bib Number/Text Recognition in Sports and Marathon Images|Sauradip Nag, R. Raghavendra, Palaiahnakote Shivakumara, Umapada Pal, Tong Lu and Mohan Kankanhalli|-|
-|160|KeyWord Spotting using Siamese Triplet Deep Neural Networks|Yasmine Serdouk, Véronique Eglin and Stéphane Bres|-|
-|161|Learning Convolutional Autoencoders with a Metric Constraint|Yosuke Onitsuka, Wataru Ohyama and Seiichi Uchida|-|
-|162|Learning Character Recognition with Privileged Information|Florian Westphal, Niklas Lavesson and Håkan Grahn|-|
-|163|Simultaneous Optimisation of Image Quality Improvement and Text Content Extraction from Scanned Documents|Shashank Mujumdar, Nitin Gupta, Abhinav Jain and Douglas Burdick|-|
+|156|[Zero Shot Learning Based Script Identification in the wild](https://ieeexplore.ieee.org/document/8978092/)|Prateek Keserwani, Kanjar De, Partha Pratim Roy and Umapada Pal|-|
+|157|[AHCDB: A Large-scale Chinese Ancient Handwritten Characters Database](https://ieeexplore.ieee.org/document/8978010)|Yue Xu, Fei Yin, Da-Han Wang, Xu-Yao Zhang, Zhaoxiang Zhang and Cheng-Lin Liu|-|
+|158|[Do You Need More Data? The DeepSignDB On-Line Handwritten Signature Biometric Database](https://arxiv.org/pdf/2002.10119.pdf)|Ruben Tolosana, Ruben Vera-Rodriguez, Julian Fierrez, Aythami Morales and Javier Ortega-Garcia|-|
+|159|[A Deep Jersey-Bib Number/Text Recognition in Sports and Marathon Images](https://ieeexplore.ieee.org/document/8977968)|Sauradip Nag, R. Raghavendra, Palaiahnakote Shivakumara, Umapada Pal, Tong Lu and Mohan Kankanhalli|-|
+|160|[KeyWord Spotting using Siamese Triplet Deep Neural Networks](https://ieeexplore.ieee.org/document/8978183)|Yasmine Serdouk, Véronique Eglin and Stéphane Bres|-|
+|161|[Learning Convolutional Autoencoders with a Metric Constraint](https://ieeexplore.ieee.org/document/8977957)|Yosuke Onitsuka, Wataru Ohyama and Seiichi Uchida|-|
+|162|[Learning Character Recognition with Privileged Information](https://ieeexplore.ieee.org/document/8978028/)|Florian Westphal, Niklas Lavesson and Håkan Grahn|-|
+|163|[Simultaneous Optimisation of Image Quality Improvement and Text Content Extraction from Scanned Documents](https://ieeexplore.ieee.org/document/8977978)|Shashank Mujumdar, Nitin Gupta, Abhinav Jain and Douglas Burdick|-|
 |164|Improving text recognition using optical and language model writer adaptation|Yann Soullard, Wassim Swaileh, Clément Chatelain, Pierrick Tranouez and Thierry Paquet|-|
 |165|Multi-modal Attention Network for Handwritten Mathematical Expression Recognition|Jiaming Wang, Jun Du, Jianshu Zhang and Zi-Rui Wang|-|
 |166|Semantic and interaction: when Document Image Analysis meets Computer Vision and Machine Learning|Jean-Yves Ramel and Nicole Vincent|-|
