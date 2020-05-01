@@ -1,0 +1,5 @@
+Process_ID,Arrival_time,Execution,i,io,p
+P1,0,2,1,5,2
+P2,3,5,3,6,1
+P3,2,4,1,3,4
+P4,1,3,2,2,3
