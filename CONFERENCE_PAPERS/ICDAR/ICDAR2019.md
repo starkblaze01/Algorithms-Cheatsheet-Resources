@@ -202,17 +202,17 @@
 |198|A meaningful information extraction system for interactive analysis of documents|Julien Maitre, Michel Ménard, Guillaume Chiron, Alain Bouju and Nicolas Sidère|-|
 |199|Brno Mobile OCR Dataset|Martin Kišš, Michal Hradiš and Oldřich Kodym|-|
 |200|A New Parallel Detection-Recognition Approach for End-to-End Scene Text Extraction|Jinrong Li, Zijian Zhou, Zhizhong Su, Shuangping Huang and Lianwen Jin|-|
-|201|Unsupervised OCR Model Evaluation Using GAN|Abhash Sinha, Martin Jenckel, Syed Saqib Bukhari and Andreas Dengel|-|
-|202|An End-to-End trainable framework for joint optimization of document enhancement & recognition.|Manoj Sharma, Anupama Ray, Avinash Upadhyay, Megh Makwana, Ajay Pratap Singh, Akkshita Trivedi, Santanu Chaudhury and Anil Saini|-|
-|203|Rethinking Table Parsing using Graph Neural Networks|Shah Rukh Qasim, Hassan Mahmood and Faisal Shafait|-|
-|204|A Deep Transfer Learning Approach to Document Image Quality Assessment|Tan Lu and Ann Dooms|-|
-|205|Handwritten Chinese Character Database for Large-Category Classification|Tonghua Su|-|
-|206|Breaking the Code on Broken Tablets — The Learning Challenge for Annotated Cuneiform Script in Normalized 2D and 3D Datasets|Hubert Mara and Bartosz Bogacz|-|
-|207|Learning Free Document Image Binarization Based on Fast Fuzzy C-Means Clustering|Tanmoy Mondal, Mickaël Coustaty, Petra Gomez-Krämer and Jean-Marc Ogier|-|
-|208|Making Two Vast Historical Manuscript Collections Searchable and Extracting Meaningful Textual Features Through Large-Scale Probabilistic Indexing|Alejandro Toselli, Verónica Romero Gómez, Joan Andreu Sanchez and Enrique Vidal|-|
-|209|A Robust Hybrid Approach for Textual Document Classification|Muhammad Nabeel Asim, Muhammad Usman Ghani Khan, Sheraz Ahmed, Andreas Dengel and Muhammad Imran Malik|-|
-|210|Rethinking Semantic Segmentation for Table Structure Recognition in Documents|Shoaib Ahmed Siddiqui, Pervaiz Iqbal Khan, Andreas Dengel and Sheraz Ahmed|-|
-|211|Content Extraction from Lecture Video via Speaker Action Classification based on Pose Information|Fei Xu, Kenny Davila, Srirangaraj Setlur and Venu Govindaraju|-|
+|201|[Unsupervised OCR Model Evaluation Using GAN](https://ieeexplore.ieee.org/document/8978111)|Abhash Sinha, Martin Jenckel, Syed Saqib Bukhari and Andreas Dengel|-|
+|202|[An End-to-End trainable framework for joint optimization of document enhancement & recognition](https://ieeexplore.ieee.org/document/8978188)|Manoj Sharma, Anupama Ray, Avinash Upadhyay, Megh Makwana, Ajay Pratap Singh, Akkshita Trivedi, Santanu Chaudhury and Anil Saini|-|
+|203|[Rethinking Table Parsing using Graph Neural Networks](https://arxiv.org/pdf/1905.13391.pdf)|Shah Rukh Qasim, Hassan Mahmood and Faisal Shafait|[Link](https://github.com/shahrukhqasim/TIES-2.0)|
+|204|[A Deep Transfer Learning Approach to Document Image Quality Assessment](https://ieeexplore.ieee.org/document/8978068)|Tan Lu and Ann Dooms|-|
+|205|[Handwritten Chinese Character Database for Large-Category Classification](https://ieeexplore.ieee.org/document/8978163)|Tonghua Su, Wei Pan and Lijuan Yu|-|
+|206|[Breaking the Code on Broken Tablets — The Learning Challenge for Annotated Cuneiform Script in Normalized 2D and 3D Datasets](https://www.researchgate.net/publication/336019578_Breaking_the_Code_on_Broken_Tablets_The_Learning_Challenge_for_Annotated_Cuneiform_Script_in_Normalized_2D_and_3D_Datasets)|Hubert Mara and Bartosz Bogacz|-|
+|207|[Learning Free Document Image Binarization Based on Fast Fuzzy C-Means Clustering](https://ieeexplore.ieee.org/document/8978039)|Tanmoy Mondal, Mickaël Coustaty, Petra Gomez-Krämer and Jean-Marc Ogier|-|
+|208|[Making Two Vast Historical Manuscript Collections Searchable and Extracting Meaningful Textual Features Through Large-Scale Probabilistic Indexing](https://ieeexplore.ieee.org/document/8977989)|Alejandro Toselli, Verónica Romero Gómez, Joan Andreu Sanchez and Enrique Vidal|-|
+|209|[A Robust Hybrid Approach for Textual Document Classification](https://arxiv.org/pdf/1909.05478.pdf)|Muhammad Nabeel Asim, Muhammad Usman Ghani Khan, Sheraz Ahmed, Andreas Dengel and Muhammad Imran Malik|-|
+|210|[Rethinking Semantic Segmentation for Table Structure Recognition in Documents](https://www.researchgate.net/publication/339027294_Rethinking_Semantic_Segmentation_for_Table_Structure_Recognition_in_Documents)|Shoaib Ahmed Siddiqui, Pervaiz Iqbal Khan, Andreas Dengel and Sheraz Ahmed|-|
+|211|[Content Extraction from Lecture Video via Speaker Action Classification based on Pose Information](https://ieeexplore.ieee.org/document/8978123)|Fei Xu, Kenny Davila, Srirangaraj Setlur and Venu Govindaraju|-|
 |212|[DeepTabStR: Deep Learning based Table Structure Recognition](https://www.researchgate.net/publication/339025475_DeepTabStR_Deep_Learning_based_Table_Structure_Recognition)|Shoaib Ahmed Siddiqui, Imran Ali Fateh, Syed Tahseen Raza Rizvi, Andreas Dengel and Sheraz Ahmed|-|
 |213|[Two Stream Deep Network for Document Image Classification](https://www.researchgate.net/publication/336210345_Two_Stream_Deep_Network_for_Document_Image_Classification)|Muhammad Nabeel Asim, Khizar Razzaque, Sheraz Ahmed, Muhammad Usman Ghani Khan, Andreas Dengel and Muhammad Imran Malik|[Link](https://github.com/Ali-Xain/DocumentImageClassification)|
 |214|[Speeding-up the Handwritten Signature Segmentation Process through an Optimized Fully Convolutional Neural Network](https://ieeexplore.ieee.org/abstract/document/8977965)|Paloma G. S. Silva, Celso A. M. L. Junior, Estanislau Lima, Byron Bezerra and Cleber Zanchettin|-|
