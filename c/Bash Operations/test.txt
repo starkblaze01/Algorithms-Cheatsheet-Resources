@@ -1,0 +1,23 @@
+ls
+ls -l
+ls -a
+cd Desktop
+ls
+mkdir lol
+mkdir lol
+ls
+cd lol
+mkdir -v a
+cd ..
+pwd
+rmdir lol
+rmdir -r lol
+ls
+mkdir -p /home/anime
+cd -
+cd Documents
+cd
+rmdir -p /home/anime
+pwd
+mkdir test
+rmdir -v test
