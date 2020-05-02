@@ -165,13 +165,13 @@
 |161|[Learning Convolutional Autoencoders with a Metric Constraint](https://ieeexplore.ieee.org/document/8977957)|Yosuke Onitsuka, Wataru Ohyama and Seiichi Uchida|-|
 |162|[Learning Character Recognition with Privileged Information](https://ieeexplore.ieee.org/document/8978028/)|Florian Westphal, Niklas Lavesson and Håkan Grahn|-|
 |163|[Simultaneous Optimisation of Image Quality Improvement and Text Content Extraction from Scanned Documents](https://ieeexplore.ieee.org/document/8977978)|Shashank Mujumdar, Nitin Gupta, Abhinav Jain and Douglas Burdick|-|
-|164|Improving text recognition using optical and language model writer adaptation|Yann Soullard, Wassim Swaileh, Clément Chatelain, Pierrick Tranouez and Thierry Paquet|-|
-|165|Multi-modal Attention Network for Handwritten Mathematical Expression Recognition|Jiaming Wang, Jun Du, Jianshu Zhang and Zi-Rui Wang|-|
-|166|Semantic and interaction: when Document Image Analysis meets Computer Vision and Machine Learning|Jean-Yves Ramel and Nicole Vincent|-|
-|167|A Cost Efficient Approach to Correct OCR Errors in Large Document Collections|Deepayan Das, Jerin Philip, Minesh Mathew and C V Jawahar|-|
-|168|An attention-based end-to-end model for multiple text lines recognition in Japanese Historical Documents|Nam Tuan Ly, Cuong Tuan Nguyen and Masaki Nakagawa|-|
-|169|Improving Text Image Resolution using a Deep Generative Adversarial Network for Optical Character Recognition|Xiangdong Su, Huali Xu, Ying Kang, Xiang Hao, Guanglai Gao and Yue Zhang|-|
-|170|Towards Automated Evaluation of Handwritten Assessments|Vijay Rowtula, Subbareddy Oota and C V Jawahar|-|
+|164|[Improving text recognition using optical and language model writer adaptation](https://www.researchgate.net/publication/339025401_Improving_Text_Recognition_using_Optical_and_Language_Model_Writer_Adaptation)|Yann Soullard, Wassim Swaileh, Clément Chatelain, Pierrick Tranouez and Thierry Paquet|-|
+|165|[Multi-modal Attention Network for Handwritten Mathematical Expression Recognition](https://ieeexplore.ieee.org/document/8978103)|Jiaming Wang, Jun Du, Jianshu Zhang and Zi-Rui Wang|-|
+|166|[Semantic and interaction: when Document Image Analysis meets Computer Vision and Machine Learning](https://ieeexplore.ieee.org/document/8977959)|Jean-Yves Ramel and Nicole Vincent|-|
+|167|[A Cost Efficient Approach to Correct OCR Errors in Large Document Collections](https://arxiv.org/pdf/1905.11739.pdf)|Deepayan Das, Jerin Philip, Minesh Mathew and C V Jawahar|-|
+|168|[An attention-based end-to-end model for multiple text lines recognition in Japanese Historical Documents](https://ieeexplore.ieee.org/document/8978049)|Nam Tuan Ly, Cuong Tuan Nguyen and Masaki Nakagawa|-|
+|169|[Improving Text Image Resolution using a Deep Generative Adversarial Network for Optical Character Recognition](https://www.researchgate.net/publication/339028159_Improving_Text_Image_Resolution_using_a_Deep_Generative_Adversarial_Network_for_Optical_Character_Recognition)|Xiangdong Su, Huali Xu, Ying Kang, Xiang Hao, Guanglai Gao and Yue Zhang|-|
+|170|[Towards Automated Evaluation of Handwritten Assessments](https://www.researchgate.net/publication/335517131_Towards_Automated_Evaluation_of_Handwritten_Assessments)|Vijay Rowtula, Subbareddy Oota and C V Jawahar|-|
 |171|Labeling, Cutting, Grouping: an Efficient Text Line Segmentation Method for Medieval Manuscripts|Michele Alberti, Lars Vögtlin, Vinay Pondenkandath, Mathias Seuret, Rolf Ingold and Marcus Liwicki|-|
 |172|PopEval: A Character Level Approach to End-To-End Evaluation Compatible with Word Level Benchmark Dataset|Hong-Seok Lee, Youngmin Yoon, Pil Hoon Jang and Chankyu Choi|-|
 |173|Hybrid DBLSTM-SVM based Beta-elliptic-CNN Models for Online Arabic Characters Recognition|Yahia Hamdi, Houcine Boubaker, Thameur Dhieb, Abdelkarim Elbaati and Adel M Alimi|-|
