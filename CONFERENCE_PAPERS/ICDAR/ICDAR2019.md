@@ -172,16 +172,16 @@
 |168|[An attention-based end-to-end model for multiple text lines recognition in Japanese Historical Documents](https://ieeexplore.ieee.org/document/8978049)|Nam Tuan Ly, Cuong Tuan Nguyen and Masaki Nakagawa|-|
 |169|[Improving Text Image Resolution using a Deep Generative Adversarial Network for Optical Character Recognition](https://www.researchgate.net/publication/339028159_Improving_Text_Image_Resolution_using_a_Deep_Generative_Adversarial_Network_for_Optical_Character_Recognition)|Xiangdong Su, Huali Xu, Ying Kang, Xiang Hao, Guanglai Gao and Yue Zhang|-|
 |170|[Towards Automated Evaluation of Handwritten Assessments](https://www.researchgate.net/publication/335517131_Towards_Automated_Evaluation_of_Handwritten_Assessments)|Vijay Rowtula, Subbareddy Oota and C V Jawahar|-|
-|171|Labeling, Cutting, Grouping: an Efficient Text Line Segmentation Method for Medieval Manuscripts|Michele Alberti, Lars Vögtlin, Vinay Pondenkandath, Mathias Seuret, Rolf Ingold and Marcus Liwicki|-|
-|172|PopEval: A Character Level Approach to End-To-End Evaluation Compatible with Word Level Benchmark Dataset|Hong-Seok Lee, Youngmin Yoon, Pil Hoon Jang and Chankyu Choi|-|
-|173|Hybrid DBLSTM-SVM based Beta-elliptic-CNN Models for Online Arabic Characters Recognition|Yahia Hamdi, Houcine Boubaker, Thameur Dhieb, Abdelkarim Elbaati and Adel M Alimi|-|
-|174|A Modified Inception-ResNet Network with Discriminant Weighting Loss for Handwritten Chinese Character Recognition|Linhui Chen, Liangrui Peng, Gang Yao, Changsong Liu and Xudong Zhang|-|
-|175|Fuzzy Visibility Graph for Structural Analysis of Online Handwritten Mathematical Expressions|Arnaud Lods, Eric Anquetil and Sébastien Macé|-|
-|176|“A novel procedure to speed up the transcription of historical handwritten documents by interleaving keyword spotting and user validation”|Adolfo Santoro and Angelo Marcelli|-|
-|177|Handwriting Recognition Based On Temporal Order Restored By The End-To-End System|Besma Rabhi, Abdelkarim Elbaati, Yahia Hamdi and Adel M. Alimi|-|
-|178|Deep CNN-based Speech Balloon Detection and Segmentation for Comic Books|David Dubray and Jochen Laubrock|-|
-|179|A New Document Image Quality Assessment Method Based on Hast Derivations|Alireza Alaei|-|
-|180|Analysis of Unsupervised Training Approaches for LSTM-based OCR|Martin Jenckel, Syed Saqib Bukhari and Andreas Dengel|-|
+|171|[Labeling, Cutting, Grouping: an Efficient Text Line Segmentation Method for Medieval Manuscripts](https://arxiv.org/pdf/1906.11894.pdf)|Michele Alberti, Lars Vögtlin, Vinay Pondenkandath, Mathias Seuret, Rolf Ingold and Marcus Liwicki|[Link](https://github.com/DIVA-DIA/Text-Line-Segmentation-Method-for-Medieval-Manuscripts)|
+|172|[PopEval: A Character Level Approach to End-To-End Evaluation Compatible with Word Level Benchmark Dataset](https://arxiv.org/pdf/1908.11060.pdf)|Hong-Seok Lee, Youngmin Yoon, Pil Hoon Jang and Chankyu Choi|-|
+|173|[Hybrid DBLSTM-SVM based Beta-elliptic-CNN Models for Online Arabic Characters Recognition](https://www.researchgate.net/publication/338512663_Hybrid_DBLSTM-SVM_based_Beta-elliptic-CNN_Models_for_Online_Arabic_Characters_Recognition)|Yahia Hamdi, Houcine Boubaker, Thameur Dhieb, Abdelkarim Elbaati and Adel M Alimi|-|
+|174|[A Modified Inception-ResNet Network with Discriminant Weighting Loss for Handwritten Chinese Character Recognition](https://ieeexplore.ieee.org/document/8978100)|Linhui Chen, Liangrui Peng, Gang Yao, Changsong Liu and Xudong Zhang|-|
+|175|[Fuzzy Visibility Graph for Structural Analysis of Online Handwritten Mathematical Expressions](https://hal.archives-ouvertes.fr/hal-02281462/document)|Arnaud Lods, Eric Anquetil and Sébastien Macé|-|
+|176|[A novel procedure to speed up the transcription of historical handwritten documents by interleaving keyword spotting and user validation](https://ieeexplore.ieee.org/document/8978069)|Adolfo Santoro and Angelo Marcelli|-|
+|177|[Handwriting Recognition Based On Temporal Order Restored By The End-To-End System](https://www.researchgate.net/publication/338223526_Handwriting_Recognition_Based_On_Temporal_Order_Restored_By_The_End-To-End_System)|Besma Rabhi, Abdelkarim Elbaati, Yahia Hamdi and Adel M. Alimi|-|
+|178|[Deep CNN-based Speech Balloon Detection and Segmentation for Comic Books](https://arxiv.org/pdf/1902.08137.pdf)|David Dubray and Jochen Laubrock|[Link](https://github.com/DRDRD18/balloons)|
+|179|[A New Document Image Quality Assessment Method Based on Hast Derivations](https://www.researchgate.net/publication/336207621_A_New_Document_Image_Quality_Assessment_Method_Based_on_Hast_Derivations)|Alireza Alaei|-|
+|180|[Analysis of Unsupervised Training Approaches for LSTM-based OCR](https://ieeexplore.ieee.org/document/8978108)|Martin Jenckel, Syed Saqib Bukhari and Andreas Dengel|-|
 |181|Table Structure Extraction with row-column classifications using RNNs|Saqib Ali Khan, Syed Muhammad Daniyal Khalid, Muhammad Ali Shahzad and Faisal Shafait|-|
 |182|Graphical Object Detection in Document Images|Ranajit Saha, Ajoy Mondal and C. V. Jawahar|-|
 |183|End-To-End Measure for Text Recognition|Gundram Leifert, Roger Labahn, Tobias Grüning and Svenja Leifert|-|
