@@ -182,16 +182,16 @@
 |178|[Deep CNN-based Speech Balloon Detection and Segmentation for Comic Books](https://arxiv.org/pdf/1902.08137.pdf)|David Dubray and Jochen Laubrock|[Link](https://github.com/DRDRD18/balloons)|
 |179|[A New Document Image Quality Assessment Method Based on Hast Derivations](https://www.researchgate.net/publication/336207621_A_New_Document_Image_Quality_Assessment_Method_Based_on_Hast_Derivations)|Alireza Alaei|-|
 |180|[Analysis of Unsupervised Training Approaches for LSTM-based OCR](https://ieeexplore.ieee.org/document/8978108)|Martin Jenckel, Syed Saqib Bukhari and Andreas Dengel|-|
-|181|Table Structure Extraction with row-column classifications using RNNs|Saqib Ali Khan, Syed Muhammad Daniyal Khalid, Muhammad Ali Shahzad and Faisal Shafait|-|
-|182|Graphical Object Detection in Document Images|Ranajit Saha, Ajoy Mondal and C. V. Jawahar|-|
-|183|End-To-End Measure for Text Recognition|Gundram Leifert, Roger Labahn, Tobias Grüning and Svenja Leifert|-|
-|184|Amharic Text Image Recognition: Database, Algorithm and Analysis|Birhanu Belay, Tewodros Habtegebrial, Marcus Liwicki, Gebeyehu Belay and Didier Stricker|-|
-|185|A Genetic-based Search for Adaptive Table Recognition in Spreadsheets|Elvis Koci, Maik Thiele, Oscar Romero and Wolfgang Lehner|-|
-|186|DECO: A Dataset of Annotated Spreadsheets for Layout and Table Recognition|Elvis Koci, Josephine Rehak, Maik Thiele, Oscar Romero and Wolfgang Lehner|-|
-|187|A Fast and Accurate Fully Convolutional Network for End-to-end Handwritten Chinese Text Segmentation and Recognition|Dezhi Peng, Lianwen Jin, Yaqiang Wu, Zhepeng Wang and Mingxiang Cai|-|
-|188|Evaluating Sequence-to-Sequence Models for Handwritten Text Recognition|Johannes Michael, Roger Labahn, Tobias Grüning and Jochen Zöllner|-|
-|189|Training-Free and Segmentation-Free Word Spotting using Feature Matching and Query Expansion|Ekta Vats, Anders Hast and Alicia Fornés|-|
-|190|Textual Description for Mathematical Equations|Ajoy Mondal and C. V. Jawahar|-|
+|181|[Table Structure Extraction with row-column classifications using RNNs](https://tukl.seecs.nust.edu.pk/members/projects/conference/Table-Structure-Extraction-with-Bi-directional-Gated-Recurrent-Unit-Networks.pdf)|Saqib Ali Khan, Syed Muhammad Daniyal Khalid, Muhammad Ali Shahzad and Faisal Shafait|-|
+|182|[Graphical Object Detection in Document Images](http://cdn.iiit.ac.in/cdn/cvit.iiit.ac.in/images/ConferencePapers/2019/PID6011471.pdf)|Ranajit Saha, Ajoy Mondal and C. V. Jawahar|[Link](https://github.com/rnjtsh/graphical-object-detector)|
+|183|[End-To-End Measure for Text Recognition](https://arxiv.org/pdf/1908.09584.pdf)|Gundram Leifert, Roger Labahn, Tobias Grüning and Svenja Leifert|-|
+|184|[Amharic Text Image Recognition: Database, Algorithm and Analysis](https://ieeexplore.ieee.org/document/8977980)|Birhanu Belay, Tewodros Habtegebrial, Marcus Liwicki, Gebeyehu Belay and Didier Stricker|-|
+|185|[A Genetic-based Search for Adaptive Table Recognition in Spreadsheets](https://wwwdb.inf.tu-dresden.de/wp-content/uploads/icdar_gen_rec.pdf)|Elvis Koci, Maik Thiele, Oscar Romero and Wolfgang Lehner|-|
+|186|[DECO: A Dataset of Annotated Spreadsheets for Layout and Table Recognition](https://wwwdb.inf.tu-dresden.de/wp-content/uploads/deco_paper.pdf)|Elvis Koci, Josephine Rehak, Maik Thiele, Oscar Romero and Wolfgang Lehner|-|
+|187|[A Fast and Accurate Fully Convolutional Network for End-to-end Handwritten Chinese Text Segmentation and Recognition](https://ieeexplore.ieee.org/document/8977956)|Dezhi Peng, Lianwen Jin, Yaqiang Wu, Zhepeng Wang and Mingxiang Cai|-|
+|188|[Evaluating Sequence-to-Sequence Models for Handwritten Text Recognition](https://arxiv.org/pdf/1903.07377.pdf)|Johannes Michael, Roger Labahn, Tobias Grüning and Jochen Zöllner|-|
+|189|[Training-Free and Segmentation-Free Word Spotting using Feature Matching and Query Expansion](http://ieeexplore.ieee.org/document/8978077)|Ekta Vats, Anders Hast and Alicia Fornés|-|
+|190|[Textual Description for Mathematical Equations](https://cdn.iiit.ac.in/cdn/cvit.iiit.ac.in/images/ConferencePapers/2019/PID6011287.pdf)|Ajoy Mondal and C. V. Jawahar|[Link](https://github.com/ajoymondal/Equation-Description-PyTorch)|
 |191|Recurrent Neural Network Approach for Table Field Extraction in Business Documents|Clément Sage, Alexandre Aussem, Haytham Elghazel, Véronique Eglin and Jérémy Espinas|-|
 |192|Faster R-CNN Based Table Detection Combining Corner Locating|Ningning Sun, Yuanping Zhu and Xiaoming Hu|-|
 |193|Weighted Direct Matching Points for User Local Stability Model in Multiple Domains: A Pro-posal for On-line Signature Verification|Donato Impedovo, Giuseppe Pirlo, Moises Diaz and Miguel Ferrer|-|
