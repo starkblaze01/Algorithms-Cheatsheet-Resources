@@ -192,11 +192,11 @@
 |188|[Evaluating Sequence-to-Sequence Models for Handwritten Text Recognition](https://arxiv.org/pdf/1903.07377.pdf)|Johannes Michael, Roger Labahn, Tobias Grüning and Jochen Zöllner|-|
 |189|[Training-Free and Segmentation-Free Word Spotting using Feature Matching and Query Expansion](http://ieeexplore.ieee.org/document/8978077)|Ekta Vats, Anders Hast and Alicia Fornés|-|
 |190|[Textual Description for Mathematical Equations](https://cdn.iiit.ac.in/cdn/cvit.iiit.ac.in/images/ConferencePapers/2019/PID6011287.pdf)|Ajoy Mondal and C. V. Jawahar|[Link](https://github.com/ajoymondal/Equation-Description-PyTorch)|
-|191|Recurrent Neural Network Approach for Table Field Extraction in Business Documents|Clément Sage, Alexandre Aussem, Haytham Elghazel, Véronique Eglin and Jérémy Espinas|-|
-|192|Faster R-CNN Based Table Detection Combining Corner Locating|Ningning Sun, Yuanping Zhu and Xiaoming Hu|-|
-|193|Weighted Direct Matching Points for User Local Stability Model in Multiple Domains: A Pro-posal for On-line Signature Verification|Donato Impedovo, Giuseppe Pirlo, Moises Diaz and Miguel Ferrer|-|
-|194|DeepSignCX: Signature Complexity Detection using Recurrent Neural Networks|Ruben Vera-Rodriguez, Ruben Tolosana, Miguel Caruana, Gustavo Manzano, Carlos Gonzalez-Garcia, Julian Fierrez and Javier Ortega-Garcia|-|
-|195|Recurrent Comparator with attention models to detect counterfeit documents|Albert Berenguel Centeno, Oriol Ramos Terrades, Josep Lladós i Canet and Cristina Cañero Morales|-|
+|191|[Recurrent Neural Network Approach for Table Field Extraction in Business Documents](https://hal.archives-ouvertes.fr/hal-02156269/document)|Clément Sage, Alexandre Aussem, Haytham Elghazel, Véronique Eglin and Jérémy Espinas|-|
+|192|[Faster R-CNN Based Table Detection Combining Corner Locating](https://ieeexplore.ieee.org/document/8978063)|Ningning Sun, Yuanping Zhu and Xiaoming Hu|-|
+|193|[Weighted Direct Matching Points for User Local Stability Model in Multiple Domains: A Pro-posal for On-line Signature Verification](https://ieeexplore.ieee.org/document/8978004)|Donato Impedovo, Giuseppe Pirlo, Moises Diaz and Miguel Ferrer|-|
+|194|[DeepSignCX: Signature Complexity Detection using Recurrent Neural Networks](http://atvs.ii.uam.es/atvs/files/ICDAR2019_DeepSignCX_Vera.pdf)|Ruben Vera-Rodriguez, Ruben Tolosana, Miguel Caruana, Gustavo Manzano, Carlos Gonzalez-Garcia, Julian Fierrez and Javier Ortega-Garcia|-|
+|195|[Recurrent Comparator with attention models to detect counterfeit documents](https://ieeexplore.ieee.org/document/8977990)|Albert Berenguel Centeno, Oriol Ramos Terrades, Josep Lladós i Canet and Cristina Cañero Morales|-|
 |196|Linking Art through Human Poses|Tomáš Jeníček and Ondřej Chum|-|
 |197|Thai Handwritten Recognition on Text Block-based from Thai Archive Manuscripts|Rapeeporn Chamchong, Wei Gao and Mark D. McDonnell|-|
 |198|A meaningful information extraction system for interactive analysis of documents|Julien Maitre, Michel Ménard, Guillaume Chiron, Alain Bouju and Nicolas Sidère|-|
