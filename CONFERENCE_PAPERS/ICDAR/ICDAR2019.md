@@ -197,11 +197,11 @@
 |193|[Weighted Direct Matching Points for User Local Stability Model in Multiple Domains: A Pro-posal for On-line Signature Verification](https://ieeexplore.ieee.org/document/8978004)|Donato Impedovo, Giuseppe Pirlo, Moises Diaz and Miguel Ferrer|-|
 |194|[DeepSignCX: Signature Complexity Detection using Recurrent Neural Networks](http://atvs.ii.uam.es/atvs/files/ICDAR2019_DeepSignCX_Vera.pdf)|Ruben Vera-Rodriguez, Ruben Tolosana, Miguel Caruana, Gustavo Manzano, Carlos Gonzalez-Garcia, Julian Fierrez and Javier Ortega-Garcia|-|
 |195|[Recurrent Comparator with attention models to detect counterfeit documents](https://ieeexplore.ieee.org/document/8977990)|Albert Berenguel Centeno, Oriol Ramos Terrades, Josep Lladós i Canet and Cristina Cañero Morales|-|
-|196|Linking Art through Human Poses|Tomáš Jeníček and Ondřej Chum|-|
-|197|Thai Handwritten Recognition on Text Block-based from Thai Archive Manuscripts|Rapeeporn Chamchong, Wei Gao and Mark D. McDonnell|-|
-|198|A meaningful information extraction system for interactive analysis of documents|Julien Maitre, Michel Ménard, Guillaume Chiron, Alain Bouju and Nicolas Sidère|-|
-|199|Brno Mobile OCR Dataset|Martin Kišš, Michal Hradiš and Oldřich Kodym|-|
-|200|A New Parallel Detection-Recognition Approach for End-to-End Scene Text Extraction|Jinrong Li, Zijian Zhou, Zhizhong Su, Shuangping Huang and Lianwen Jin|-|
+|196|[Linking Art through Human Poses](https://arxiv.org/pdf/1907.03537.pdf)|Tomáš Jeníček and Ondřej Chum|-|
+|197|[Thai Handwritten Recognition on Text Block-based from Thai Archive Manuscripts](https://ieeexplore.ieee.org/document/8978005)|Rapeeporn Chamchong, Wei Gao and Mark D. McDonnell|-|
+|198|[A meaningful information extraction system for interactive analysis of documents](https://ieeexplore.ieee.org/document/8978125)|Julien Maitre, Michel Ménard, Guillaume Chiron, Alain Bouju and Nicolas Sidère|-|
+|199|[Brno Mobile OCR Dataset](https://arxiv.org/pdf/1907.01307.pdf)|Martin Kišš, Michal Hradiš and Oldřich Kodym|[Link](https://github.com/DCGM/B-MOD)|
+|200|[A New Parallel Detection-Recognition Approach for End-to-End Scene Text Extraction](https://ieeexplore.ieee.org/document/8978190)|Jinrong Li, Zijian Zhou, Zhizhong Su, Shuangping Huang and Lianwen Jin|-|
 |201|[Unsupervised OCR Model Evaluation Using GAN](https://ieeexplore.ieee.org/document/8978111)|Abhash Sinha, Martin Jenckel, Syed Saqib Bukhari and Andreas Dengel|-|
 |202|[An End-to-End trainable framework for joint optimization of document enhancement & recognition](https://ieeexplore.ieee.org/document/8978188)|Manoj Sharma, Anupama Ray, Avinash Upadhyay, Megh Makwana, Ajay Pratap Singh, Akkshita Trivedi, Santanu Chaudhury and Anil Saini|-|
 |203|[Rethinking Table Parsing using Graph Neural Networks](https://arxiv.org/pdf/1905.13391.pdf)|Shah Rukh Qasim, Hassan Mahmood and Faisal Shafait|[Link](https://github.com/shahrukhqasim/TIES-2.0)|
