@@ -38,6 +38,7 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 - [🐢 A collection of awesome browser-side JavaScript libraries, resources and shiny things](https://github.com/sorrycc/awesome-javascript)
 - [LazyLoad is a fast, lightweight and flexible script that speeds up your web application by loading your content images, videos and iframes only as they enter the viewport](https://github.com/verlok/lazyload)
 - [A practical functional library for JavaScript programmers](https://github.com/ramda/ramda)
+- [Fast and low overhead web framework, for Node.js](https://github.com/fastify/fastify)
 
 ### Python:
 - [Cool Python features for machine learning](https://github.com/chiphuyen/python-is-cool)
