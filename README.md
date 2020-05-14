@@ -29,16 +29,45 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 - [Keyboard Shortcuts for macOS](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
 
 ### Javascript:
-- [Must-watch videos about javascript](https://github.com/bolshchikov/js-must-watch)
-- [A curated list of javascript fundamentals and algorithms](https://github.com/ggomaeng/awesome-js)
-- [This is about useful JS tips!](https://github.com/loverajoel/jstips)
-- [Textures.js is a JavaScript library for creating SVG patterns](https://github.com/riccardoscalco/textures)
-- [Lightweight fuzzy-search, in JavaScript](https://github.com/krisk/Fuse)
-- [A book about JavaScript, programming, and the wonders of the digital](https://eloquentjavascript.net/)
-- [🐢 A collection of awesome browser-side JavaScript libraries, resources and shiny things](https://github.com/sorrycc/awesome-javascript)
-- [LazyLoad is a fast, lightweight and flexible script that speeds up your web application by loading your content images, videos and iframes only as they enter the viewport](https://github.com/verlok/lazyload)
-- [A practical functional library for JavaScript programmers](https://github.com/ramda/ramda)
-- [Fast and low overhead web framework, for Node.js](https://github.com/fastify/fastify)
+  #### Resources:
+  - [Must-watch videos about javascript](https://github.com/bolshchikov/js-must-watch)
+  - [A curated list of javascript fundamentals and algorithms](https://github.com/ggomaeng/awesome-js)
+  - [This is about useful JS tips!](https://github.com/loverajoel/jstips)
+  - [A book about JavaScript, programming, and the wonders of the digital](https://eloquentjavascript.net/)
+  - [🐢 A collection of awesome browser-side JavaScript libraries, resources and shiny things](https://github.com/sorrycc/awesome-javascript)
+  - [LazyLoad is a fast, lightweight and flexible script that speeds up your web application by loading your content images, videos and iframes only as they enter the viewport](https://github.com/verlok/lazyload)
+  #### Libraries:
+  - [jQuery — New Wave JavaScript](https://github.com/jquery/jquery)
+  - [React.js](https://github.com/reactjs)
+  - [lodash - A modern JavaScript utility library delivering modularity, performance, & extras](https://github.com/lodash/lodash/)
+  - [Underscore.js - A utility-belt library for JavaScript](https://github.com/jashkenas/underscore)
+  - [Knockout - A JavaScript MVVM (a modern variant of MVC) library](https://github.com/knockout/knockout)
+  - [Polymer - library which enables cross-browser support for HTML5 web components](https://github.com/polymer)
+  - [Textures.js is a JavaScript library for creating SVG patterns](https://github.com/riccardoscalco/textures)
+  - [Lightweight fuzzy-search, in JavaScript](https://github.com/krisk/Fuse)
+  - [A practical functional library for JavaScript programmers](https://github.com/ramda/ramda)
+  #### Frameworks:
+  - [Angular.js](https://github.com/angular)
+  - [Vue.js](https://github.com/vuejs)
+  - [Ext JS](https://github.com/sencha)
+  - [Backbone.js](https://github.com/jashkenas/backbone/)
+  - [Ember.js - A JavaScript framework for creating ambitious web applications](https://github.com/emberjs/ember.js)
+  - [Fast and low overhead web framework, for Node.js](https://github.com/fastify/fastify)
+  #### General-Purpose Task Runners:
+  - [Webpack](https://github.com/webpack/webpack)
+  - [Gulp.js](https://github.com/gulpjs/gulp)
+  - [Grunt](https://github.com/gruntjs/grunt)  
+  #### Module Bundlers:
+  - [Browserify](https://github.com/browserify/browserify)
+  - [RequireJS](https://github.com/requirejs/r.js)
+  #### Linting:
+  - [ESLint](github.com/eslint/eslint)
+  - [JSHint](https://github.com/jshint/jshint)
+  - [JSLint](https://github.com/reid/node-jslint)
+  #### Test Suits:
+  - [Jest](https://github.com/facebook/jest)
+  - [Mocha](https://github.com/mochajs/mocha)
+  - [Jasmine](https://github.com/jasmine/jasmine-npm)
 
 ### Python:
 - [Cool Python features for machine learning](https://github.com/chiphuyen/python-is-cool)
