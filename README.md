@@ -116,6 +116,7 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 - [A React-Native datetime-picker for Android and iOS](https://github.com/mmazzarolo/react-native-modal-datetime-picker)
 - [Galio is a beautifully designed, Free and Open Source React Native Framework](https://github.com/galio-org/galio)
 - [A description of the conceptual model of React without implementation burden](https://github.com/reactjs/react-basic)
+- [Recoil - An experimental state management library for React apps](https://github.com/facebookexperimental/Recoil)
 
 ### iOS:
 - [ A curated list of Open Source example iOS apps developed in Swift](https://github.com/jogendra/example-ios-apps)
