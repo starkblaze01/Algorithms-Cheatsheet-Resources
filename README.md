@@ -12,6 +12,7 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 - [📝 A curated list of Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo)
 - [💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws](https://github.com/dwmkerr/hacker-laws)
 - [A Collection of application ideas which can be used to improve your coding skills](https://github.com/florinpop17/app-ideas)
+- [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 
 ### Bash:
 - [Utility bash scripts to do automatable tasks with a single command.](https://github.com/aviaryan/utility-bash-scripts)
@@ -141,6 +142,9 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 - [101+ coding interview problems](https://github.com/hoanhan101/algo)
 - [🕸 Almost complete answers to "Front-end Job Interview Questions" which you can use to interview potential candidates, test yourself or completely ignore](https://github.com/yangshun/front-end-interview-handbook)
 - [JavaScript interview Questions](https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions)
+- [Data Structures and Algorithms in JavaScript](https://egghead.io/courses/data-structures-and-algorithms-in-javascript)
+- [Pramp - Practice live interviews with peers](https://www.pramp.com/#/)
+- [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 
 ## Tech Podcasts:
 - [Curated List of Mostly Active Dev Podcasts](https://github.com/timarney/podcasts)
