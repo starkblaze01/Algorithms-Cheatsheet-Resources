@@ -74,6 +74,9 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 ### Python:
 - [Cool Python features for machine learning](https://github.com/chiphuyen/python-is-cool)
 
+#### Golang:
+- [Standard Go Project Layout](https://github.com/golang-standards/project-layout)
+
 ### Must have Chrome-Extensions:
 - [Momentum](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca)
 - [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb/related)
