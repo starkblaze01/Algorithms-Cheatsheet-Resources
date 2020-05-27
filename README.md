@@ -14,6 +14,7 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 - [A Collection of application ideas which can be used to improve your coding skills](https://github.com/florinpop17/app-ideas)
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - [🤓 Build your own (insert technology here)](https://github.com/danistefanovic/build-your-own-x)
+- [Google's Engineering Practices documentation](https://github.com/google/eng-practices)
 
 ### Bash:
 - [Utility bash scripts to do automatable tasks with a single command.](https://github.com/aviaryan/utility-bash-scripts)
