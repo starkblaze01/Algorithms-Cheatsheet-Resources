@@ -56,7 +56,8 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
   - [Ext JS](https://github.com/sencha)
   - [Backbone.js](https://github.com/jashkenas/backbone/)
   - [Ember.js - A JavaScript framework for creating ambitious web applications](https://github.com/emberjs/ember.js)
-  - [Fast and low overhead web framework, for Node.js](https://github.com/fastify/fastify)
+  - [Fastify - Fast and low overhead web framework, for Node.js](https://github.com/fastify/fastify)
+  - [Alpine - A rugged, minimal framework for composing JavaScript behavior in your markup](https://github.com/alpinejs/alpine)
   #### General-Purpose Task Runners:
   - [Webpack](https://github.com/webpack/webpack)
   - [Gulp.js](https://github.com/gulpjs/gulp)
