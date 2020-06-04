@@ -127,6 +127,7 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 - [Galio is a beautifully designed, Free and Open Source React Native Framework](https://github.com/galio-org/galio)
 - [A description of the conceptual model of React without implementation burden](https://github.com/reactjs/react-basic)
 - [Recoil - An experimental state management library for React apps](https://github.com/facebookexperimental/Recoil)
+- [The recommended Code Splitting library for React ✂️✨](https://github.com/gregberge/loadable-components)
 
 ### iOS:
 - [ A curated list of Open Source example iOS apps developed in Swift](https://github.com/jogendra/example-ios-apps)
