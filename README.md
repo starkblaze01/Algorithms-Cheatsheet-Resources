@@ -110,6 +110,7 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 - [Meta Learning / Learning to Learn / One Shot Learning / Few Shot Learning](https://github.com/floodsung/Meta-Learning-Papers)
 - [An end-to-end PyTorch framework for image and video classification](https://github.com/facebookresearch/ClassyVision)
 - [The simplest way for researchers and developers to build world-class ML solutions](https://github.com/google/mediapipe)
+- [Pose Animator takes a 2D vector illustration and animates its containing curves in real-time](https://github.com/yemount/pose-animator)
 
 ### React/React-Native:
 - [React-Typescript Cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
