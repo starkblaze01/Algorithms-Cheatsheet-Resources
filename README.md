@@ -50,6 +50,7 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
   - [Textures.js is a JavaScript library for creating SVG patterns](https://github.com/riccardoscalco/textures)
   - [Lightweight fuzzy-search, in JavaScript](https://github.com/krisk/Fuse)
   - [A practical functional library for JavaScript programmers](https://github.com/ramda/ramda)
+  - [A table library that works everywhere](https://github.com/grid-js/gridjs)
   #### Frameworks:
   - [Angular.js](https://github.com/angular)
   - [Vue.js](https://github.com/vuejs)
