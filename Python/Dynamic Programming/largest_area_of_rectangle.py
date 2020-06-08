@@ -1,3 +1,5 @@
+# Given a binary matrix, find the area of the largest rectangle formed by binary-sub-matrix with all 1’s
+
 def solve(A):
   x = len(A)
   y = len(A[0])
