@@ -25,6 +25,9 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 - [Simple terminal UI for git commands](https://github.com/jesseduffield/lazygit)
 - [A gitmoji interactive command line tool for using emojis on commits 💻](https://github.com/carloscuesta/gitmoji-cli)
 
+### Cloud:
+- [📙 Amazon Web Services — a practical guide](https://github.com/open-guides/og-aws)
+
 ### GitBook:
 - [GitBook - A command-line tool(and Node.js library) for building beautiful books using GitHub/Git and Markdown](https://github.com/GitbookIO/gitbook)
 
