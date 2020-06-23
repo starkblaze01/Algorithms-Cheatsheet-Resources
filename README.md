@@ -134,6 +134,7 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 - [Recoil - An experimental state management library for React apps](https://github.com/facebookexperimental/Recoil)
 - [The recommended Code Splitting library for React ✂️✨](https://github.com/gregberge/loadable-components)
 - [A draggable and resizable grid layout with responsive breakpoints, for React](https://github.com/STRML/react-grid-layout)
+- [A collection of beautiful and useful React hooks to speed-up your components and hooks development](https://github.com/beautifulinteractions/beautiful-react-hooks)
 
 ### iOS:
 - [ A curated list of Open Source example iOS apps developed in Swift](https://github.com/jogendra/example-ios-apps)
