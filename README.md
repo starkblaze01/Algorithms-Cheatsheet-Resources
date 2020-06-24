@@ -16,6 +16,7 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 - [🤓 Build your own (insert technology here)](https://github.com/danistefanovic/build-your-own-x)
 - [Google's Engineering Practices documentation](https://github.com/google/eng-practices)
 - [A list of Free Software network services and web applications which can be hosted locally](https://github.com/awesome-selfhosted/awesome-selfhosted)
+- [Real-time performance monitoring, done right!](https://github.com/netdata/netdata)
 
 ### Bash:
 - [Utility bash scripts to do automatable tasks with a single command.](https://github.com/aviaryan/utility-bash-scripts)
