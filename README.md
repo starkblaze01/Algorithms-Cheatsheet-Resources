@@ -63,6 +63,7 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
   - [Ember.js - A JavaScript framework for creating ambitious web applications](https://github.com/emberjs/ember.js)
   - [Fastify - Fast and low overhead web framework, for Node.js](https://github.com/fastify/fastify)
   - [Alpine - A rugged, minimal framework for composing JavaScript behavior in your markup](https://github.com/alpinejs/alpine)
+  - [📊 Cube.js - Open Source Analytics Framework](https://github.com/cube-js/cube.js)
   #### General-Purpose Task Runners:
   - [Webpack](https://github.com/webpack/webpack)
   - [Gulp.js](https://github.com/gulpjs/gulp)
