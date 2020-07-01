@@ -19,7 +19,8 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 - [Real-time performance monitoring, done right!](https://github.com/netdata/netdata)
 
 ### Bash:
-- [Utility bash scripts to do automatable tasks with a single command.](https://github.com/aviaryan/utility-bash-scripts)
+- [📖 A collection of pure bash alternatives to external processes](https://github.com/dylanaraps/pure-bash-bible)
+- [Utility bash scripts to do automatable tasks with a single command](https://github.com/aviaryan/utility-bash-scripts)
 
 ### Git:
 - [Git Commands](https://gist.github.com/hofmannsven/6814451)
