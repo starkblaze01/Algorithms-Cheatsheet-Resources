@@ -17,6 +17,7 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 - [Google's Engineering Practices documentation](https://github.com/google/eng-practices)
 - [A list of Free Software network services and web applications which can be hosted locally](https://github.com/awesome-selfhosted/awesome-selfhosted)
 - [Real-time performance monitoring, done right!](https://github.com/netdata/netdata)
+- [🎓 Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science)
 
 ### Bash:
 - [📖 A collection of pure bash alternatives to external processes](https://github.com/dylanaraps/pure-bash-bible)
