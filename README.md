@@ -86,6 +86,7 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 
 ### Python:
 - [Cool Python features for machine learning](https://github.com/chiphuyen/python-is-cool)
+- [A collection of Python Scripts made for fun, while exploring Python 🐍](https://github.com/thepushkarp/JFF-Python-Scripts)
 
 #### Golang:
 - [Standard Go Project Layout](https://github.com/golang-standards/project-layout)
