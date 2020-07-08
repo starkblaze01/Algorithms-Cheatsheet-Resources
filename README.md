@@ -19,6 +19,7 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 - [Real-time performance monitoring, done right!](https://github.com/netdata/netdata)
 - [🎓 Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science)
 - [📚 List of awesome university courses for learning Computer Science!](https://github.com/prakhar1989/awesome-courses)
+- [Deploy a Production Ready Kubernetes Cluster](https://github.com/kubernetes-sigs/kubespray)
 
 ### Bash:
 - [📖 A collection of pure bash alternatives to external processes](https://github.com/dylanaraps/pure-bash-bible)
