@@ -49,6 +49,7 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
   - [🐢 A collection of awesome browser-side JavaScript libraries, resources and shiny things](https://github.com/sorrycc/awesome-javascript)
   - [LazyLoad is a fast, lightweight and flexible script that speeds up your web application by loading your content images, videos and iframes only as they enter the viewport](https://github.com/verlok/lazyload)
   - [A book series on JavaScript. @YDKJS on twitter](https://github.com/getify/You-Dont-Know-JS)
+  - [A long list of (advanced) JavaScript questions, and their explanations ✨](https://github.com/lydiahallie/javascript-questions)
   #### Libraries:
   - [jQuery — New Wave JavaScript](https://github.com/jquery/jquery)
   - [React.js](https://github.com/reactjs)
