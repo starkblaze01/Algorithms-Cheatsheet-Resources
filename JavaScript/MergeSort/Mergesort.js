@@ -23,9 +23,9 @@ function merge_sort(left_part,right_part)
 
 function mergeSort(arr) {
     if(arr.length <= 1) return arr;
-    let mid = Math.floor(arr.length/2);
-    let left = mergeSort(arr.slice(0,mid));
-    let right = mergeSort(arr.slice(mid));
+    var mid = Math.floor(arr.length/2);
+    var left = mergeSort(arr.slice(0,mid));
+    var right = mergeSort(arr.slice(mid));
     return merge(left_part, right_part);
 }
 
