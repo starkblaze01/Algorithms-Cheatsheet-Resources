@@ -3,12 +3,12 @@ package main
 import "fmt"
 
 func main() {
-	arr := []int{0, 5, 3, 5, 7, 4, 6, 9, 4, 4, 7}
-	fmt.Printf("Array before Selection Sort\t->\t %v\n", arr)
+	arr := []int{0, 5, 3, 2, 8, 4, 16, 29,1 4, 4, 7}
+	fmt.Printf("Array before Bubble Sort\t->\t %v\n", arr)
 
 	bubbleSort(arr)
 
-	fmt.Printf("Array after Selection Sort\t->\t %v\n", arr)
+	fmt.Printf("Array after Bubble Sort\t->\t %v\n", arr)
 }
 
 func bubbleSort(arr []int) []int {
