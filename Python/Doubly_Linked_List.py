@@ -14,6 +14,7 @@ class DoublyLinkedList:
 
 	def insert_at_beginning(self, data):
 		self.head = Node(data, next=self.head)
+		self.head.next.prev = self.head
 		return
 
 	def insert_at_end(self, data):
@@ -47,7 +48,7 @@ class DoublyLinkedList:
 			return
             
 		itr=self.head
-		while itr:
+		while itr.next:
 			itr = itr.next
 		while itr:
 			print( str(itr.data) + " <-->", end=" ")
@@ -72,5 +73,8 @@ if __name__ == '__main__':
 
 	print("1 word added at the beginning")
 	ll.print_forward()
+	
+	print(" ")
 
+	print("Printing the Doubly Linked List backwards :")
 	ll.print_backward()
