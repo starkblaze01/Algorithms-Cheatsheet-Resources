@@ -21,4 +21,13 @@ function merge_sort(left_part,right_part)
 	return results;
 }
 
-console.log(merge_sort([left_part], [right_part]));
+function mergeSort(arr) {
+    if(arr.length <= 1) return arr;
+    let mid = Math.floor(arr.length/2);
+    let left = mergeSort(arr.slice(0,mid));
+    let right = mergeSort(arr.slice(mid));
+    return merge(left_part, right_part);
+}
+
+
+console.log(mergeSort([2, 3, 3, 4, 6, 7, 12]));
