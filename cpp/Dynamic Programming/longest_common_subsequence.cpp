@@ -70,7 +70,7 @@ int main()
   int n = strlen(s2);
          int dp[100][100];
          for(int i=0; i<100;i++){
-    	     for(int j=0;i<100;j++){
+    	     for(int j=0;j<100;j++){
     		    dp[i][j] = -1;
     	     }
          }
