@@ -1,3 +1,5 @@
+// Algorithm to reverse the string(without space)
+// Default max size of the string is set to 20.
 #include <stdio.h>
 void srev(char *);
 int main()
