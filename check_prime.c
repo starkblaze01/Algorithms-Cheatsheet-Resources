@@ -17,6 +17,7 @@ int main()
         else
         {
             printf("PRIME NUMBER!\n");
+            break;
         }
     }
     if(n<=1)
