@@ -1,4 +1,4 @@
-function merge_sort(left_part,right_part) 
+function merge(left_part,right_part) 
 {
 	var i = 0;
 	var j = 0;
@@ -26,7 +26,7 @@ function mergeSort(arr) {
     var mid = Math.floor(arr.length/2);
     var left = mergeSort(arr.slice(0,mid));
     var right = mergeSort(arr.slice(mid));
-    return merge(left_part, right_part);
+    return merge(left, right);
 }
 
 
