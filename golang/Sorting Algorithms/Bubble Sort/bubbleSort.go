@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	arr := []int{0, 5, 3, 2, 8, 4, 16, 29,1 4, 4, 7}
+	arr := []int{0, 5, 3, 2, 8, 4, 16, 29,1, 4, 4, 7}
 	fmt.Printf("Array before Bubble Sort\t->\t %v\n", arr)
 
 	bubbleSort(arr)
