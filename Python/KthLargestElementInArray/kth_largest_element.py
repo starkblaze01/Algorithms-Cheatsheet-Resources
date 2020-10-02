@@ -6,8 +6,12 @@ def find_kth_largest(nums: list, k: int) -> int:
     [heappop(h) for _ in range(k-1)]
     return -heappop(h)
 
-nums = list(map(int,input().split(' ')))
-k = int(input)
-largestElement = find_kth_largest(nums,k)
 
-print("The Kth ("+str(k)+") Largest element is",largestElement)
+
+if __name__ == "__main__":
+    nums = list(map(int,input().split(' ')))
+    k = int(input)
+    largestElement = find_kth_largest(nums,k)
+
+    print("The Kth ("+str(k)+") Largest element is",largestElement)
+    
