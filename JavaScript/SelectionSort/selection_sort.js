@@ -17,4 +17,4 @@ function selection_sort(inputArray){
 }
 
 var nums = [6, 3, 4, 5, 61, 2, 77];
-console.log(selection_sort(a));
+console.log(selection_sort(nums));
