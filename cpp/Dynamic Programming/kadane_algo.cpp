@@ -20,7 +20,7 @@ int main()
     int n ; 
     cout<<"Enter size of the Array\n" ; 
     cin>>n ; 
-    int a[n] 
+    int a[n] ;
     cout<<"Enter array elements\n" ; 
     for(int i =  0 ;i<n ; i++)
     {
