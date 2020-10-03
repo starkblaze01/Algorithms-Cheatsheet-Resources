@@ -9,9 +9,8 @@ def find_kth_largest(nums: list, k: int) -> int:
 
 
 if __name__ == "__main__":
-    nums = list(map(int,input().split(' ')))
-    k = int(input)
+    nums = list(map(int,input("Enter elements of array: ").split(' ')))
+    k = int(input("Enter the number k: "))
     largestElement = find_kth_largest(nums,k)
 
     print("The Kth ("+str(k)+") Largest element is",largestElement)
-    
