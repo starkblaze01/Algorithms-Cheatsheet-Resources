@@ -11,7 +11,6 @@
 def longest_common_subsequence(s1, s2):
     # declaring an empty array to store my result
     dp_array =  [ [ 0 for _ in range(len(s2)+1) ] for _ in range(len(s1)+1) ]
-    print(dp_array)
     for i in range(1, len(s1)+1):
         for j in range(1, len(s2)+1):
             if s1[i-1] == s2[j-1]: # Since the letters are equal we simply add it to our current answer
