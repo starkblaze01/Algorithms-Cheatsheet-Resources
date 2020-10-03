@@ -8,7 +8,6 @@
 # Given two string s1 and s2, return the length of their longest common subsequence. For Example, s1 ="abcde" and s2 ="ace", we return 3 since "ace" is the LCS
 # This is a classic Dynamic Programming problem which I will solve in Bottom-up fashion
 
-import collections
 def longest_common_subsequence(s1, s2):
     # declaring an empty array to store my result
     dp_array =  [ [ 0 for _ in range(len(s2)+1) ] for _ in range(len(s1)+1) ]
