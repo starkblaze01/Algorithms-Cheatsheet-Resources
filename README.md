@@ -124,6 +124,10 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 - [An end-to-end PyTorch framework for image and video classification](https://github.com/facebookresearch/ClassyVision)
 - [The simplest way for researchers and developers to build world-class ML solutions](https://github.com/google/mediapipe)
 - [Pose Animator takes a 2D vector illustration and animates its containing curves in real-time](https://github.com/yemount/pose-animator)
+- [A system for detecting human body, facial and foot keypoints from RGB images](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
+- [A YouTube channel that covers recent and interest research works in the ML and DL area](https://www.youtube.com/user/keeroyz)
+- [Tensorflow 2.0 cheat sheet](http://www.aicheatsheets.com/static/pdfs/tensorflow_v_2.0.pdf)
+- [A list of ML papers, along with their respective code links](https://paperswithcode.com/)
 
 ### React/React-Native:
 - [React-Typescript Cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
