@@ -78,7 +78,7 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
   - [Browserify](https://github.com/browserify/browserify)
   - [RequireJS](https://github.com/requirejs/r.js)
   #### Linting:
-  - [ESLint](github.com/eslint/eslint)
+  - [ESLint](https://github.com/eslint/eslint)
   - [JSHint](https://github.com/jshint/jshint)
   - [JSLint](https://github.com/reid/node-jslint)
   #### Test Suits:
