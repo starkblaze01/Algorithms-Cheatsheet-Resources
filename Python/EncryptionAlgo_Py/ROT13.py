@@ -30,7 +30,7 @@ def decrypt(text):
             result="INVALID INPUT you can only encrypt alphabets with this algo"
     return result
 if __name__ == "__main__":
-    x=encrypt('Hey Fellas',4)
+    x=encrypt('Hey Fellas')
     print(x)
     print("##")
-    print(decrypt(x,4))
+    print(decrypt(x))
