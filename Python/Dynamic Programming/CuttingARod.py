@@ -13,7 +13,7 @@ def cutRod(price, n):
 	return max_val 
 
 
-arr = list(map(int , input().split()))
+arr = list(map(int , input('Please enter the price for each length of piece:').split()))
 size = len(arr) 
 print("Maximum Value that can be obtained is", cutRod(arr, size)) 
 
