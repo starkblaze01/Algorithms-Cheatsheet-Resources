@@ -179,6 +179,9 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 ## Tech Podcasts:
 - [Curated List of Mostly Active Dev Podcasts](https://github.com/timarney/podcasts)
 
+## GitHub Readme Generator:
+- [🚀 This tool contains mini GUI components that you can hook together to automatically generate markdown code for a perfect readme](https://github.com/rishavanand/github-profilinator)
+
 ## Want to Contribute ?
 Can't see your favorite algorithm script or cheat-sheet? Send a PR for adding your favorite algorithm in any programming language.
 
