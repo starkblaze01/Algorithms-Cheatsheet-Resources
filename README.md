@@ -66,6 +66,7 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
   - [Vue.js](https://github.com/vuejs)
   - [Ext JS](https://github.com/sencha)
   - [Backbone.js](https://github.com/jashkenas/backbone/)
+  - [Next.js](https://github.com/vercel/next.js)
   - [Ember.js - A JavaScript framework for creating ambitious web applications](https://github.com/emberjs/ember.js)
   - [Fastify - Fast and low overhead web framework, for Node.js](https://github.com/fastify/fastify)
   - [Alpine - A rugged, minimal framework for composing JavaScript behavior in your markup](https://github.com/alpinejs/alpine)
