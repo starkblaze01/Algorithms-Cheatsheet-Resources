@@ -1,0 +1,8 @@
+Quick sort is a comparison sort, meaning that it can sort items of any type for which a "less-than" relation (formally, a total order) is defined.
+
+In Visual Studio, right click on Project then choose Properties. Go to Debug tab then on the Start Options section provide the app with your args
+https://stackoverflow.com/questions/6151036/console-app-arguments-how-arguments-are-passed-to-main-method
+
+Original array: 2 5 -4 11 0 18 22 67 51 6                                                                                    
+                                                                                                              
+Sorted array: -4 0 2 5 6 11 18 22 51 67 
