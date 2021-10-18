@@ -1,4 +1,4 @@
-// Java code for kth smallest element in an array
+// Java code for kth largest element in an array
 // using heap/priority queue
 import java.util.*;
 
