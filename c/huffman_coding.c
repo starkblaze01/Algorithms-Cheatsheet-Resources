@@ -303,6 +303,3 @@ int main()
 
 	return 0;
 }
-
-
-// Contributed by Subhadip Sarkar on 18-10-2021
