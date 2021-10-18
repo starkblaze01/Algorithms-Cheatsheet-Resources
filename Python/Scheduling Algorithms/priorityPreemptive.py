@@ -1,10 +1,10 @@
 from prettytable import PrettyTable
 
 
-pid = [int(x) for x in input('Enter the process ids: ').split()]
-burst = [int(x) for x in input('Enter the burst time: ').split()]
-arrival = [int(x) for x in input('Enter the arrival time: ').split()]
-priority = [int(x) for x in input('Enter the priority: ').split()]
+pid = [int(x) for x in input('Enter the process ids: ').split()] #Should be consecutive starting with 1
+burst = [int(x) for x in input('Enter the burst time: ').split()] #Space seprated int values
+arrival = [int(x) for x in input('Enter the arrival time: ').split()] #Space seprated int values
+priority = [int(x) for x in input('Enter the priority: ').split()] #Space seprated int values (low value high priority)
 
 table = PrettyTable(['Process Id','Burst Time','Arrival Time','Priority'])
 n = len(pid)
