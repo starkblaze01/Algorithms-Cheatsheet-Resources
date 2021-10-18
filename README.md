@@ -91,6 +91,7 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 ### Python:
 - [Cool Python features for machine learning](https://github.com/chiphuyen/python-is-cool)
 - [A collection of Python Scripts made for fun, while exploring Python 🐍](https://github.com/thepushkarp/JFF-Python-Scripts)
+- [Tutorials on various Python modules and its applications](https://www.askpython.com/)
 
 #### Golang:
 - [Standard Go Project Layout](https://github.com/golang-standards/project-layout)
@@ -98,6 +99,7 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 ### Must have Chrome-Extensions:
 - [Momentum](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca)
 - [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb/related)
+- [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
 - [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=en)
 - [GitHub Repository Size](https://chrome.google.com/webstore/detail/github-repository-size/apnjnioapinblneaedefcnopcjepgkci?hl=en)
 - [Grammarly](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen?hl=en)
