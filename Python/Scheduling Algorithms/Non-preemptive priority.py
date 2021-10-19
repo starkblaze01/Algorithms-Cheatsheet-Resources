@@ -5,6 +5,8 @@ pid = list((input("Enter process ids: ").split()))
 burst = list(map(int, input("Enter the burst time: ").split()))
 priority = list(map(int, input("Enter the priority: ").split()))
 
+# Assumption: All processes arrive at time 0
+
 for i in range(0, len(priority)):
     for j in range(i, len(priority)):
         if priority[j] < priority[i]:
