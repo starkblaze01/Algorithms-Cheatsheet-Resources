@@ -1,9 +1,8 @@
-# Algorithm to check if a number is prime or not
+# Algorithm to check if a natural number greater than one is prime or not
 
 def main():
-    num = 311
+    num = int(input("Type a natural number greater than one: "))
     print("Is " + str(num) + " a prime number?")
-
     prime = True
     if num > 1:
         for i in range(2, num):
