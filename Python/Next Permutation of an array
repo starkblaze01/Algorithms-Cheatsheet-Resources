@@ -42,7 +42,7 @@ def next_permutation(L):
              
     return True
     
-L=list(input())   
+L=list(map(int,input().split()))    
 while True:
     print(L)
     if not next_permutation(L):
