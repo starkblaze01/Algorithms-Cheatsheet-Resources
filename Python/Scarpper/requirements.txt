@@ -1,0 +1,40 @@
+Python Requests Module
+Navigate your command line to the location of PIP, and type the following:
+C:\Users\Your Name\AppData\Local\Programs\Python\Python36-32\Scripts>pip install requests
+
+Make a request to a web page, and print the response text:
+import requests
+x = requests.get('https://sdgsd.com/python/demopage.htm')
+print(x.text)
+-----------------------------------------------------------------------------------------------------------\
+Python Beautiful Soup
+Navigate your command line to the location of PIP, and type the following:
+C:\Users\Your Name\AppData\Local\Programs\Python\Python36-32\Scripts>pip install beautifulsoup4
+
+from bs4 import BeautifulSoup
+with open("index.html") as fp:
+    soup = BeautifulSoup(fp, 'html.parser')
+
+soup = BeautifulSoup("<html>a web page</html>", 'html.parser')
+-----------------------------------------------------------------------------------------------------------\
+ 
+data = {"newslink":all_news_data[i][0],
+            "imagelink":all_news_data[i][1],
+            "head":all_news_data[i][2],
+            "title":all_news_data[i][3],
+            "desc":all_news_data[i][4]}
+
+    result = firebaseconn.patch("/News/%s"%i,data)
+
+"newslink" : extracts url of the webpage
+"imagelink" : extracts url of the image
+"head" : extracts url of the image referenced or quotes 
+"title" : extracts url of the headline of the news
+"desc" : extracts url of the first paragraph of the article
+result : Updating Data with PATCH to firebase database
+-----------------------------------------------------------------------------------------------------------\
+# Pyrebase4
+```Installation
+pip install pyrebase4
+```python
+import pyrebase
