@@ -1,9 +1,1 @@
-
-Python zipfile
-ZIP is an archive file format that supports lossless data compression. By lossless compression, we mean that the 
-compression algorithm allows the original data to be perfectly reconstructed from the compressed data
-
-pip install zipfile38
-from zipfile import ZipFile
-
--------------------------------------------------------------------------------------------------------------\
+zipfile38 == 0.0.3
