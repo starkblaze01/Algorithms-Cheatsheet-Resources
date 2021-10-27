@@ -23,6 +23,24 @@ config = {
 You can generate these values after setting up your own firebase account from [here](https://console.firebase.google.com/).
 
 
+### Data details
+```
+data = {"newslink":all_news_data[i][0],
+            "imagelink":all_news_data[i][1],
+            "head":all_news_data[i][2],
+            "title":all_news_data[i][3],
+            "desc":all_news_data[i][4]}
+
+    result = firebaseconn.patch("/News/%s"%i,data)
+
+"newslink" : extracts url of the webpage
+"imagelink" : extracts url of the image
+"head" : extracts url of the image referenced or quotes 
+"title" : extracts url of the headline of the news
+"desc" : extracts url of the first paragraph of the article
+result : Updating Data with PATCH to firebase database
+```
+
 ### Dependency details
 
 #### Python Requests Module
