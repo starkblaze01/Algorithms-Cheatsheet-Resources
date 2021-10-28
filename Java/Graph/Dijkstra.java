@@ -1,4 +1,6 @@
-import Graph.GraphGen;
+package Graph;
+
+import Graph.Util.GraphGen;
 
 import java.util.ArrayList;
 import java.util.Arrays;
