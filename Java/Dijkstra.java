@@ -1,8 +1,8 @@
+import Graph.GraphGen;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-
-import Utils.GraphGen;
 
 public class Dijkstra {
 
@@ -47,6 +47,7 @@ public class Dijkstra {
             this.map = map;
         }
 
+        // prints a summary for the entire maps and routes
         public void print() {
 
             System.out.println("\n\nVertex \t\t Distance");
@@ -63,8 +64,8 @@ public class Dijkstra {
         }
     }
 
-    final int V;
-    int[][] graph;
+    final int V; // number of nodes
+    int[][] graph; // graph stores as a 2d array
 
     public Dijkstra(int[][] graph) {
 
@@ -73,6 +74,7 @@ public class Dijkstra {
 
     }
 
+    // returns the node cloosest to the src and has not yet been visited
     private int closestNode(int dist[], Boolean sptSet[]) {
 
         int min = Integer.MAX_VALUE, min_index = -1;
@@ -86,12 +88,14 @@ public class Dijkstra {
         return min_index;
     }
 
+    // returns distance from a certain node to another
     public int computeFor(int src, int dest) {
 
         return computeFor(src).getDistance(dest);
 
     }
 
+    //returns an instance of the ShortestPath class with the specified nod as the src
     @SuppressWarnings("unchecked")
     public ShortestPath computeFor(int src) {
 
@@ -147,6 +151,9 @@ public class Dijkstra {
 
     }
 
+
+    // Static methods helps thuser generate an instance easily
+    
     public static Dijkstra getInstance(int l, int max) {
         return getInstance(GraphGen.getWeightedRandomGraph(l, max));
     }
