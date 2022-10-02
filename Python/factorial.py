@@ -8,3 +8,9 @@ def fac(n):
     elif n>0:
         return n*fac(n-1)
 
+if __name__=='__main__':
+    print(fac(0))
+    print(fac(2))
+    print(fac(5))
+    print(fac(-5))
+    print(fac(7))
