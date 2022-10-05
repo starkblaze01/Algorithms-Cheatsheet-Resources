@@ -95,12 +95,11 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 - [Cool Python features for machine learning](https://github.com/chiphuyen/python-is-cool)
 - [A collection of Python Scripts made for fun, while exploring Python 🐍](https://github.com/thepushkarp/JFF-Python-Scripts)
 - [Tutorials on various Python modules and its applications](https://www.askpython.com/)
-
-### Packages:
-- [Pandas](https://pandas.pydata.org/docs/)
-- [Numpy](https://numpy.org/doc/)
-- [Matplotlib](https://matplotlib.org/stable/index.html)
-- [scikit-learn](https://scikit-learn.org/stable/)
+  #### Packages:
+  - [Pandas](https://pandas.pydata.org/docs/)
+  - [Numpy](https://numpy.org/doc/)
+  - [Matplotlib](https://matplotlib.org/stable/index.html)
+  - [scikit-learn](https://scikit-learn.org/stable/)
 
 #### Golang:
 - [Standard Go Project Layout](https://github.com/golang-standards/project-layout)
