@@ -10,8 +10,5 @@ def fac(n):
 
 
 if __name__=='__main__':
-    print(fac(0))
-    print(fac(2))
-    print(fac(5))
-    print(fac(-5))
-    print(fac(7))
+    inp = int(input('please enter positive number (1-9999) : '))
+    print(fac(inp))
