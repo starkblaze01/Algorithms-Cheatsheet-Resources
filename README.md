@@ -37,6 +37,9 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 ### GitBook:
 - [GitBook - A command-line tool(and Node.js library) for building beautiful books using GitHub/Git and Markdown](https://github.com/GitbookIO/gitbook)
 
+### Complexities:
+- [Big O Cheatsheet](https://www.bigocheatsheet.com/)
+
 ### VS-Code:
 - [Keyboard Shortcuts for Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 - [Keyboard Shortcuts for macOS](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
@@ -91,6 +94,12 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 ### Python:
 - [Cool Python features for machine learning](https://github.com/chiphuyen/python-is-cool)
 - [A collection of Python Scripts made for fun, while exploring Python 🐍](https://github.com/thepushkarp/JFF-Python-Scripts)
+- [Tutorials on various Python modules and its applications](https://www.askpython.com/)
+  #### Packages:
+  - [Pandas](https://pandas.pydata.org/docs/)
+  - [Numpy](https://numpy.org/doc/)
+  - [Matplotlib](https://matplotlib.org/stable/index.html)
+  - [scikit-learn](https://scikit-learn.org/stable/)
 
 #### Golang:
 - [Standard Go Project Layout](https://github.com/golang-standards/project-layout)
@@ -98,6 +107,7 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 ### Must have Chrome-Extensions:
 - [Momentum](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca)
 - [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb/related)
+- [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
 - [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=en)
 - [GitHub Repository Size](https://chrome.google.com/webstore/detail/github-repository-size/apnjnioapinblneaedefcnopcjepgkci?hl=en)
 - [Grammarly](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen?hl=en)
@@ -106,6 +116,11 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 - [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
 - [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)
 - [Refined GitHub](https://chrome.google.com/webstore/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf)
+- [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en)
+- [Angular DevTools](https://chrome.google.com/webstore/detail/angular-devtools/ienfalfjdbdpebioblfackkekamfmbnh)
+- [Vue.js devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
+- [GoFullPage - Full Page Screen Capture](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl?hl=en)
+- [Fake Filler](https://chrome.google.com/webstore/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo)
 
 ### Machine-Learning/Data Science/AI/DL:
 - [PyTorch tutorials](https://github.com/pytorch/tutorials)

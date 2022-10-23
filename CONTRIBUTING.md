@@ -5,7 +5,7 @@ You can contribute in several ways. Here are some examples:
 
 - Report and triage bugs.
 
-- Add new algirthms or resource.
+- Add new algorithms or resource.
 
 - Write technical documentation for users and contributors.
 
