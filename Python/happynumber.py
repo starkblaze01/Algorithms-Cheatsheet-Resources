@@ -8,5 +8,4 @@ def sq(n):
 def isHappy(n):
     while n:
         sq(n)
-    
 isHappy(19)
