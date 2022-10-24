@@ -15,4 +15,6 @@ x2, y2, z2 = int(x2), int(y2), int(z2)
 dx_2 = pow(x1-x2, 2)
 dy_2 = pow(y1-y2, 2)
 dz_2 = pow(z1 - z2, 2)
+
 print(sqrt(dx_2+dy_2+dz_2))
+
