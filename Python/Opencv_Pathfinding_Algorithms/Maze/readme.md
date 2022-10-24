@@ -1,0 +1,1 @@
+This time the illustration uses the same algortihms but does it on a randomly generated maze by the computer.It also puts random initial and final positions and then using the specified algorithms searches for the final position.
