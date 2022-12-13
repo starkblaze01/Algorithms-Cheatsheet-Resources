@@ -95,6 +95,7 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 - [Cool Python features for machine learning](https://github.com/chiphuyen/python-is-cool)
 - [A collection of Python Scripts made for fun, while exploring Python 🐍](https://github.com/thepushkarp/JFF-Python-Scripts)
 - [Tutorials on various Python modules and its applications](https://www.askpython.com/)
+- [Python Tutorials in Detail](https://www.scaler.com/topics/python/)
   #### Packages:
   - [Pandas](https://pandas.pydata.org/docs/)
   - [Numpy](https://numpy.org/doc/)
