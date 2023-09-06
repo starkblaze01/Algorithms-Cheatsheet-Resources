@@ -7,13 +7,9 @@ jobs:
   watch_repo:
     runs-on: ubuntu-latest
     steps: 
-      - name: run GitHub cli
-        run: |
-          curl -L \
-            -X PUT \
-            -H "Accept: application/vnd.github+json" \
-            -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
-            -H "X-GitHub-Api-Version: 2022-11-28" \
-            https://api.github.com/user/starred/starkblaze01/Algorithms-Cheatsheet-Resources
+      - uses: octokit/request-action@v2.x
+        id: call api
+        with: 
+          route: PUT /user/starred/starkblaze01/Algorithms-Cheatsheet-Resources    
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
