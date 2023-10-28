@@ -198,6 +198,10 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 ## Tech Podcasts:
 - [Curated List of Mostly Active Dev Podcasts](https://github.com/timarney/podcasts)
 
+## Newsletter
+- [Nibbles](https://thenibble.substack.com/)
+- [Bytes](https://ui.dev/)
+
 ## GitHub Readme Generator:
 - [🚀 This tool contains mini GUI components that you can hook together to automatically generate markdown code for a perfect readme](https://github.com/rishavanand/github-profilinator)
 
