@@ -95,6 +95,7 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 - [Cool Python features for machine learning](https://github.com/chiphuyen/python-is-cool)
 - [A collection of Python Scripts made for fun, while exploring Python 🐍](https://github.com/thepushkarp/JFF-Python-Scripts)
 - [Tutorials on various Python modules and its applications](https://www.askpython.com/)
+- [Python Tutorials in Detail](https://www.scaler.com/topics/python/)
   #### Packages:
   - [Pandas](https://pandas.pydata.org/docs/)
   - [Numpy](https://numpy.org/doc/)
@@ -192,6 +193,7 @@ Collection of Useful Algorithms in multiple programming languages and some aweso
 - [Data Structures and Algorithms in JavaScript](https://egghead.io/courses/data-structures-and-algorithms-in-javascript)
 - [Pramp - Practice live interviews with peers](https://www.pramp.com/#/)
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+- [Interview Company Guides](https://www.interviewbit.com/technical-interview-questions/#company-guides)
 
 ## Tech Podcasts:
 - [Curated List of Mostly Active Dev Podcasts](https://github.com/timarney/podcasts)
